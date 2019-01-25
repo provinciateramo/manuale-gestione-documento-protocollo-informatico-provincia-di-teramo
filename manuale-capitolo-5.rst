@@ -1,8 +1,8 @@
 
-.. _h1a243f6a465e36472f32545578686268:
+.. _h1e5d212d46166e651832522a64103248:
 
-5- DESCRIZIONE DEL FLUSSO DI LAVORAZIONE  DEI DOCUMENTI
-*******************************************************
+5- Descrizione del flusso di lavorazione dei documenti
+******************************************************
 
 Il presente capitolo descrive il flusso di lavorazione dei documenti ricevuti, spediti o interni e le regole di registrazione per i documenti pervenuti secondo particolari modalità di trasmissione.
 
