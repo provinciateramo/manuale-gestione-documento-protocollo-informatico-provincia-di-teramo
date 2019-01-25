@@ -1,0 +1,69 @@
+
+|REPLACE1|
+
+.. _h225260662f56b801e55143e7a754f45:
+
+Manuale di gestione del protocollo informatico, dei documenti e dell'archivio del Comune di Palermo
+###################################################################################################
+
+Area Organizzativa Omogenea: unica - \ |LINK1|\ 
+
+
+.. admonition:: Fonte delle informazioni contenute nel Manuale
+
+    La fonte del seguente documento è il “\ |STYLE0|\ ” della Provincia di Pistoia, approvato con Decreto Presidenziale. n. 101 del 12/04/2017, disponibile al seguente link: \ |LINK2|\ .
+    
+    Detto “manuale” coincide nei contenuti con il Manuale analogo dell’Agenzia per l’Italia Digitale (AgID): \ |LINK3|\  (sezione “documentazione allegata”).  
+    
+    Il manuale così individuato è stato adattato alle esigenze del Comune di Palermo.
+    Nell’elaborare un manuale di gestione del protocollo informatico, dei documenti e dell’archivio del Comune di Palermo è stata effettuata una ricognizione online per analizzare analoghi manuali redatti recentemente da altre pubbliche amministrazioni. E’ stato scelto tra tanti il manuale della Provincia di Pistoia e dell’AGID in quanto esso tratta un’ampia casistica di situazioni in cui si può ritrovare quotidianamente il personale di una PA nella gestione del protocollo informatico, dei documenti e dell’archivio.
+
+
+.. toctree:: 
+    :maxdepth: 3
+    :caption: Indice 
+
+    manuale-capitolo-1
+    manuale-capitolo-2
+    manuale-capitolo-3
+    manuale-capitolo-4
+    manuale-capitolo-5
+    manuale-capitolo-6
+    manuale-capitolo-7
+    manuale-capitolo-8
+    manuale-capitolo-9
+    manuale-capitolo-10
+    manuale-capitolo-11
+    manuale-capitolo-12
+    manuale-capitolo-13
+    manuale-allegato-1
+    manuale-allegato-2
+    manuale-allegato-3
+    manuale-allegato-4
+    proposta-delibera-giunta
+
+--------
+
+
+.. bottom of content
+
+
+.. |STYLE0| replace:: *Manuale di Gestione del protocollo informatico, dei documenti e dell’archivio*
+
+
+.. |REPLACE1| raw:: html
+
+    <img src=”https://raw.githubusercontent.com/cirospat/manuale-gestione-documento-protocollo-informatico-comune-palermo/master/static/comune-palermo-innovazione.png” />
+
+.. |LINK1| raw:: html
+
+    <a href="https://www.indicepa.gov.it/ricerca/n-dettaglioamministrazione.php?cod_amm=c_g273" target="_blank">Codice IPA: c_g273</a>
+
+.. |LINK2| raw:: html
+
+    <a href="http://www.provincia.pistoia.it/articolo/2017/09/manuale-di-gestione-del-protocollo-informatico-dei-documenti-e-dellarchivio" target="_blank">http://www.provincia.pistoia.it/articolo/2017/09/manuale-di-gestione-del-protocollo-informatico-dei-documenti-e-dellarchivio</a>
+
+.. |LINK3| raw:: html
+
+    <a href="https://www.agid.gov.it/piattaforme/sistema-gestione-procedimenti-amministrativi/flussi-documentali-protocollo-informatico" target="_blank">https://www.agid.gov.it/piattaforme/sistema-gestione-procedimenti-amministrativi/flussi-documentali-protocollo-informatico</a>
+
