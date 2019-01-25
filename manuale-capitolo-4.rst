@@ -1,7 +1,7 @@
 
-.. _h135567491e6f1b3568442c6c7a3f105d:
+.. _h5575215231305138626db802ee16a:
 
-4- MODALITÀ DI UTILIZZO DI STRUMENTI INFORMATICI PER LO SCAMBIO DI DOCUMENTI
+4- Modalità di utilizzo di strumenti informatici per lo scambio di documenti
 ****************************************************************************
 
 II presente capitolo fornisce indicazioni sulle modalità di utilizzo di strumenti informatici per lo scambio di documenti all'interno ed all'esterno dell'AOO.
