@@ -1,7 +1,7 @@
 
-.. _h6e3e6661497c594aa661d474615630:
+.. _h537d4f2f2a776b7c192b5c80784d34a:
 
-2- ELIMINAZIONE DEI REGISTRI DI PROTOCOLLO DIVERSI DAL REGISTRO UFFICIALE DI PROTOCOLLO INFORMATICO 
+2- Eliminazione dei registri di Protocollo diversi dal registro ufficiale di Protocollo informatico 
 ****************************************************************************************************
 
 II presente capitolo riporta la pianificazione, le modalità e le misure organizzative e tecniche finalizzate alla eliminazione dei protocolli diversi dal protocollo informatico.
