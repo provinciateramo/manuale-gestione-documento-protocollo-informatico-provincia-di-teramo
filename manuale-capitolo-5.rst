@@ -400,4 +400,4 @@ I messaggi generati  dai sistemi di interoperabilità relativi a protocolli in u
     <img src="https://raw.githubusercontent.com/cirospat/manuale-gestione-documento-protocollo-informatico-comune-palermo/master/static/immagine-manuale-capitolo-5.PNG" />
 .. |REPLACE2| raw:: html
 
-    <img src"https://raw.githubusercontent.com/cirospat/manuale-gestione-documento-protocollo-informatico-comune-palermo/master/static/immagine-manuale-capitolo-5-bis.PNG" />
+    <img src="https://raw.githubusercontent.com/cirospat/manuale-gestione-documento-protocollo-informatico-comune-palermo/master/static/immagine-manuale-capitolo-5-bis.PNG" />
