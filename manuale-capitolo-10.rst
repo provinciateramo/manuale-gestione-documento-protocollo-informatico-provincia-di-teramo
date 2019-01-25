@@ -18,7 +18,7 @@ II presente capitolo descrive il sistema di classificazione dei documenti, di fo
 
 La classificazione dei documenti, destinata a realizzare una corretta organizzazione dei documenti nell'archivio, è obbligatoria per legge e si avvale del piano di classificazione (titolario, disponibile come elenco \ |STYLE0|\ ). 
 
-Con il sistema di protocollo informatico, il Comune si avvale del Titolario di classificazione dei documenti predisposto dal Ministero per i Beni e le Attività Culturali – Direzione Generale per gli Archivi.
+Con il sistema di protocollo informatico, il Comune si avvale del \ |LINK1|\ , e redatto dal “Gruppo di lavoro per la formulazione di proposte e modelli per la riorganizzazione dell’archivio dei Comuni”, edizione dicembre 2005.
 
 .. _h6d786f26596e57456a284f1d14677d74:
 
@@ -291,3 +291,9 @@ La consultazione da utenti esterni all'Amministrazione, è disciplinata regolame
 .. |STYLE0| replace:: **nell’allegato 4**
 
 .. |STYLE1| replace:: **Il titolario da adottarsi con il presente manuale è riportato nell'allegato 4**
+
+
+.. |LINK1| raw:: html
+
+    <a href="https://www.agid.gov.it/piattaforme/sistema-gestione-procedimenti-amministrativi/flussi-documentali-protocollo-informatico" target="_blank">Titolario dell’Agenzia per l’Italia Digitale per i comuni, denominato “Piano di classificazione (= Titolario) per gli archivi dei Comuni italiani (seconda edizione)”</a>
+
