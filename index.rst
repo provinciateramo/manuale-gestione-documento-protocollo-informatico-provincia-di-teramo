@@ -6,6 +6,9 @@
 Manuale di gestione del protocollo informatico, dei documenti e dell'archivio del Comune di Palermo
 ###################################################################################################
 
+
+|REPLACE2|
+
 Area Organizzativa Omogenea: unica - \ |LINK1|\ 
 
 
@@ -54,6 +57,9 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
 .. |REPLACE1| raw:: html
 
     <img src="https://raw.githubusercontent.com/cirospat/manuale-gestione-documento-protocollo-informatico-comune-palermo/master/static/comune-palermo-innovazione.png" />
+.. |REPLACE2| raw:: html
+
+    <p><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Bozza</span></p>
 
 .. |LINK1| raw:: html
 
