@@ -114,37 +114,31 @@ Propone,
 
 Dare atto che:
 
-* il presente atto non comporta oneri riflessi diretti o indiretti sulla situazione economico finanziaria dell'Amministrazione Comunale. 
+    il presente atto non comporta oneri riflessi diretti o indiretti sulla situazione economico finanziaria dell'Amministrazione Comunale. 
 
-                                      Il Dirigente del Servizio Innovazione
-
-                                                                                                                   (Gabriele Marchese)
+Il Dirigente del Servizio Innovazione (Gabriele Marchese)
 
 Il Capo Area Servizi alla città, letta la superiore proposta e i relativi contenuti, appone il proprio visto per condivisione del suddetto parere tecnico.
 
-                                                  Il Dirigente Capo Area
-
-                                                                                                                       (Domenico Musacchia)
+Il Dirigente Capo Area   (Domenico Musacchia)
 
                  
 
 Il Sindaco/l’Assessore al ramo, letta la superiore proposta e ritenuto che la stessa rientra tra gli obiettivi programmati dell’Ente, ne propone l’adozione da parte della Giunta Comunale.    
 
-        									            Il Sindaco/l’Assessore
-
-                                                       (Iolanda Riolo)
+Il Sindaco/l’Assessore  (Iolanda Riolo)
 
  
 
 Il Dirigente responsabile di Ragioneria esprime in merito, ai sensi e per gli effetti dell’art. 12 della L.R. n. 30/2000, parere (favorevole/contrario) in ordine alla regolarità contabile della proposta di deliberazione in oggetto (motivare il parere contrario e citare la norma violata).
 
-                                                                                                 Il Dirigente Responsabile di Ragioneria
-
-                                                (Bouslav Basile)
+Il Dirigente Responsabile di Ragioneria (Bouslav Basile)
 
         
 
-Estratto di deliberazione di G.C.
+|
+
+Estratto di deliberazione di G.C. 
 
 COMUNE DI PALERMO
 
@@ -152,7 +146,7 @@ Area dei Servizi alla città -  Servizio Innovazione
 
 Deliberazione di G.C. n.          del               .2019
 
-Oggetto: approvazione del “manuale di gestione del protocollo informatico, dei documenti e dell'archivio del Comune di Palermo”
+Oggetto: approvazione del “manuale di gestione del protocollo informatico, dei documenti e dell'archivio del Comune di Palermo”.
 
 La Giunta Comunale
 
