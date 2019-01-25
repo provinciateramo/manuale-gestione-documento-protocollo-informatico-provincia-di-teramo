@@ -2,7 +2,7 @@
 
 
 [**manuale-gestione-documento-protocollo-informatico-comune-palermo**](https://.readthedocs.io)  
-<p><img class="imageLeft" style="width: 33px; height: 30px;" src="https://schema-tipo.readthedocs.io/it/latest/_static/logo.jpg"></p>
+<p><img class="imageLeft" style="width: 33px; height: 30px;" src="https://raw.githubusercontent.com/cirospat/manuale-gestione-documento-protocollo-informatico-comune-palermo/master/static/comune-palermo-innovazione.png"></p>
 
 Questo repository contiene i file di impostazione per il progetto tipo che viene esposto su [**manuale-gestione-documento-protocollo-informatico-comune-palermo**](https://.readthedocs.io). 
 
