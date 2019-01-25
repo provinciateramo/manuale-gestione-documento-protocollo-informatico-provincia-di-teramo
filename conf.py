@@ -13,8 +13,8 @@ __version__ = '1.0'
 
 source_suffix = '.rst'
 master_doc = 'index'
-project = 'schema tipo RTD'
-copyright = 'change-me'
+project = 'Manuale di gestione del documento, protocollo e archivio informatico del comune di Palermo'
+copyright = 'CC BY SA'
 
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
@@ -40,8 +40,8 @@ def setup(app):
 """
 #latex_documents = []
 
-latex_logo = "static/logo.jpg"
-html_logo = "static/logo.jpg"
+latex_logo = "static/comune-palermo-innovazione.png"
+html_logo = "static/comune-palermo-innovazione.png"
 
 
 # Adding Custom CSS or JavaScript to a Sphinx Project: al seguente link ci sono esempi
