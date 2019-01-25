@@ -53,7 +53,7 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
 
 .. |REPLACE1| raw:: html
 
-    <img src=”https://raw.githubusercontent.com/cirospat/manuale-gestione-documento-protocollo-informatico-comune-palermo/master/static/comune-palermo-innovazione.png” />
+    <img src="https://raw.githubusercontent.com/cirospat/manuale-gestione-documento-protocollo-informatico-comune-palermo/master/static/comune-palermo-innovazione.png" />
 
 .. |LINK1| raw:: html
 
