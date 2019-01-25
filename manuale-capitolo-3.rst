@@ -1,7 +1,7 @@
 
-.. _h4c311255215492e277e756d406e425a:
+.. _h3639555d16320773b6721b2e62268:
 
-3- MISURE DI SICUREZZA 
+3- Misure di sicurezza 
 ***********************
 
 Il presente capitolo descrive le misure di sicurezza adottate per la formazione, la gestione, la trasmissione, l'interscambio, l'accesso e la conservazione dei documenti informatici, anche in relazione alle norme sulla protezione dei dati personali .
