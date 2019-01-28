@@ -1,8 +1,8 @@
 
-.. _h30525a304a7f1e1f411f3e102513132:
+.. _h3d4e2f1a2376341e694128101502539:
 
-Allegato 4 - Titolario
-======================
+Allegato 4 - Titolario del Protocollo del Comune
+================================================
 
 Il Titolario di riferimento  è quello indicato dall’Agenzia per l’Italia Digitale per i comuni (\ |LINK1|\ ), denominato “\ |STYLE0|\ ”, e redatto dal “Gruppo di lavoro per la formulazione di proposte e modelli per la riorganizzazione dell’archivio dei Comuni”, edizione dicembre 2005.
 
