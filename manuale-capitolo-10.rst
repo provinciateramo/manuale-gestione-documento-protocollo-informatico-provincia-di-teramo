@@ -86,7 +86,7 @@ All'interno del software di protocollo informatico è stata attivata l'inibizion
 10.3.1 Fascicolazione dei documenti 
 ------------------------------------
 
-Allo stato attuale sono fascicolati solo documenti cartacei. Il sistema fascicolazione elettronica è in corso di attuazione.
+Il sistema fascicolazione elettronica è in corso di attuazione.
 
 I documenti prodotti o ricevuti dall’Amministrazione, indipendentemente dal supporto sul quale sono formati, sono di norma riuniti in fascicoli. L’operazione viene effettuata dal soggetto che gestisce la pratica. I documenti sono archiviati all’interno di ciascun fascicolo secondo l’ordine cronologico di registrazione. Se il documento ha degli allegati, questi debbono rimanere uniti al documento cui si riferiscono. 
 
@@ -121,7 +121,7 @@ Qualora un documento dia luogo all’avvio di un autonomo affare o procedimento 
 10.3.4     Fascicoli relativi a persone fisiche o giuridiche
 ------------------------------------------------------------
 
-Quando il documento non dia luogo ad un affare o procedimento amministrativo per ogni persona fisica o giuridica potrà  essere creato un fascicolo nominativo. Il fascicolo verrà  aperto al momento dell’inizio del rapporto con il Comune  e chiuso al momento della cessazione dello stesso. 
+Quando il documento non dia luogo ad un affare o procedimento amministrativo per ogni persona fisica o giuridica potrà  essere creato un fascicolo nominativo. Il fascicolo verrà  aperto al momento dell’inizio del rapporto con il Comune e chiuso al momento della cessazione dello stesso. 
 
 .. _h4a2c273153f5b5f73603d5bb63530:
 
@@ -149,9 +149,9 @@ La serie archivistica consiste in un raggruppamento di unità archivistiche (doc
 
 I documenti soggetti a registrazione particolare costituiscono una serie archivistica. Tali documenti sono organizzati in uno specifico registro di repertorio integrato nel sistema di gestione documentale. Con riguardo alla gestione dei documenti, è previsto che per ogni documento che costituisce serie archivistica soggetta a registrazione particolare dell’ente siano, di norma, disponibili nella serie archivistica di appartenenza e nel fascicolo di riferimento pertanto: 
 
-uno verrà inserito nel registro di repertorio con il numero progressivo di repertorio; 
+* uno verrà inserito nel registro di repertorio con il numero progressivo di repertorio; 
 
-l’altro, verrà  conservato nel relativo fascicolo, insieme ai documenti che afferiscono al processo/procedimento. 
+* l’altro, verrà  conservato nel relativo fascicolo, insieme ai documenti che afferiscono al processo/procedimento. 
 
 Nel repertorio generale sono riportati gli elementi obbligatori del documento (data, classifica e numero di repertorio) che identificano il documento all’interno del repertorio stesso. Il repertorio è costantemente aggiornato. 
 
@@ -164,11 +164,11 @@ L’Archivio del Comune di Palermo è costituito dal complesso dei documenti pro
 
 Pur essendo un insieme unico, convenzionalmente – per motivi organizzativi, tecnici, funzionali e di responsabilità – l’archivio si suddivide in:
 
-* archivio corrente che comprende i documenti afferenti i fascicoli delle attività (in senso generale) in corso e comunque verso i quali sussiste un interesse attuale;
+* \ |STYLE3|\  che comprende i documenti afferenti i fascicoli delle attività (in senso generale) in corso e comunque verso i quali sussiste un interesse attuale;
 
-* archivio di deposito che comprende i documenti afferenti i fascicoli delle attività (in senso generale) concluse da meno di 40 anni;
+* \ |STYLE4|\  che comprende i documenti afferenti i fascicoli delle attività (in senso generale) concluse da meno di 40 anni;
 
-* archivio storico che comprende i documenti afferenti i fascicoli delle attività (in senso generale), selezionati per la conservazione permanente, conclusi da oltre 40 anni.
+* \ |STYLE5|\  che comprende i documenti afferenti i fascicoli delle attività (in senso generale), selezionati per la conservazione permanente, conclusi da oltre 40 anni.
 
 Ai Responsabili dei procedimenti amministrativi o loro delegati, è demandata la responsabilità della gestione e della custodia dell'archivio corrente per la parte di loro competenza, e nei casi che sia stato disposto l'accesso riservato, anche dell'archivio di deposito.
 
@@ -176,11 +176,11 @@ La documentazione resta in giacenza presso i singoli Servizi per il periodo rite
 
 I Servizi conservano i registri espressamente previsti da norme di legge o regolamentari per il tempo ritenuto necessario, con l'obbligo di trasferirli all'archivio di deposito non appena la loro conservazione presso il Servizio non sia più necessaria.
 
-Periodicamente i Servizi, a mezzo di personale  incaricato, previa verifica del loro ordinamento a cura dei responsabili dei procedimenti, provvedono a trasferire all'archivio di deposito i fascicoli relativi ad affari o  procedimenti conclusi nonché la documentazione  non più necessaria allo svolgimento delle attività correnti accompagnata da appositi elenchi descrittivi e di consistenza.
+Periodicamente i Servizi, a mezzo di personale  incaricato, previa verifica del loro ordinamento a cura dei responsabili dei procedimenti, provvedono a trasferire all'archivio di deposito i fascicoli relativi ad affari o procedimenti conclusi nonché la documentazione  non più necessaria allo svolgimento delle attività correnti accompagnata da appositi elenchi descrittivi e di consistenza.
 
 Sulla base di tali specifici elenchi, il personale dell'ufficio archivio compone gli elenchi annuali della documentazione trasferita nell'archivio di deposito proveniente da tutti i Servizi dell'Ente.
 
-La documentazione  deve essere conferita all’archivio  solo ed esclusivamente raccolta in faldoni, raccoglitori ad anelli, cartelle con bottone e, in genere, in altro tipo di contenitore rigido chiudibile.
+La documentazione  deve essere conferita all’archivio solo ed esclusivamente raccolta in faldoni, raccoglitori ad anelli, cartelle con bottone e, in genere, in altro tipo di contenitore rigido chiudibile.
 
 Sul dorso dei faldoni deve essere riportata in modo chiaro la specifica tipologia di materiale contenuto, escludendo pertanto sigle, abbreviazioni o numerazioni tali da impedire agli addetti una immediata identificazione dell’argomento trattato. 
 
@@ -217,7 +217,7 @@ La richiesta di autorizzazione allo scarto deve essere formulata ai sensi dell'a
 
 La proposta di scarto è costituita da una tabella contenente:
 
-* tipologia degli atti che s'intendono eliminare;
+* tipologia degli atti che si intendono eliminare;
 
 * estremi cronologici degli atti;
 
@@ -271,12 +271,12 @@ La consultazione avviene di norma presso l'ufficio Archivio sotto la diretta sor
 
 L'eventuale affidamento temporaneo di un fascicolo già versato all'archivio di deposito, o storico, ad un ufficio del medesimo UOR/UU, od altro UOR/UU, avviene solamente per il tempo strettamente necessario all'esaurimento di una procedura o di un procedimento amministrativo.
 
-Dell’affidamento temporaneo rimane traccia nella posizione fisica occupata dal fascicolo in archivio, e con apposita annotazione di carico e scarico, su apposito registro cartaceo nella quale sono riportate la data della richiesta, la data della restituzione,  l'oggetto del fascicolo e la firma autografa di chi l'ha preso in consegna.
+Dell’affidamento temporaneo rimane traccia nella posizione fisica occupata dal fascicolo in archivio, e con apposita annotazione di carico e scarico, su apposito registro cartaceo nella quale sono riportate la data della richiesta, la data della restituzione, l'oggetto del fascicolo e la firma autografa di chi l'ha preso in consegna.
 
-.. _h73165418266b524f28d271d4a1ba78:
+.. _h6134b731013594b2a7a7745f764423:
 
-10.7.4.   Consultazione da parte di utenti  esterni all'Amministrazione 
-------------------------------------------------------------------------
+10.7.4.   Consultazione da parte di utenti esterni all'Amministrazione 
+-----------------------------------------------------------------------
 
 La consultazione da utenti esterni all'Amministrazione, è disciplinata regolamento per la disciplina dell'accesso ai documenti amministrativi  è consultabile sul sito istituzionale dell'Ente.
 
@@ -289,6 +289,12 @@ La consultazione da utenti esterni all'Amministrazione, è disciplinata regolame
 .. |STYLE1| replace:: **Il titolario da adottarsi con il presente manuale è riportato nell'**
 
 .. |STYLE2| replace:: **del presente manuale**
+
+.. |STYLE3| replace:: **archivio corrente**
+
+.. |STYLE4| replace:: **archivio di deposito**
+
+.. |STYLE5| replace:: **archivio storico**
 
 
 .. |LINK1| raw:: html
