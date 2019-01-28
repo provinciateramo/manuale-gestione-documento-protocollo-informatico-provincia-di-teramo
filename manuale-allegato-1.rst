@@ -142,9 +142,7 @@ persistente al documento informatico, al fascicolo informatico, all’aggregazio
 
 \ |STYLE59|\ : soggetto responsabile dell’insieme delle attività elencate nell’articolo 8, comma 1 delle regole tecniche del sistema di conservazione;
 
-\ |STYLE60|\ : la persona fisica, la persona giuridica, la pubblica
-
-amministrazione e qualsiasi altro ente, associazione od organismo preposti dal titolare al trattamento di dati personali; 
+\ |STYLE60|\ : la persona fisica, la persona giuridica, la pubblica amministrazione e qualsiasi altro ente, associazione od organismo preposti dal titolare al trattamento di dati personali; 
 
 \ |STYLE61|\ : soggetto al quale compete la definizione delle soluzioni tecniche ed organizzative in attuazione delle disposizioni in materia di sicurezza;
 
