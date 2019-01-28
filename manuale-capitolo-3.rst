@@ -35,9 +35,9 @@ I documenti dell'AOO sono prodotti con l'ausilio di applicativi di automazione u
 
 I documenti informatici redatti dall'AOO con i prodotti d'automazione ufficio sono convertiti, prima della loro sottoscrizione con firma digitale, nei formati standard indicati dall'allegato 2 del D.P.C.M. 3 dicembre 2013, al fine di garantire la leggibilità per altri sistemi, la non alterabilità durante le fasi di accesso e conservazione e l'immutabilità nel tempo del contenuto e della struttura del documento.
 
-Per attribuire in modo certo la titolarità del documento, lo stesso è sottoscritto con firma digitale o altra firma elettronica apposta ai sensi del D.P.C.M. 22 febbraio 2013 “Regole tecniche in materia di generazione, apposizione e verifica delle firme elettroniche avanzate, qualificate e digitali”.
+Per attribuire in modo certo la titolarità del documento, lo stesso è sottoscritto con firma digitale o altra firma elettronica apposta ai sensi del D.P.C.M. 22 febbraio 2013 “\ |STYLE0|\ ”.
 
-Per garantire le caratteristiche di immodificabilità e di integrità, nonché attribuire una data certa a un documento informatico prodotto all'interno della AOO, si applicano le regole di cui al D.P.C.M. 13 novembre 2014 “Regole tecniche in materia di formazione, trasmissione, copia, duplicazione, riproduzione e validazione temporale dei documenti informatici nonché di formazione e conservazione dei documenti informatici delle pubbliche amministrazioni ai sensi del Codice dell’amministrazione digitale di cui al decreto legislativo n. 82 del 2005.”
+Per garantire le caratteristiche di immodificabilità e di integrità, nonché attribuire una data certa a un documento informatico prodotto all'interno della AOO, si applicano le regole di cui al D.P.C.M. 13 novembre 2014 “\ |STYLE1|\ ”
 
 .. _h6547537d5592b1563635f7d293b1b80:
 
@@ -64,14 +64,14 @@ Il sistema di gestione informatica dei documenti:
 
 #. consente la corretta organizzazione dei documenti nell'ambito del sistema di classificazione d'archivio adottato;
 
-#. consente la produzione del “\ |STYLE0|\ ” (ai sensi dell’art. 52, del D.P.R. 28 dicembre 2000, n. 445). L’art. 7, comma 5 del DPCM 3.12.201310, in tema di misure di sicurezza dei sistemi di protocollo informatico, prevede che il registro giornaliero di protocollo sia trasmesso, entro la giornata lavorativa successiva a quella della sua produzione, al Sistema di Conservazione, garantendone l'immodificabilità del contenuto. 
+#. consente la produzione del “\ |STYLE2|\ ” (ai sensi dell’art. 52, del D.P.R. 28 dicembre 2000, n. 445). L’art. 7, comma 5 del DPCM 3.12.201310, in tema di misure di sicurezza dei sistemi di protocollo informatico, prevede che il registro giornaliero di protocollo sia trasmesso, entro la giornata lavorativa successiva a quella della sua produzione, al Sistema di Conservazione, garantendone l'immodificabilità del contenuto. 
 
 .. _h3d765d3c104b277920506d576e3359:
 
 3.2.1  I contenuti del registro giornaliero di protocollo
 ---------------------------------------------------------
 
-Il registro giornaliero di protocollo deve ricomprendere le informazioni minime richieste dall’art. 53, comma 1, del DPR 445/2000 e dalla Circolare n. 60 del 2013. In particolare, la registrazione di protocollo per ogni documento ricevuto o spedito richiede la memorizzazione delle seguenti informazioni:
+Il \ |STYLE3|\  deve ricomprendere le informazioni minime richieste dall’art. 53, comma 1, del DPR 445/2000 e dalla Circolare n. 60 del 2013. In particolare, la registrazione di protocollo per ogni documento ricevuto o spedito richiede la memorizzazione delle seguenti informazioni:
 
 #. il numero di protocollo del documento generato automaticamente dal sistema;
 
@@ -89,7 +89,7 @@ Il registro giornaliero di protocollo deve ricomprendere le informazioni minime 
 
 Il registro giornaliero di protocollo deve contenere, in modo ordinato e progressivo, l’elenco delle informazioni inserite con l’operazione di registrazione di protocollo nell’arco di uno stesso giorno.
 
-La scelta dei \ |STYLE1|\  \ |STYLE2|\  deve essere strumentale a che il documento assuma le caratteristiche di immodificabilità e di staticità e a tal uopo è necessario fare riferimento all’allegato 2, “Formati”, delle regole tecniche.
+La scelta dei \ |STYLE4|\  \ |STYLE5|\  deve essere strumentale a che il documento assuma le caratteristiche di immodificabilità e di staticità e a tal uopo è necessario fare riferimento all’allegato 2, denominato “Formati”, delle regole tecniche.
 
 Come consigliato dall’Agenzia per l’Italia Digitale nel documento “\ |LINK1|\ ”, è opportuno privilegiare formati le cui specifiche tecniche siano pubbliche, utilizzando quelli che abbiano ricevuto l’approvazione di organismi internazionali che definiscono norme tecniche (ISO, CEN, ECMA, W3C ecc.). Possono essere validamente utilizzati i seguenti formati: Portable Document Format (PDF), tra cui si suggerisce l’uso del formato PDF/A creato per l’archiviazione nel lungo periodo; Office Open XML nella sua estensione DOCX; Open Document (ODF); TXT (Codifica UTF 8); XML; JPEG; PNG. In ogni caso il Registro giornaliero di protocollo inviato al Sistema di Conservazione dovrà essere privo di elementi attivi, tra cui macro e campi variabili.
 
@@ -100,17 +100,17 @@ Come consigliato dall’Agenzia per l’Italia Digitale nel documento “\ |LINK
 
 Il flusso di gestione del documento informatico, integrato pienamente con il protocollo informatico, è così strutturato:
 
-#. il protocollo informatico genera il documento informatico tramite l’uso di un editor di testo. Nell’interfaccia visuale dell'applicativo, la maschera del protocollo informatico prevede la possibilità di selezionare diverse opzioni, quali ad esempio la modalità di invio del documento (email, PEC, posta ordinaria, ...) o la pubblicazione automatica all’albo pretorio in caso di atti amministrativi oggetto di pubblicazione (deliberazioni, determinazioni, ordinanze, avvisi, bandi, ecc);
+#. il protocollo informatico, o un applicativo gestionale interoperabile con il protocollo informatico, genera il documento informatico tramite l’uso di un editor di testo. Nell’interfaccia visuale dell'applicativo, la maschera del protocollo informatico, o un applicativo gestionale interoperabile con il protocollo informatico, prevede la possibilità di selezionare diverse opzioni, quali ad esempio la modalità di invio del documento (email, PEC, posta ordinaria, ...) o la pubblicazione automatica all’albo pretorio in caso di atti amministrativi oggetto di pubblicazione (deliberazioni, determinazioni, ordinanze, avvisi, bandi, ecc), e i tag per permettere una metadatazione del documento informatico necessaria nelle attività di ricerca;
 
-#. il documento informatico generato dall’editor testuale del protocollo viene analizzato, ove ritenuto necessario modificato, e quindi firmato digitalmente dal dirigente responsabile del documento;
+#. il documento informatico generato dall’editor testuale del protocollo, o dell’applicativo gestionale interoperabile con il protocollo informatico, viene analizzato, e ove ritenuto necessario modificato, e quindi firmato digitalmente dal dirigente responsabile del documento;
 
-#. dopo l’apposizione della firma digitale del dirigente, il documento informatico viene protocollato secondo i criteri di fascicolazione atti ad assicurarne una corretta  conservazione e tracciabilità nel tempo; i criteri di fascicolazioni sono trattati in questo manuale successivamente in un capitolo specifico;
+#. dopo l’apposizione della firma digitale del dirigente, il documento informatico viene protocollato nel protocollo informatico secondo i criteri di fascicolazione atti ad assicurarne una corretta  conservazione e tracciabilità nel tempo; i criteri di fascicolazioni sono trattati in questo manuale successivamente in un capitolo specifico;
 
 #. i documenti informatici, una volta ottenuta la protocollazione, seguono il flusso di destinazione secondo il seguente schema:
 
     #. tutti i documenti informatici che rappresentano atti amministrativi con destinatari specifici vengono inviati via email, PEC (e ove necessario stampati e inviati via posta) agli indirizzi specificati negli atti stessi; 
 
-    #. tutti i documenti informatici che rappresentano atti amministrativi senza destinatari specifici e che sono, ai sensi di legge, oggetto di pubblicazione all’albo pretorio (es.: deliberazioni, determinazioni, ordinanze, avvisi, bandi, ecc.), vengono pubblicati automaticamente dal sistema gestionale, in formato accessibile ai portatori di disabilità, sul sito web istituzionale nella sezione specifica “albo pretorio”.
+    #. tutti i documenti informatici che rappresentano atti amministrativi senza destinatari specifici e che sono, ai sensi di legge, oggetto di pubblicazione all’albo pretorio (es.: deliberazioni, determinazioni, ordinanze, avvisi, bandi, ecc.), vengono pubblicati automaticamente dal sistema gestionale informatico (protocollo informatico o altro applicativo interoperabile con il protocollo informatico), in formato accessibile ai portatori di disabilità, sul sito web istituzionale nella sezione specifica “albo pretorio”.
 
 .. _h741de3c706f2005f2d5555384226e:
 
@@ -158,7 +158,7 @@ Il server di posta certificata del fornitore esterno (provider) di cui si avvale
 
 * gestione automatica delle ricevute di ritorno. 
 
-Lo scambio per via telematica di messaggi protocollati tra AOO diverse presenta, in generale, esigenze specifiche in termini di sicurezza, quali quelle connesse con la protezione dei dati personali, sensibili e/o giudiziari come previsto dal D. Lgs.  del 30 giugno 2003, n. 196.
+Lo scambio per via telematica di messaggi protocollati tra AOO diverse presenta, in generale, esigenze specifiche in termini di sicurezza, quali quelle connesse con la protezione dei dati personali, sensibili e/o giudiziari come previsto dalla normativa vigente in materia di tutela della privacy.
 
 Per garantire alla AOO ricevente la possibilità di verificare l'autenticità della provenienza, l'integrità del messaggio e la riservatezza del medesimo, viene utilizzata la tecnologia di firma digitale a disposizione delle amministrazioni coinvolte nello scambio dei messaggi.
 
@@ -225,14 +225,14 @@ Allo stato attuale non è previsto l'accesso al sistema di gestione informatica 
 3.7       Accesso da parte di altre pubbliche amministrazioni
 =============================================================
 
-Allo stato attuale non è previsto l'accesso al sistema di gestione informatica dei documenti da parte di altre pubbliche amministrazioni. Tuttavia è previsto a breve che l'accesso al sistema di gestione informatica dei documenti dell'amministrazione da parte di altre AOO deve avviene nel rispetto dei principi della cooperazione applicativa, secondo gli standard e il modello architetturale del Sistema Pubblico di Connettività (SPC) di cui agli art. 72 e ss. del d.lgs 7 marzo 2005 n. 82.
+Allo stato attuale non è previsto l'accesso al sistema di gestione informatica dei documenti da parte di altre pubbliche amministrazioni. Tuttavia è previsto a breve che l'accesso al sistema di gestione informatica dei documenti dell'amministrazione da parte di altre AOO deve avvenire nel rispetto dei principi della cooperazione applicativa, secondo gli standard e il modello architetturale del Sistema Pubblico di Connettività (SPC) di cui agli art. 72 e ss. del d.lgs 7 marzo 2005 n. 82.
 
 .. _h714a11687a447441463c3651105e64a:
 
 3.8    Conservazione dei documenti informatici
 ==============================================
 
-Il Comune utilizza sistemi di gestione documentale automatizzata. La funzione di conservazione dei documenti informatici, tuttora in fase di implementazione (al momento vengono  inviate in conservazione le banche dati dell’Amministrazione e i documenti prodotti attraverso l’applicativo Libro Firma per l’inoltro della corrispondenza agli indirizzi esterni), deve avvenire nel rispetto delle modalità e tecniche specificate dal D.P.C.M. 3 dicembre 2013 "Regole tecniche in materia di sistema di conservazione” e del D.P.C.M. 13 novembre 2014 “Regole tecniche in materia di formazione, trasmissione, copia, duplicazione, riproduzione e validazione temporale dei documenti informatici nonché di formazione e conservazione dei documenti informatici delle pubbliche amministrazioni ai sensi degli articoli 20, 22, 23 -bis , 23 -ter , 40, comma 1, 41, e 71, comma 1, del Codice dell’amministrazione digitale di cui al decreto legislativo n. 82 del 2005”.
+Il Comune utilizza sistemi di gestione documentale automatizzata. La funzione di conservazione dei documenti informatici, tuttora in fase di implementazione, deve avvenire nel rispetto delle modalità e tecniche specificate dal D.P.C.M. 3 dicembre 2013 "\ |STYLE6|\ ” e del D.P.C.M. 13 novembre 2014 “\ |STYLE7|\ ”.
 
 Le procedure di archiviazione saranno effettuate al momento della migrazione dei documenti informatici dal sistema di gestione corrente a quello destinato alla conservazione.
 
@@ -246,11 +246,21 @@ La conservazione dovrà garantire  l’integrità e l’affidabilità dei docume
 .. bottom of content
 
 
-.. |STYLE0| replace:: **registro giornaliero di protocollo**
+.. |STYLE0| replace:: *Regole tecniche in materia di generazione, apposizione e verifica delle firme elettroniche avanzate, qualificate e digitali*
 
-.. |STYLE1| replace:: **formati**
+.. |STYLE1| replace:: *Regole tecniche in materia di formazione, trasmissione, copia, duplicazione, riproduzione e validazione temporale dei documenti informatici nonché di formazione e conservazione dei documenti informatici delle pubbliche amministrazioni ai sensi del Codice dell’Amministrazione Digitale di cui al decreto legislativo n. 82 del 2005.*
 
-.. |STYLE2| replace:: **idonei alla conservazione del Registro giornaliero di protocollo**
+.. |STYLE2| replace:: **registro giornaliero di protocollo**
+
+.. |STYLE3| replace:: **registro giornaliero di protocollo**
+
+.. |STYLE4| replace:: **formati**
+
+.. |STYLE5| replace:: **idonei alla conservazione del Registro giornaliero di protocollo**
+
+.. |STYLE6| replace:: *Regole tecniche in materia di sistema di conservazione*
+
+.. |STYLE7| replace:: *Regole tecniche in materia di formazione, trasmissione, copia, duplicazione, riproduzione e validazione temporale dei documenti informatici nonché di formazione e conservazione dei documenti informatici delle pubbliche amministrazioni ai sensi degli articoli 20, 22, 23 -bis , 23 -ter , 40, comma 1, 41, e 71, comma 1, del Codice dell’amministrazione digitale di cui al decreto legislativo n. 82 del 2005*
 
 
 .. |LINK1| raw:: html
