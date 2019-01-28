@@ -37,7 +37,7 @@ Inoltre, sono esclusi dalla registrazione di protocollo tutti documenti che per 
 
 Al di fuori delle tipologie documentali sopra elencate, la responsabilità di ulteriori esclusioni dalla registrazione di protocollo è in capo ai Responsabili dei procedimenti.
 
-Fanno parte dei documenti esclusi quelli elencati nell’\ |STYLE0|\ .
+Fanno parte dei documenti esclusi quelli elencati nell’\ |LINK1|\ .
 
 .. _h147c147836727d341715325f78423b:
 
@@ -84,4 +84,7 @@ Oltre a quelli elencati possono essere istituiti altri registri con le stesse ca
 .. bottom of content
 
 
-.. |STYLE0| replace:: **allegato 3**
+.. |LINK1| raw:: html
+
+    <a href="https://manuale-gestione-protocollo-documento-informatico-palermo.readthedocs.io/it/latest/manuale-allegato-3.html" target="_blank">allegato 3</a>
+
