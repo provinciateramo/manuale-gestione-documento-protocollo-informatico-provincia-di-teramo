@@ -92,9 +92,7 @@ La registrazione di protocollo di un documento cartaceo ricevuto, così come ill
 11.4    Elementi facoltativi delle registrazioni di protocollo 
 ===============================================================
 
-La registrazione di protocollo di un documento, oltre ai dati obbligatori di cui al precedente punto 
-
-11.3, può contenere i seguenti elementi facoltativi:
+La registrazione di protocollo di un documento, oltre ai dati obbligatori di cui al precedente punto 11.3, può contenere i seguenti elementi facoltativi:
 
 * modalità di ricezione / spedizione del documento;
 
