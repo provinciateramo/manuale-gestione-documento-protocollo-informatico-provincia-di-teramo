@@ -39,11 +39,6 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
     manuale-capitolo-11
     manuale-capitolo-12
     manuale-capitolo-13
-    manuale-allegato-1
-    manuale-allegato-2
-    manuale-allegato-3
-    manuale-allegato-4
-    proposta-delibera-giunta
 
 
 .. toctree:: 
