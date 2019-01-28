@@ -4,9 +4,7 @@
 Allegato 1 - Definizioni
 ========================
 
-Glossario dei termini contenuti nelle regole tecniche di cui all’articolo 71 del
-
-decreto legislativo 7 marzo 2005, n. 82 e successive modificazioni e integrazioni in materia di documento informatico e sistema di conservazione dei documenti informatici che si aggiungono alle definizione del citato decreto ed a quelle del decreto del Presidente della Repubblica del 28 dicembre 2000, n. 445 e successive modificazioni e integrazioni.
+Glossario dei termini contenuti nelle regole tecniche di cui all’articolo 71 del decreto legislativo 7 marzo 2005, n. 82 e successive modificazioni e integrazioni in materia di documento informatico e sistema di conservazione dei documenti informatici che si aggiungono alle definizione del citato decreto ed a quelle del decreto del Presidente della Repubblica del 28 dicembre 2000, n. 445 e successive modificazioni e integrazioni.
 
 \ |STYLE0|\ : operazione che consente a chi ne ha diritto di prendere visione ed estrarre copia dei documenti informatici;
 
@@ -14,7 +12,7 @@ decreto legislativo 7 marzo 2005, n. 82 e successive modificazioni e integrazion
 
 \ |STYLE2|\ :  caratteristica che esprime il livello di fiducia che l’utente ripone nel documento informatico;
 
-\ |STYLE3|\ : aggregazione di documenti informatici o di fascicoli informatici, riuniti per caratteristiche omogenee, in relazione alla natura e alla forma dei documenti o in relazione all’oggetto e alla materia o in relazione alle funzioni dell’ente;
+\ |STYLE3|\ : aggregazione di documenti informatici o di fascicoli informatici, riuniti per caratteristiche omogenee, in relazione alla natura e alla forma dei documenti o in relazione all’oggetto e alla materia o in relazione alle funzioni dell’ente; 
 
 \ |STYLE4|\ : complesso organico di documenti, di fascicoli e di aggregazioni documentali di qualunque natura e formato, prodotti o comunque acquisiti da un soggetto produttore durante lo svolgimento dell’attività; 
 
@@ -28,21 +26,17 @@ decreto legislativo 7 marzo 2005, n. 82 e successive modificazioni e integrazion
 
 \ |STYLE9|\ : collezione di dati registrati e correlati tra loro;
 
-\ |STYLE10|\ : soggetto, pubblico o privato, che svolge attività di certificazione
-
-del processo di conservazione al quale sia stato riconosciuto, dall’Agenzia per l’Italia digitale, il possesso dei requisiti del livello più elevato, in termini di qualità e di sicurezza;
+\ |STYLE10|\ : soggetto, pubblico o privato, che svolge attività di certificazione del processo di conservazione al quale sia stato riconosciuto, dall’Agenzia per l’Italia digitale, il possesso dei requisiti del livello più elevato, in termini di qualità e di sicurezza;
 
 \ |STYLE11|\ : arco temporale di esistenza del documento informatico, del fascicolo informatico, dell’aggregazione documentale informatica o dell’archivio informatico dalla sua formazione alla sua eliminazione o conservazione nel tempo;
 
 \ |STYLE12|\ : attività di organizzazione logica di tutti i documenti secondo uno schema articolato in voci individuate attraverso specifici metadati; i metadati sono quelli elencati nell’\ |LINK1|\  del \ |LINK2|\ ;
 
-\ |STYLE13|\ : decreto legislativo 7 marzo 2005, n. 82 e successive modificazioni e integrazioni;
+\ |STYLE13|\ : decreto legislativo 7 marzo 2005, n. 82 e successive modificazioni e integrazioni; 
 
 \ |STYLE14|\ : insieme di istruzioni o comandi software direttamente elaborabili dai sistemi informatici;
 
-\ |STYLE15|\ : soggetto, pubblico o privato, che svolge attività di conservazione
-
-al quale sia stato riconosciuto, dall’Agenzia per l’Italia digitale, il possesso dei requisiti del livello più elevato, in termini di qualità e di sicurezza, dall’Agenzia per l’Italia Digitale;
+\ |STYLE15|\ : soggetto, pubblico o privato, che svolge attività di conservazione al quale sia stato riconosciuto, dall’Agenzia per l’Italia digitale, il possesso dei requisiti del livello più elevato, in termini di qualità e di sicurezza, dall’Agenzia per l’Italia Digitale;
 
 \ |STYLE16|\ : insieme delle attività finalizzate a definire ed attuare le politiche complessive del sistema di conservazione e a governarne la gestione in relazione al modello organizzativo adottato e descritto nel manuale di conservazione;
 
@@ -52,9 +46,7 @@ al quale sia stato riconosciuto, dall’Agenzia per l’Italia digitale, il poss
 
 \ |STYLE19|\ : copia di backup degli archivi del sistema di conservazione prodotta ai sensi dell’articolo 12 delle presenti regole tecniche per il sistema di conservazione; 
 
-\ |STYLE20|\ : identifica il soggetto/sistema al quale il documento informatico è indirizzato
-
-duplicazione dei documenti informatici produzione di duplicati informatici;
+\ |STYLE20|\ : identifica il soggetto/sistema al quale il documento informatico è indirizzato duplicazione dei documenti informatici produzione di duplicati informatici;
 
 \ |STYLE21|\ : operazione che consente di visualizzare un documento conservato e di ottenerne copia
 
@@ -66,23 +58,17 @@ duplicazione dei documenti informatici produzione di duplicati informatici;
 
 \ |STYLE25|\ : modalità di rappresentazione della sequenza di bit che costituiscono il documento informatico; comunemente è identificato attraverso l’estensione del file; 
 
-\ |STYLE26|\ : le ulteriori componenti del sistema di protocollo informatico
+\ |STYLE26|\ : le ulteriori componenti del sistema di protocollo informatico necessarie alla gestione dei flussi documentali, alla conservazione dei documenti nonché alla accessibilità delle informazioni;
 
-necessarie alla gestione dei flussi documentali, alla conservazione dei documenti nonché alla accessibilità delle informazioni;
-
-\ |STYLE27|\ : le componenti del sistema di protocollo informatico finalizzate a
-
-rispondere almeno ai requisiti di interconnessione di cui all’articolo 60 del D.P.R. 28 dicembre 2000, n. 445;
+\ |STYLE27|\ : le componenti del sistema di protocollo informatico finalizzate a rispondere almeno ai requisiti di interconnessione di cui all’articolo 60 del D.P.R. 28 dicembre 2000, n. 445;
 
 \ |STYLE28|\ : la componente del sistema di protocollo informatico che rispetta i requisiti di operazioni ed informazioni minime di cui all’articolo 56 del D.P.R. 28 dicembre 2000, n. 445;
 
 \ |STYLE29|\ : una funzione matematica che genera, a partire da una evidenza informatica, una impronta in modo tale che risulti di fatto impossibile, a partire da questa, ricostruire l’evidenza informatica originaria e generare impronte uguali a partire da evidenze informatiche differenti;
 
-\ |STYLE30|\ : formazione di documenti informatici effettuata direttamente dal sistema informatico al verificarsi di determinate condizioni;
+\ |STYLE30|\ : formazione di documenti informatici effettuata direttamente dal sistema informatico al verificarsi di determinate condizioni; 
 
-\ |STYLE31|\ : sequenza di caratteri alfanumerici associata in modo univoco e
-
-persistente al documento informatico, al fascicolo informatico, all’aggregazione documentale informatica, in modo da consentirne l’individuazione;
+\ |STYLE31|\ : sequenza di caratteri alfanumerici associata in modo univoco e persistente al documento informatico, al fascicolo informatico, all’aggregazione documentale informatica, in modo da consentirne l’individuazione;
 
 \ |STYLE32|\ : caratteristica che rende il contenuto del documento informatico non alterabile nella forma e nel contenuto durante l’intero ciclo di gestione e ne garantisce la staticità nella conservazione del documento stesso;
 
@@ -110,9 +96,7 @@ persistente al documento informatico, al fascicolo informatico, all’aggregazio
 
 \ |STYLE44|\ : pacchetto informativo inviato dal produttore al sistema di conservazione secondo un formato predefinito e concordato descritto nel manuale di conservazione;
 
-\ |STYLE45|\ : contenitore che racchiude uno o più oggetti da conservare
-
-(documenti informatici, fascicoli informatici, aggregazioni documentali informatiche), oppure anche i soli metadati riferiti agli oggetti da conservare;
+\ |STYLE45|\ : contenitore che racchiude uno o più oggetti da conservare (documenti informatici, fascicoli informatici, aggregazioni documentali informatiche), oppure anche i soli metadati riferiti agli oggetti da conservare;
 
 \ |STYLE46|\ : documento che, nel contesto del piano generale di sicurezza, descrive e pianifica le attività volte a proteggere il sistema di conservazione dei documenti informatici da possibili rischi  nell’ambito dell’organizzazione di appartenenza;
 
@@ -138,9 +122,9 @@ persistente al documento informatico, al fascicolo informatico, all’aggregazio
 
 \ |STYLE57|\ : registro informatico che raccoglie i dati registrati direttamente dalle procedure informatiche con cui si formano altri atti e documenti o indici di atti e documenti secondo un criterio che garantisce l’identificazione univoca del dato all’atto della sua immissione cronologica;
 
-\ |STYLE58|\ : dirigente o funzionario, comunque in possesso di idonei requisiti professionali o di professionalità tecnico archivistica, preposto al servizio per la tenuta del protocollo informatico, della gestione dei flussi documentali e degli archivi, ai sensi dell’articolo 61 del D.P.R. 28 dicembre 2000, n. 445, che produce il pacchetto di versamento ed effettua il trasferimento del suo contenuto nel sistema di conservazione;
+\ |STYLE58|\ : dirigente o funzionario, comunque in possesso di idonei requisiti professionali o di professionalità tecnico archivistica, preposto al servizio per la tenuta del protocollo informatico, della gestione dei flussi documentali e degli archivi, ai sensi dell’articolo 61 del D.P.R. 28 dicembre 2000, n. 445, che produce il pacchetto di versamento ed effettua il trasferimento del suo contenuto nel sistema di conservazione; 
 
-\ |STYLE59|\ : soggetto responsabile dell’insieme delle attività elencate nell’articolo 8, comma 1 delle regole tecniche del sistema di conservazione;
+\ |STYLE59|\ : soggetto responsabile dell’insieme delle attività elencate nell’articolo 8, comma 1 delle regole tecniche del sistema di conservazione; 
 
 \ |STYLE60|\ : la persona fisica, la persona giuridica, la pubblica amministrazione e qualsiasi altro ente, associazione od organismo preposti dal titolare al trattamento di dati personali; 
 
