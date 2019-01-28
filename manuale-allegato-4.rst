@@ -6,13 +6,6 @@ Allegato 4 - Titolario del Protocollo del Comune
 
 Il Titolario di riferimento  è quello indicato dall’Agenzia per l’Italia Digitale per i comuni (\ |LINK1|\ ), denominato “\ |STYLE0|\ ”, e redatto dal “Gruppo di lavoro per la formulazione di proposte e modelli per la riorganizzazione dell’archivio dei Comuni”, edizione dicembre 2005.
 
-
-.. toctree:: 
-    :maxdepth: 3
-    :caption: indice del Titolario
-
-    manuale-allegato-4
-
 .. _h602411442c6c572b4ecd362d651f7b:
 
 Titolo I. Amministrazione generale
@@ -437,15 +430,15 @@ Titolo X. Tutela della salute
 
 Il titolo non necessita di particolari commenti, stante la chiarezza con cui la normativa definisce le funzioni dei Comuni nel contesto del sistema sanitario nazionale. Merita rilevare come le funzioni attualmente attribuite ai Comuni dopo l’entrata a regime della riforma sanitaria siano estremamente circoscritte rispetto a quanto avveniva in tempi passati.
 
-* 1. Salute e igiene pubblica
+1. Salute e igiene pubblica
 
-* 2. Trattamenti Sanitari Obbligatori
+2. Trattamenti Sanitari Obbligatori
 
-* 3. Farmacie
+3. Farmacie
 
-* 4. Zooprofilassi veterinaria
+4. Zooprofilassi veterinaria
 
-* 5. Randagismo animale e ricoveri
+5. Randagismo animale e ricoveri
 
 Repertori:
 
@@ -462,13 +455,13 @@ Titolo XI. Servizi demografici
 
 Le funzioni dei Comuni in materia demografica rientrano fra quelle delegate dallo Stato e molte sono esercitate dal sindaco in veste di ufficiale di governo. Si è inserita fra quelle riconducibili senza dubbio alcuno ai servizi demografici anche la materia della polizia mortuaria, che nel titolario Astengo compariva connesso – con indubbia contraddizione in terminos – con la categoria IV Sanità ed igiene, perché in sostanza gli adempimenti burocratici complessi e di diversa natura connessi con l’evento sono riconducibili al controllo che il Comune esercita sulla popolazione. La classe 4 prevede anche la gestione degli spazi e dei servizi cimiteriali indicati con la denominazione complessiva “cimiteri”. Si precisa che la costruzione del cimitero è funzione edilizia (quindi Titolo VI/classe 5), come pure l’edificazione di tombe da parte dei privati (quindi Titolo VI/classe 3). Riunificare in questa classe le funzioni connesse con la morte ha il medesimo significato di semplificazione amministrativa e archivistica compiuta per l’industria con l’istituzione dello sportello unico per le attività produttive.
 
-* 1. Stato civile
+1. Stato civile
 
-* 2. Anagrafe e certificazioni
+2. Anagrafe e certificazioni
 
-* 3. Censimenti
+3. Censimenti
 
-* 4. Polizia mortuaria e cimiteri
+4. Polizia mortuaria e cimiteri
 
 Repertori:
 
@@ -503,15 +496,15 @@ Titolo XII. Elezioni e iniziative popolari
 
 Il titolo è stato previsto per il carteggio prodotto nello svolgimento delle funzioni connesse alle elezioni di varia natura e iniziativa e alla gestione delle iniziative popolari.
 
-* 1. Albi elettorali
+1. Albi elettorali
 
-* 2. Liste elettorali
+2. Liste elettorali
 
-* 3. Elezioni
+3. Elezioni
 
-* 4. Referendum
+4. Referendum
 
-* 5. Istanze, petizioni e iniziative popolari
+5. Istanze, petizioni e iniziative popolari
 
 Repertori:
 
@@ -528,13 +521,13 @@ Titolo XIII. Affari militari
 
 Il titolo è stato previsto per il carteggio prodotto nell’ambito dell’espletamento di pratiche residue relative a funzioni ormai inesistenti per quanto concerne la leva militare obbligatoria. 
 
-* 1. Leva e servizio civile sostitutivo
+1. Leva e servizio civile sostitutivo
 
-* 2. Ruoli matricolari
+2. Ruoli matricolari
 
-* 3. Caserme, alloggi e servitù militari
+3. Caserme, alloggi e servitù militari
 
-* 4. Requisizioni per utilità militari
+4. Requisizioni per utilità militari
 
 |
 
