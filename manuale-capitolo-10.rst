@@ -16,9 +16,9 @@
 
 II presente capitolo descrive il sistema di classificazione dei documenti, di formazione del fascicolo e di archiviazione dei documenti, con l'indicazione dei tempi e delle modalità di aggiornamento, dei criteri e delle regole di selezione della documentazione,  anche con riferimento all'uso di supporti sostitutivi e di consultazione e movimentazione dei fascicoli.
 
-La classificazione dei documenti, destinata a realizzare una corretta organizzazione dei documenti nell'archivio, è obbligatoria per legge e si avvale del piano di classificazione (titolario, disponibile come elenco \ |STYLE0|\ ). 
+La classificazione dei documenti, destinata a realizzare una corretta organizzazione dei documenti nell'archivio, è obbligatoria per legge e si avvale del piano di classificazione (titolario, disponibile come elenco \ |STYLE0|\ \ |LINK1|\  del presente manuale). 
 
-Con il sistema di protocollo informatico, il Comune si avvale del \ |LINK1|\ , e redatto dal “Gruppo di lavoro per la formulazione di proposte e modelli per la riorganizzazione dell’archivio dei Comuni”, edizione dicembre 2005.
+Con il sistema di protocollo informatico, il Comune si avvale del \ |LINK2|\ , e redatto dal “Gruppo di lavoro per la formulazione di proposte e modelli per la riorganizzazione dell’archivio dei Comuni”, edizione dicembre 2005.
 
 .. _h6d786f26596e57456a284f1d14677d74:
 
@@ -65,7 +65,7 @@ Il sistema informatico è in grado di memorizzare i "titolari", in relazione al 
 
 Ogni variazione entra in vigore il 1° Gennaio di ogni anno salvo esigenze particolari. 
 
-\ |STYLE1|\ .
+\ |STYLE1|\ \ |LINK3|\  \ |STYLE2|\ .
 
 .. _h73364e63402019376f635c759582967:
 
@@ -288,12 +288,22 @@ La consultazione da utenti esterni all'Amministrazione, è disciplinata regolame
 .. bottom of content
 
 
-.. |STYLE0| replace:: **nell’allegato 4**
+.. |STYLE0| replace:: **nell’**
 
-.. |STYLE1| replace:: **Il titolario da adottarsi con il presente manuale è riportato nell'allegato 4**
+.. |STYLE1| replace:: **Il titolario da adottarsi con il presente manuale è riportato nell'**
+
+.. |STYLE2| replace:: **del presente manuale**
 
 
 .. |LINK1| raw:: html
 
+    <a href="https://manuale-gestione-protocollo-documento-informatico-palermo.readthedocs.io/it/latest/manuale-allegato-4.html" target="_blank">allegato 4</a>
+
+.. |LINK2| raw:: html
+
     <a href="https://www.agid.gov.it/piattaforme/sistema-gestione-procedimenti-amministrativi/flussi-documentali-protocollo-informatico" target="_blank">Titolario dell’Agenzia per l’Italia Digitale per i comuni, denominato “Piano di classificazione (= Titolario) per gli archivi dei Comuni italiani (seconda edizione)”</a>
+
+.. |LINK3| raw:: html
+
+    <a href="https://manuale-gestione-protocollo-documento-informatico-palermo.readthedocs.io/it/latest/manuale-allegato-4.html" target="_blank">allegato 4</a>
 
