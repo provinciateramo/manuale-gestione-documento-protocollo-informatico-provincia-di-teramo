@@ -47,7 +47,7 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
 
 
 .. toctree:: 
-    :maxdepth: 4
+    :maxdepth: 3
     :caption: Allegati al manuale
 
     manuale-allegato-1
