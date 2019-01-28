@@ -29,13 +29,9 @@ Gli archivi e i singoli documenti dello Stato, delle regioni e degli enti pubbli
 
 I singoli documenti sopra richiamati (analogici ed informatici, ricevuti, spediti e interni formali) sono quindi inalienabili, sin dal momento dell'inserimento di ciascun documento nell'archivio dell'AOO, di norma mediante l'attribuzione di un numero di protocollo e di un codice di classificazione. 
 
-L'archivio non può essere smembrato, e deve essere conservato nella sua organicità. L'eventuale trasferimento ad altre persone giuridiche di complessi organici di documentazione è subordinato all'autorizzazione della Soprintendenza Archivistica e Bibliografica della Regione Siciliana.  
-
-L'archivio di deposito e l'archivio storico non possono essere rimossi dal luogo di conservazione senza l'autorizzazione della Soprintendenza Archivistica e Bibliografica della Regione Siciliana.   
+L'archivio non può essere smembrato, e deve essere conservato nella sua organicità. 
 
 Lo spostamento degli archivi correnti non è soggetto ad autorizzazione, ma deve essere comunicato alla Soprintendenza Archivistica e Bibliografica della Regione Siciliana, per consentirle la funzione di vigilanza sul bene.
-
-Lo scarto dei documenti dell'archivio in parola è subordinato all'autorizzazione della  Soprintendenza Archivistica e Bibliografica della Regione Siciliana.
 
 Per l'archiviazione e la custodia nella sezione di deposito, o storica, dei documenti contenenti dati personali, si applicano le disposizioni di legge sulla tutela della riservatezza dei dati personali, sia che si tratti di supporti informatici che di supporti convenzionali. 
 
