@@ -6,6 +6,8 @@
 
 II presente capitolo illustra le modalità di produzione e di conservazione delle registrazioni di protocollo informatico, nonché le modalità di registrazione delle informazioni annullate o modificate nell'ambito di ogni sessione di attività di registrazione. 
 
+|
+
 .. _h25198147016752c46252b31687c112f:
 
 11.1    Unicità del protocollo informatico 
@@ -27,12 +29,16 @@ Il registro di protocollo è un atto pubblico originario, che fa fede della temp
 
 Il registro di protocollo è soggetto alle forme di pubblicità e di tutela di situazioni giuridicamente rilevanti previste dalla normativa vigente. 
 
+|
+
 .. _h6f3a3e2b572a581e1b4c10704e2713:
 
 11.2    Registro giornaliero di protocollo 
 ===========================================
 
 Il registro giornaliero di protocollo, comprensivo della ristampa delle pagine per le registrazioni di protocollo che abbiano subito variazioni sui dati sensibili di protocollazione o annullamenti (parziali o totali) successivamente alla stampa, viene prodotto  e protocollato in automatico dal SdP. L'invio  in conservazione, come da normativa vigente, avviene  a cura del RTP. 
+
+|
 
 .. _h355b6511a296a3f135cc767b2f607f:
 
