@@ -44,7 +44,7 @@ Questo titolo è stato pensato per i documenti prodotti dal Comune nell’eserci
 
 17. Associazionismo e partecipazione
 
-Repertori
+Repertori:
 
 * Registro di protocollo
 
@@ -93,6 +93,8 @@ Nei Comuni che hanno realizzato il decentramento:
 * Registro dell’Albo della circoscrizione (uno per quartiere)
 
 * Contratti e convenzioni delle circoscrizioni (uno per quartiere)
+
+|
 
 \ |STYLE2|\ 
 
@@ -146,9 +148,11 @@ Le classi dalla 16 in poi sono dedicate agli organi attivati nei Comuni che hann
 
 22. Conferenza dei Presidenti di quartiere
 
-Repertori
+Repertori:
 
 * Bollettino della situazione patrimoniale dei titolari di cariche elettive e di cariche direttive
+
+|
 
 \ |STYLE3|\ 
 
@@ -186,17 +190,19 @@ Per i documenti relativi a ciascun dipendente viene istruito un fascicolo nomina
 
 15. Collaboratori esterni
 
-Serie
+Serie:
 
 * Fascicoli del personale: un fascicolo per ogni dipendente o assimilato
 
-Repertori
+Repertori:
 
 * Registro infortuni
 
 * Elenco degli incarichi conferiti
 
 * Verbali dei rappresentanti dei lavoratori per la sicurezza
+
+|
 
 \ |STYLE4|\ 
 
@@ -244,6 +250,8 @@ Repertori:
 
 * Elenco dei fornitori (facoltativo)
 
+|
+
 \ |STYLE5|\ 
 
 Si è deciso di prevedere un titolo specifico dedicato agli affari legali, nonostante l’obiezione che quasi sempre essi si inseriscono all’interno di un procedimento, per due motivi: prima di tutto perché la funzione si configura come eccezionale e straordinaria, poi perché talvolta le azioni legali, i pareri e le consulenze interessano materie diverse e possono rivestire carattere generale e/o preliminare a una pluralità di procedimenti concreti. Inoltre, come ha fatto giustamente notare qualcuno, non sempre c’è un fascicolo precedente al contenzioso (ad esempio, citazione del Comune per danni da cattiva manutenzione delle strade); anche quando la controversia sorge nel corso di un procedimento amministrativo o di un rapporto civile, il contenzioso si configura come sub-procedimento specialistico; è opportuno che gli atti delle controversie siano conservati unitariamente.
@@ -253,6 +261,8 @@ Si è deciso di prevedere un titolo specifico dedicato agli affari legali, nonos
 2. Responsabilità civile e patrimoniale verso terzi; assicurazioni
 
 3. Pareri e consulenze
+
+|
 
 \ |STYLE6|\ 
 
@@ -278,9 +288,11 @@ Il titolo è dedicato a funzioni, tra loro interconnesse, relative alla pianific
 
 10. Protezione civile ed emergenze
 
-Repertori
+Repertori:
 
 * Concessioni edilizie
+
+|
 
 \ |STYLE7|\ 
 
@@ -324,11 +336,13 @@ Rispetto all’edizione precedente è stata inserita la classe 15. Politiche per
 
 15. Politiche per il sociale
 
-Repertori
+Repertori:
 
 * Registri scolastici (del professore e della classe) prodotti dalle Scuole civiche (ove presenti)
 
 * Verbali degli organi di gestione degli Istituti culturali
+
+|
 
 \ |STYLE8|\ 
 
@@ -348,17 +362,19 @@ I Comuni svolgono nel settore delle attività economiche funzioni particolari, s
 
 7. Promozione e servizi
 
-Serie
+Serie:
 
 * Fascicoli individuali di ciascun esercente attività economiche
 
-Repertori
+Repertori:
 
 * Repertorio delle autorizzazioni artigiane
 
 * Repertorio delle autorizzazioni commerciali
 
 * Repertorio delle autorizzazioni turistiche
+
+|
 
 \ |STYLE9|\ 
 
@@ -372,11 +388,13 @@ Questo titolo è dedicato alla prevenzione e alla repressione delle violazioni s
 
 4. Sicurezza e ordine pubblico
 
-Repertori
+Repertori:
 
 * Autorizzazioni di pubblica sicurezza
 
 * Verbali degli accertamenti
+
+|
 
 \ |STYLE10|\ 
 
@@ -392,11 +410,13 @@ Il titolo non necessita di particolari commenti, stante la chiarezza con cui la 
 
 * 5. Randagismo animale e ricoveri
 
-Repertori
+Repertori:
 
 * Repertorio delle autorizzazioni sanitarie
 
 * Repertorio delle concessioni di agibilità
+
+|
 
 \ |STYLE11|\ 
 
@@ -410,7 +430,7 @@ Le funzioni dei Comuni in materia demografica rientrano fra quelle delegate dall
 
 * 4. Polizia mortuaria e cimiteri
 
-Repertori
+Repertori:
 
 * Registro dei nati
 
@@ -434,6 +454,8 @@ Repertori
 
 * Registri della distribuzione topografica delle tombe con annesse schede onomastiche
 
+|
+
 \ |STYLE12|\ 
 
 Il titolo è stato previsto per il carteggio prodotto nello svolgimento delle funzioni connesse alle elezioni di varia natura e iniziativa e alla gestione delle iniziative popolari.
@@ -448,11 +470,13 @@ Il titolo è stato previsto per il carteggio prodotto nello svolgimento delle fu
 
 * 5. Istanze, petizioni e iniziative popolari
 
-Repertori
+Repertori:
 
 * Verbali della commissione elettorale comunale
 
 * Verbali dei presidenti di seggio
+
+|
 
 \ |STYLE13|\ 
 
@@ -465,6 +489,8 @@ Il titolo è stato previsto per il carteggio prodotto nell’ambito dell’esple
 * 3. Caserme, alloggi e servitù militari
 
 * 4. Requisizioni per utilità militari
+
+|
 
 \ |STYLE14|\ 
 
