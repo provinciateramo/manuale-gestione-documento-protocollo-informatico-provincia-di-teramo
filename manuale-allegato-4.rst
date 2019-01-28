@@ -6,6 +6,13 @@ Allegato 4 - Titolario del Protocollo del Comune
 
 Il Titolario di riferimento  è quello indicato dall’Agenzia per l’Italia Digitale per i comuni (\ |LINK1|\ ), denominato “\ |STYLE0|\ ”, e redatto dal “Gruppo di lavoro per la formulazione di proposte e modelli per la riorganizzazione dell’archivio dei Comuni”, edizione dicembre 2005.
 
+
+.. toctree:: 
+    :maxdepth: 3
+    :caption: 
+
+    manuale-allegato-4
+
 .. _h602411442c6c572b4ecd362d651f7b:
 
 Titolo I. Amministrazione generale
