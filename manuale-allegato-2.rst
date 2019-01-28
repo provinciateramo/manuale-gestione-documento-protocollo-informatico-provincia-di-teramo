@@ -24,7 +24,7 @@ Circolare AIPA 7 maggio 2001, n. AIPA/CR/28 - Articolo 18, comma 2, del DPCM 31 
 
 Circolare AIPA 21 giugno 2001, n. AIPA/CR/31 (Art. 7, comma 6, del DPCM 31 ottobre 2000 recante “Regole tecniche per il protocollo informatico di cui al DPR 20 ottobre 1998, n. 428” - requisiti minimi di sicurezza dei sistemi operativi disponibili). 
 
-Direttiva del Ministro per la funzione pubblica del 13 dicembre 2001 – Formazione del personale. (G.U. del 31 gennaio 2002, n. 26) 15.
+Direttiva del Ministro per la funzione pubblica del 13 dicembre 2001 – Formazione del personale (G.U. del 31 gennaio 2002, n. 26).
 
 Decreto legislativo 23 gennaio 2002, n. 10 - Recepimento della direttiva 1999/93/CE sulla firma elettronica.
 
@@ -34,7 +34,7 @@ Direttiva del Ministro per l’innovazione e le tecnologie, 20 dicembre 2002 –
 
 DPR 7 aprile 2003, n. 137 - Regolamento recante disposizioni di coordinamento in materia di firme elettroniche a norma dell’articolo 13 del decreto legislativo 23 gennaio 2002.
 
-Decreto legislativo 30 giugno 2003, n. 196 - Codice in materia di protezione dei dati personali.
+Decreto legislativo 30 giugno 2003, n. 196, Codice in materia di protezione dei dati personali. Decreto legislativo 10 agosto 2018, n. 101, Disposizioni per l'adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016, relativo alla protezione delle persone fisiche con riguardo al trattamento dei dati personali, nonché alla libera circolazione di tali dati e che abroga la direttiva 95/46/CE (regolamento generale sulla protezione dei dati) (GU Serie Generale n.205 del 04-09-2018).
 
 Decreto Ministeriale 14 ottobre 2003 - Approvazione delle linee guida per l’adozione del protocollo informatico e per il trattamento informatico dei procedimenti amministrativi. (G.U. del 25 ottobre 2003, n. 249).
 
