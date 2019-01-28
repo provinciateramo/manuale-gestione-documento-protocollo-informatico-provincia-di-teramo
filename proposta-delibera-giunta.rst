@@ -114,7 +114,7 @@ Propone,
 
 Dare atto che:
 
-    il presente atto non comporta oneri riflessi diretti o indiretti sulla situazione economico finanziaria dell'Amministrazione Comunale. 
+* il presente atto non comporta oneri riflessi diretti o indiretti sulla situazione economico finanziaria dell'Amministrazione Comunale. 
 
 Il Dirigente del Servizio Innovazione (Gabriele Marchese)
 
