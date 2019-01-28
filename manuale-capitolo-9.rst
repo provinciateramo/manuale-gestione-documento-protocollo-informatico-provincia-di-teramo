@@ -37,7 +37,7 @@ Inoltre, sono esclusi dalla registrazione di protocollo tutti documenti che per 
 
 Al di fuori delle tipologie documentali sopra elencate, la responsabilità di ulteriori esclusioni dalla registrazione di protocollo è in capo ai Responsabili dei procedimenti.
 
-Fanno parte dei documenti esclusi quelli elencati nell’\ |LINK1|\ .
+Fanno parte dei documenti esclusi quelli elencati nell’\ |LINK1|\  del presente manuale.
 
 .. _h147c147836727d341715325f78423b:
 
