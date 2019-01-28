@@ -1,8 +1,8 @@
 
-.. _h5d6d364a5b4bb612231732b1a325866:
+.. _h26664d76723d6d3d6746844d2f786f:
 
-8 - UOR responsabilità delle attività di registrazione di Protocollo, organizzazione e tenuta dei documenti 
-************************************************************************************************************
+8- UOR responsabilità delle attività di registrazione di Protocollo, organizzazione e tenuta dei documenti 
+***********************************************************************************************************
 
 II presente capitolo individua le unità organizzative responsabili delle attività di registrazione di protocollo, di organizzazione e di tenuta dei documenti all'interno della AOO. 
 
