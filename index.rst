@@ -24,7 +24,7 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
 
 .. toctree:: 
     :maxdepth: 3
-    :caption: Indice 
+    :caption: Indice del manuale
 
     manuale-capitolo-1
     manuale-capitolo-2
@@ -45,6 +45,23 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
     manuale-allegato-4
     proposta-delibera-giunta
 
+
+.. toctree:: 
+    :maxdepth: 3
+    :caption: Allegati al manuale
+
+    manuale-allegato-1
+    manuale-allegato-2
+    manuale-allegato-3
+    manuale-allegato-4
+
+
+.. toctree:: 
+    :maxdepth: 3
+    :caption: Proposta di deliberazione di approvazione del manuale
+
+    proposta-delibera-giunta
+
 --------
 
 
@@ -59,7 +76,7 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
     <img src="https://raw.githubusercontent.com/cirospat/manuale-gestione-documento-protocollo-informatico-comune-palermo/master/static/comune-palermo-innovazione.png" />
 .. |REPLACE2| raw:: html
 
-    <p><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Bozza</span></p>
+    <p><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Bozza gennaio 2019</span></p>
 
 .. |LINK1| raw:: html
 
