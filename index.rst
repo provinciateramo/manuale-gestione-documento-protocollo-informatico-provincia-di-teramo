@@ -53,7 +53,7 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
 
 .. toctree:: 
     :maxdepth: 3
-    :caption: Delibera approvazione del manuale
+    :caption: Delibera approvazione manuale
 
     proposta-delibera-giunta
 
