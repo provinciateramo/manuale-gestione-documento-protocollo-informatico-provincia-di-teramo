@@ -2,11 +2,14 @@
 .. _h3d4e2f1a2376341e694128101502539:
 
 Allegato 4 - Titolario del Protocollo del Comune
-================================================
+************************************************
 
 Il Titolario di riferimento  è quello indicato dall’Agenzia per l’Italia Digitale per i comuni (\ |LINK1|\ ), denominato “\ |STYLE0|\ ”, e redatto dal “Gruppo di lavoro per la formulazione di proposte e modelli per la riorganizzazione dell’archivio dei Comuni”, edizione dicembre 2005.
 
-\ |STYLE1|\ 
+.. _h602411442c6c572b4ecd362d651f7b:
+
+Titolo I. Amministrazione generale
+==================================
 
 Questo titolo è stato pensato per i documenti prodotti dal Comune nell’esercizio di funzioni di carattere generale e trasversale, che interessano tutti gli uffici in quanto costituiscono strumento per l’attività amministrativa dell’intero apparato comunale.
 
@@ -96,7 +99,10 @@ Nei Comuni che hanno realizzato il decentramento:
 
 |
 
-\ |STYLE2|\ 
+.. _h4f632797718273d6a2c1056167bd:
+
+Titolo II. Organi di governo, gestione, controllo, consulenza e garanzia
+========================================================================
 
 Questo titolo è stato pensato per gli atti concernenti gli organi di governo, gestione, controllo, consulenza e garanzia, non per quelli da essi prodotti. Si ricordi che la classificazione riguarda la materia, non l’autore del documento, non le funzioni, ma il funzionamento dell’organo.
 
@@ -154,7 +160,10 @@ Repertori:
 
 |
 
-\ |STYLE3|\ 
+.. _h18476a484c375e593a2a794d312b5d1d:
+
+Titolo III. Risorse umane
+=========================
 
 Il titolo è dedicato alle funzioni relative alla gestione del personale, sia esso dipendente o esterno (collaboratori a qualsiasi titolo). Nelle classi andranno inseriti i documenti relativi a questioni non riconducibili a singole persone.
 
@@ -204,7 +213,10 @@ Repertori:
 
 |
 
-\ |STYLE4|\ 
+.. _h6041446a2d583a27456712d3b7d5a2:
+
+Titolo IV. Risorse finanziarie e patrimoniali
+=============================================
 
 In questo titolo sono state previste le funzioni conferite ai Comuni in materia di disponibilità di risorse finanziarie e di gestione contabile, quelle relative alla titolarità e gestione del patrimonio comunale, di natura sia immobile sia mobile; alla acquisizione e gestione dei beni e servizi strumentali allo svolgimento delle attività e funzioni finali.
 
@@ -252,7 +264,10 @@ Repertori:
 
 |
 
-\ |STYLE5|\ 
+.. _h1e6a558706373492d23223ea2f364a:
+
+Titolo V. Affari legali
+=======================
 
 Si è deciso di prevedere un titolo specifico dedicato agli affari legali, nonostante l’obiezione che quasi sempre essi si inseriscono all’interno di un procedimento, per due motivi: prima di tutto perché la funzione si configura come eccezionale e straordinaria, poi perché talvolta le azioni legali, i pareri e le consulenze interessano materie diverse e possono rivestire carattere generale e/o preliminare a una pluralità di procedimenti concreti. Inoltre, come ha fatto giustamente notare qualcuno, non sempre c’è un fascicolo precedente al contenzioso (ad esempio, citazione del Comune per danni da cattiva manutenzione delle strade); anche quando la controversia sorge nel corso di un procedimento amministrativo o di un rapporto civile, il contenzioso si configura come sub-procedimento specialistico; è opportuno che gli atti delle controversie siano conservati unitariamente.
 
@@ -264,7 +279,10 @@ Si è deciso di prevedere un titolo specifico dedicato agli affari legali, nonos
 
 |
 
-\ |STYLE6|\ 
+.. _h775371654a38442bd7f204b3714f:
+
+Titolo VI. Pianificazione e gestione del territorio
+===================================================
 
 Il titolo è dedicato a funzioni, tra loro interconnesse, relative alla pianificazione e gestione del territorio: si sono semplificate al massimo le classi per comprendere nella generalità delle denominazioni la varietà di procedimenti censiti.
 
@@ -294,7 +312,10 @@ Repertori:
 
 |
 
-\ |STYLE7|\ 
+.. _h6431505a46307b2f3a4982533227d3b:
+
+Titolo VII. Servizi alla persona
+================================
 
 Sono state raggruppate in questo titolo le funzioni attribuite ai Comuni in materia di servizi educativi e formativi (classi 1-4), servizi culturali, sportivi e del tempo libero (classi 5-7), dei servizi socio-assistenziali (classi 8-14)120. La riconduzione ad un unico titolo di tutte queste funzioni, che assorbono una cospicua mole di attività dei Comuni, è motivata dalla constatazione che molti interventi dei Comuni assumono caratteristiche promiscue e possono venire individuati più propriamente a livello di classe che non a livello di titoli.
 
@@ -344,7 +365,10 @@ Repertori:
 
 |
 
-\ |STYLE8|\ 
+.. _h4b6b7666143510a2227c6a355826e:
+
+Titolo VIII. Attività economiche
+================================
 
 I Comuni svolgono nel settore delle attività economiche funzioni particolari, spesso complementari a quelle esercitate da altri enti, ad esempio le province: talora essi sono chiamati a monitorare e raccogliere dati, talora devono rilasciare autorizzazioni etc. La novità introdotta dalla normativa recente riguarda il cosiddetto sportello unico per le attività produttive che rappresenta un vantaggio per il cittadino perché gli consente di ridurre i tempi burocratici. Poiché gli interventi dei Comuni sulle attività economiche possono essere molto variegati, si è preferito prevedere classi molto generali in grado di assicurare l’apertura di fascicoli specifici entro ripartizioni logiche serrate.
 
@@ -376,7 +400,10 @@ Repertori:
 
 |
 
-\ |STYLE9|\ 
+.. _h465a55243930446a4d13694a2637648:
+
+Titolo IX. Polizia locale e sicurezza pubblica
+==============================================
 
 Questo titolo è dedicato alla prevenzione e alla repressione delle violazioni sia per quanto concerne la circolazione stradale sia per quanto concerne la vita dell’individuo nel contesto sociale e amministrativo, tendente ad assicurare sicurezza ai cittadini; comprende inoltre le funzioni, residue rispetto al passato e tutte delegate, connesse con il controllo dell’individuo singolo o associato.
 
@@ -396,7 +423,10 @@ Repertori:
 
 |
 
-\ |STYLE10|\ 
+.. _h2e572ed16312842b7b2b1ae2f727e:
+
+Titolo X. Tutela della salute
+=============================
 
 Il titolo non necessita di particolari commenti, stante la chiarezza con cui la normativa definisce le funzioni dei Comuni nel contesto del sistema sanitario nazionale. Merita rilevare come le funzioni attualmente attribuite ai Comuni dopo l’entrata a regime della riforma sanitaria siano estremamente circoscritte rispetto a quanto avveniva in tempi passati.
 
@@ -418,7 +448,10 @@ Repertori:
 
 |
 
-\ |STYLE11|\ 
+.. _h284c175ba111ff70c7c46395e4553:
+
+Titolo XI. Servizi demografici
+==============================
 
 Le funzioni dei Comuni in materia demografica rientrano fra quelle delegate dallo Stato e molte sono esercitate dal sindaco in veste di ufficiale di governo. Si è inserita fra quelle riconducibili senza dubbio alcuno ai servizi demografici anche la materia della polizia mortuaria, che nel titolario Astengo compariva connesso – con indubbia contraddizione in terminos – con la categoria IV Sanità ed igiene, perché in sostanza gli adempimenti burocratici complessi e di diversa natura connessi con l’evento sono riconducibili al controllo che il Comune esercita sulla popolazione. La classe 4 prevede anche la gestione degli spazi e dei servizi cimiteriali indicati con la denominazione complessiva “cimiteri”. Si precisa che la costruzione del cimitero è funzione edilizia (quindi Titolo VI/classe 5), come pure l’edificazione di tombe da parte dei privati (quindi Titolo VI/classe 3). Riunificare in questa classe le funzioni connesse con la morte ha il medesimo significato di semplificazione amministrativa e archivistica compiuta per l’industria con l’istituzione dello sportello unico per le attività produttive.
 
@@ -456,7 +489,10 @@ Repertori:
 
 |
 
-\ |STYLE12|\ 
+.. _h741e157b3f525534354142704306f:
+
+Titolo XII. Elezioni e iniziative popolari
+==========================================
 
 Il titolo è stato previsto per il carteggio prodotto nello svolgimento delle funzioni connesse alle elezioni di varia natura e iniziativa e alla gestione delle iniziative popolari.
 
@@ -478,7 +514,10 @@ Repertori:
 
 |
 
-\ |STYLE13|\ 
+.. _h415a7a2f392f41742234617d31b6f16:
+
+Titolo XIII. Affari militari
+============================
 
 Il titolo è stato previsto per il carteggio prodotto nell’ambito dell’espletamento di pratiche residue relative a funzioni ormai inesistenti per quanto concerne la leva militare obbligatoria. 
 
@@ -492,41 +531,16 @@ Il titolo è stato previsto per il carteggio prodotto nell’ambito dell’esple
 
 |
 
-\ |STYLE14|\ 
+.. _h235731f44572277796c7d23515d577b:
+
+Titolo XIV. Oggetti diversi
+===========================
 
 
 .. bottom of content
 
 
 .. |STYLE0| replace:: *Piano di classificazione (= Titolario) per gli archivi dei Comuni italiani (seconda edizione)*
-
-.. |STYLE1| replace:: **Titolo I. Amministrazione generale**
-
-.. |STYLE2| replace:: **Titolo II. Organi di governo, gestione, controllo, consulenza e garanzia**
-
-.. |STYLE3| replace:: **Titolo III. Risorse umane**
-
-.. |STYLE4| replace:: **Titolo IV. Risorse finanziarie e patrimoniali**
-
-.. |STYLE5| replace:: **Titolo V. Affari legali**
-
-.. |STYLE6| replace:: **Titolo VI. Pianificazione e gestione del territorio**
-
-.. |STYLE7| replace:: **Titolo VII. Servizi alla persona**
-
-.. |STYLE8| replace:: **Titolo VIII. Attività economiche**
-
-.. |STYLE9| replace:: **Titolo IX. Polizia locale e sicurezza pubblica**
-
-.. |STYLE10| replace:: **Titolo X. Tutela della salute**
-
-.. |STYLE11| replace:: **Titolo XI. Servizi demografici**
-
-.. |STYLE12| replace:: **Titolo XII. Elezioni e iniziative popolari**
-
-.. |STYLE13| replace:: **Titolo XIII. Affari militari**
-
-.. |STYLE14| replace:: **Titolo XIV. Oggetti diversi**
 
 
 .. |LINK1| raw:: html
