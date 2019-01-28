@@ -35,56 +35,56 @@ Il protocollo fa fede, anche con effetto giuridico, dell'effettivo ricevimento e
 
 Ai fini del presente manuale si intende per:
 
-* "Amministrazione", Il Comune di Palermo;
+* "\ |STYLE0|\ ", Il Comune di Palermo;
 
-* "Codice  dell’Amministrazione Digitale ", il D. Lgs. 7 marzo 2005, n. 82 e successive modifiche e integrazioni;
+* "\ |STYLE1|\  ", il D. Lgs. 7 marzo 2005, n. 82 e successive modifiche e integrazioni;
 
-* “Codice dei beni culturali” il D. Lgs. 22.1.2004, n. 42 recante il “codice dei beni culturali e del paesaggio”;
+* “\ |STYLE2|\ ” il D. Lgs. 22.1.2004, n. 42 recante il “codice dei beni culturali e del paesaggio”;
 
-* "Regole tecniche per il protocollo ", il D.P.C.M. 3 dicembre 2013 concernente le "Regole tecniche per il protocollo informatico”;
+* "\ |STYLE3|\  ", il D.P.C.M. 3 dicembre 2013 concernente le "\ |STYLE4|\ ”;
 
-* “Regole tecniche per la conservazione”,  il D.P.C.M. 13 novembre 2014, recante “Regole tecniche in materia di sistema di conservazione ai sensi degli articoli 20,commi 3 e 5-bis, 23-ter, comma 4, 43, commi 1 e 3, 44, 44-bis e 71, comma 1, del Codice dell’Amministrazione Digitale di cui al D. Lgs. n. 82 del 2005”;
+* “\ |STYLE5|\ ”,  il D.P.C.M. 13 novembre 2014, recante “\ |STYLE6|\ ”;
 
-* "Testo Unico", il D.P.R. 20 dicembre 2000, n. 445 - Testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa.
+* "\ |STYLE7|\ ", il D.P.R. 20 dicembre 2000, n. 445 - Testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa.
 
-Per l’elenco completo delle definizioni vedasi \ |STYLE0|\ . 
+Per l’elenco completo delle definizioni vedasi \ |STYLE8|\ . 
 
 Di seguito si riportano gli acronimi utilizzati più frequentemente: 
 
-* AOO - Area Organizzativa Omogenea denominata Comune di Palermo ;
+* \ |STYLE9|\  - Area Organizzativa Omogenea denominata Comune di Palermo ;
 
-* PORTALE DEI SERVIZI ONLINE - la piattaforma informatica disponibile online che rende pubblici tutti gli atti amministrativi prodotti dall’Amministrazione, oggetto di pubblicazione nell’Albo Pretorio, e  che i cittadini e le aziende utilizzano per lo scambio documentale con il Comune di Palermo;
+* \ |STYLE10|\  - la piattaforma informatica disponibile online che rende pubblici tutti gli atti amministrativi prodotti dall’Amministrazione, oggetto di pubblicazione nell’Albo Pretorio, e  che i cittadini e le aziende utilizzano per lo scambio documentale con il Comune di Palermo, previa autenticazione con credenziali;
 
-* SCRIVANIA VIRTUALE (?) – Applicativo che include  i moduli relativi alle procedure di protocollo informatico e gestione degli atti amministrativi;
+* \ |STYLE11|\  – Denominazione dell’applicativo che include  i moduli relativi alle procedure di protocollo informatico e gestione degli atti amministrativi;
 
-* IOP – Interoperabilità di protocollo tra pubbliche amministrazioni;
+* \ |STYLE12|\  – Interoperabilità di protocollo tra pubbliche amministrazioni;
 
-* IPA -  Indice delle Pubbliche Amministrazioni;
+* \ |STYLE13|\  -  Indice delle Pubbliche Amministrazioni;
 
-* RPA - Responsabile del Procedimento Amministrativo - il dipendente che ha la responsabilità dell'esecuzione degli adempimenti amministrativi relativi ad un affare; 
+* \ |STYLE14|\  - Responsabile del Procedimento Amministrativo - il dipendente che ha la responsabilità dell'esecuzione degli adempimenti amministrativi relativi ad un affare; 
 
-* RSP - Responsabile del Servizio per la tenuta del protocollo informatico, e dell'archivio; 
+* \ |STYLE15|\  - Responsabile del Servizio per la tenuta del protocollo informatico, e dell'archivio; 
 
-* RTP - Responsabile tecnico per la tenuta del sistema di gestione informatica del protocollo; coincide con la Società Informatica comunale SISPI SpA.;
+* \ |STYLE16|\  - Responsabile tecnico per la tenuta del sistema di gestione informatica del protocollo; coincide con la Società Informatica comunale SISPI SpA.;
 
-* SdP - Servizio di protocollo informatico;
+* \ |STYLE17|\  - Servizio di protocollo informatico;
 
-* SMTP – servizio per la  trasmissione via internet di email;
+* \ |STYLE18|\  – servizio per la  trasmissione via internet di email;
 
-* UOP - Unità Organizzative di registrazione di Protocollo - rappresentano gli uffici che svolgono attività di registrazione di protocollo; 
+* \ |STYLE19|\  - Unità Organizzative di registrazione di Protocollo - rappresentano gli uffici che svolgono attività di registrazione di protocollo; 
 
-* UOR - Uffici Organizzativi di Riferimento - un insieme di uffici che, per tipologia di mandato istituzionale e competenza, di funzione amministrativa perseguita, di obiettivi e di attività svolta, presentano esigenze di gestione della documentazione in modo unitario e coordinato; 
+* \ |STYLE20|\  - Uffici Organizzativi di Riferimento - un insieme di uffici che, per tipologia di mandato istituzionale e competenza, di funzione amministrativa perseguita, di obiettivi e di attività svolta, presentano esigenze di gestione della documentazione in modo unitario e coordinato; 
 
-* UU - Ufficio Utente - un ufficio dell'AOO che utilizza i servizi messi a disposizione dal servizio di protocollo informatico; ovvero il soggetto, destinatario del documento, così come risulta dai campi opzionali della segnatura di protocollo. 
+* \ |STYLE21|\  - Ufficio Utente - un ufficio dell'AOO che utilizza i servizi messi a disposizione dal servizio di protocollo informatico; ovvero il soggetto, destinatario del documento, così come risulta dai campi opzionali della segnatura di protocollo. 
 
-Per le norme ed i regolamenti di riferimento vedasi l'elenco riportato nell'\ |STYLE1|\ .
+Per le norme ed i regolamenti di riferimento vedasi l'elenco riportato nell'\ |STYLE22|\ .
 
 .. _h216946b6a4f2014785e4527a454b3:
 
 1.4    Area Organizzativa Omogenea e modello organizzativo adottato
 ===================================================================
 
-Per la gestione dei documenti, viene individuata un’unica Area Organizzativa Omogenea (AOO), denominata “Comune di Palermo”, che comprende tutte le diverse strutture organizzative in cui si articola l'Ente. Ai fini della gestione del sistema documentario all’interno del Comune di Palermo sono individuati una pluralità di Uffici Organizzativi di Riferimento (UOR).
+Per la gestione dei documenti, viene individuata un’unica Area Organizzativa Omogenea (AOO), denominata “\ |STYLE23|\ ”, che comprende tutte le diverse strutture organizzative in cui si articola l'Ente. Ai fini della gestione del sistema documentario all’interno del Comune di Palermo sono individuati una pluralità di Uffici Organizzativi di Riferimento (UOR).
 
 Il sistema di protocollazione adottato dal Comune di Palermo è unico, ed è accentrato per la corrispondenza in entrata nonché per la documentazione pervenuta a mezzo PEC istituzionale e tramite interoperabilità; è decentrato per la corrispondenza in uscita e interna attraverso tutti gli UOR (che svolgono anche i compiti di  UOP).
 
@@ -95,9 +95,9 @@ Il sistema di protocollazione adottato dal Comune di Palermo è unico, ed è acc
 
 Nella AOO è istituito il servizio per la tenuta del protocollo informatico, la gestione dei flussi documentali e degli archivi.
 
-Al suddetto servizio è preposto il Responsabile del Servizio di Protocollo informatico, della gestione dei flussi documentali e degli archivi (di seguito RSP).
+Al suddetto servizio è preposto il Responsabile del Servizio di Protocollo informatico, della gestione dei flussi documentali e degli archivi (di seguito \ |STYLE24|\ ).
 
-Le attività afferenti al Servizio di Protocollo informatico, della gestione dei flussi documentali e degli archivi, sono coordinate da un dirigente, il Coordinatore della gestione documentale (di seguito CGD) .
+Le attività afferenti al Servizio di Protocollo informatico, della gestione dei flussi documentali e degli archivi, sono coordinate da un dirigente, il Coordinatore della gestione documentale (di seguito \ |STYLE25|\ ) .
 
 In relazione alla modalità di fruizione del servizio di protocollo adottata dalla AOO, è compito del servizio:
 
@@ -142,7 +142,7 @@ Per l'espletamento delle attività istituzionali e per quelle connesse all’att
 1.8     Tutela dei dati personali
 =================================
 
-L'Amministrazione titolare dei dati di protocollo e dei dati personali, comuni, sensibili e/o giudiziari, contenuti nella documentazione amministrativa di propria competenza  ottempera al dettato del regolamento UE GDPR n. 2016/679.
+L'Amministrazione titolare dei dati di protocollo e dei dati personali, comuni, sensibili e/o giudiziari, contenuti nella documentazione amministrativa di propria competenza ottempera al dettato del regolamento UE GDPR n. 2016/679.
 
 .. _h7f16362e7c3c515515c127550256451:
 
@@ -158,7 +158,7 @@ L'Amministrazione munisce i propri dipendenti di una casella di posta elettronic
 1.10   Sistema di classificazione dei documenti
 ===============================================
 
-Per la classificazione dei documenti viene utilizzato il  \ |STYLE2|\  indicato dall’Agenzia per l’Italia Digitale per i comuni \ |LINK1|\  (sezione “Documenti di indirizzo”), denominato “\ |STYLE3|\ ”, e redatto dal “Gruppo di lavoro per la formulazione di proposte e modelli per la riorganizzazione dell’archivio dei Comuni”, edizione dicembre 2005. Il Titolario dettagliato è descritto nell’\ |STYLE4|\ .
+Per la classificazione dei documenti viene utilizzato il  \ |STYLE26|\  indicato dall’Agenzia per l’Italia Digitale per i comuni \ |LINK1|\  (sezione “Documenti di indirizzo”), denominato “\ |STYLE27|\ ”, e redatto dal “Gruppo di lavoro per la formulazione di proposte e modelli per la riorganizzazione dell’archivio dei Comuni”, edizione dicembre 2005. Il Titolario dettagliato è descritto nell’\ |STYLE28|\ .
 
 .. _h25161a3b6e57167716791b3c392f:
 
@@ -182,7 +182,7 @@ Nell'ambito dei piani formativi richiesti a tutte le amministrazioni sulla forma
 
 L'Amministrazione, nell'ambito degli adempimenti previsti, si è accreditata presso l'Indice delle Pubbliche Amministrazioni (IPA), tenuto e reso pubblico dalla medesima, fornendo le informazioni che individuano l'amministrazione stessa. 
 
-Il codice identificativo “\ |STYLE5|\ ” è stato generato e attribuito autonomamente dall'Amministrazione. L'indice delle pubbliche amministrazioni (IPA) è accessibile tramite il relativo sito internet da parte di tutti i soggetti pubblici o privati. L'Amministrazione comunica tempestivamente all'IPA ogni successiva modifica delle proprie credenziali di riferimento e la data in cui la modifica stessa sarà operativa.
+Il codice identificativo “\ |STYLE29|\ ” è stato generato e attribuito autonomamente dall'Amministrazione. L'indice delle pubbliche amministrazioni (IPA) è accessibile tramite il relativo sito internet da parte di tutti i soggetti pubblici o privati. L'Amministrazione comunica tempestivamente all'IPA ogni successiva modifica delle proprie credenziali di riferimento e la data in cui la modifica stessa sarà operativa.
 
 Il referente dell’Amministrazione, per l'IPA è stato individuato all'interno dei Servizi Informatici nella figura del RTP.
 
@@ -201,17 +201,65 @@ Gli eventuali documenti cartacei ricevuti, dopo registrazione e segnatura di pro
 .. bottom of content
 
 
-.. |STYLE0| replace:: **l'allegato 1**
+.. |STYLE0| replace:: **Amministrazione**
 
-.. |STYLE1| replace:: **allegato 2**
+.. |STYLE1| replace:: **Codice  dell’Amministrazione Digitale**
 
-.. |STYLE2| replace:: **Titolario**
+.. |STYLE2| replace:: **Codice dei beni culturali**
 
-.. |STYLE3| replace:: **Piano di classificazione (= Titolario) per gli archivi dei Comuni italiani (seconda edizione)**
+.. |STYLE3| replace:: **Regole tecniche per il protocollo**
 
-.. |STYLE4| replace:: **allegato 4**
+.. |STYLE4| replace:: **Regole tecniche per il protocollo informatico**
 
-.. |STYLE5| replace:: **c_g273**
+.. |STYLE5| replace:: **Regole tecniche per la conservazione**
+
+.. |STYLE6| replace:: **Regole tecniche in materia di sistema di conservazione ai sensi degli articoli 20,commi 3 e 5-bis, 23-ter, comma 4, 43, commi 1 e 3, 44, 44-bis e 71, comma 1, del Codice dell’Amministrazione Digitale di cui al D. Lgs. n. 82 del 2005**
+
+.. |STYLE7| replace:: **Testo Unico**
+
+.. |STYLE8| replace:: **l'allegato 1**
+
+.. |STYLE9| replace:: **AOO**
+
+.. |STYLE10| replace:: **PORTALE DEI SERVIZI ONLINE**
+
+.. |STYLE11| replace:: **SCRIVANIA VIRTUALE**
+
+.. |STYLE12| replace:: **IOP**
+
+.. |STYLE13| replace:: **IPA**
+
+.. |STYLE14| replace:: **RPA**
+
+.. |STYLE15| replace:: **RSP**
+
+.. |STYLE16| replace:: **RTP**
+
+.. |STYLE17| replace:: **SdP**
+
+.. |STYLE18| replace:: **SMTP**
+
+.. |STYLE19| replace:: **UOP**
+
+.. |STYLE20| replace:: **UOR**
+
+.. |STYLE21| replace:: **UU**
+
+.. |STYLE22| replace:: **allegato 2**
+
+.. |STYLE23| replace:: **Comune di Palermo**
+
+.. |STYLE24| replace:: **RSP**
+
+.. |STYLE25| replace:: **CGD**
+
+.. |STYLE26| replace:: **Titolario**
+
+.. |STYLE27| replace:: **Piano di classificazione (= Titolario) per gli archivi dei Comuni italiani (seconda edizione)**
+
+.. |STYLE28| replace:: **allegato 4**
+
+.. |STYLE29| replace:: **c_g273**
 
 
 .. |LINK1| raw:: html
