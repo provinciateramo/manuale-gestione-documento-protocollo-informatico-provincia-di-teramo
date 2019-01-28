@@ -93,7 +93,7 @@ Di conseguenza, per la formazione, la gestione e la sottoscrizione di documenti 
 4.5    Documento informatico
 ============================
 
-Il documento informatico è la rappresentazione informatica di atti, fatti o dati giuridicamente rilevanti; l’art. 20 del D. Lgs. del 7 marzo 2005, n. 82  “Codice dell’amministrazione digitale” e successive modifiche, prevede che “il documento informatico da chiunque formato, la registrazione su supporto informatico e la trasmissione con strumenti telematici sono validi e rilevanti a tutti gli effetti di legge, se conformi alle disposizioni del presente codice ed alle regole tecniche di cui all’art.71” adottate con  D.P.C.M. 3 dicembre 2013 “Regole tecniche per il protocollo informatico ai sensi degli articoli 40 -bis , 41, 47, 57bis e 71, del Codice dell’amministrazione digitale di cui al decreto legislativo n. 82 del 2005”, D.P.C.M. 3 dicembre 2013 “Regole tecniche in materia di sistema di conservazione ai sensi degli articoli 20, commi 3 e 5-bis, 23-ter, comma 4, 43, commi 1 e 3, 44 , 44-bis e 71, comma 1, del Codice dell'amministrazione digitale di cui al decreto legislativo n. 82 del 2005”e  D.P.C.M. 13 novembre 2014 “Regole tecniche in materia di formazione, trasmissione, copia, duplicazione, riproduzione e validazione temporale dei documenti informatici nonché di formazione e conservazione dei documenti informatici delle pubbliche amministrazioni ai sensi degli articoli 20, 22, 23-bis, 23-ter, 40, comma 1, 41, e 71, comma 1, del Codice dell'amministrazione digitale di cui al decreto legislativo n. 82 del 2005”. I documenti informatici prodotti, indipendentemente dal software utilizzato per la loro redazione, prima della loro eventuale sottoscrizione con firma digitale sono convertiti in uno dei formati aperti standard previsti dalla normativa vigente in materia di archiviazione, al fine di garantire la non alterabilità durante le fasi di accesso e conservazione e l’immutabilità nel tempo del contenuto e della struttura. Un documento nativo informatico non può essere convertito in formato analogico prima della sua eventuale acquisizione a sistema di protocollo o archiviazione informatica. 
+Il documento informatico è la rappresentazione informatica di atti, fatti o dati giuridicamente rilevanti; l’art. 20 del D. Lgs. del 7 marzo 2005, n. 82  “\ |STYLE0|\ ” e successive modifiche, prevede che “il documento informatico da chiunque formato, la registrazione su supporto informatico e la trasmissione con strumenti telematici sono validi e rilevanti a tutti gli effetti di legge, se conformi alle disposizioni del presente codice ed alle regole tecniche di cui all’art.71” adottate con  D.P.C.M. 3 dicembre 2013 “\ |STYLE1|\ ”, D.P.C.M. 3 dicembre 2013 “\ |STYLE2|\ ” e  D.P.C.M. 13 novembre 2014 “\ |STYLE3|\ ”. I documenti informatici prodotti, indipendentemente dal software utilizzato per la loro redazione, prima della loro eventuale sottoscrizione con firma digitale sono convertiti in uno dei formati aperti standard previsti dalla normativa vigente in materia di archiviazione, al fine di garantire la non alterabilità durante le fasi di accesso e conservazione e l’immutabilità nel tempo del contenuto e della struttura. Un documento nativo informatico non può essere convertito in formato analogico prima della sua eventuale acquisizione a sistema di protocollo o archiviazione informatica. 
 
 .. _h3d246c7d84f6c3f521f2225305a69:
 
@@ -114,20 +114,30 @@ Il duplicato del documento informatico è un documento prodotto mediante idoneo 
 4.8     Copia del documento informatico e analogico: nozione
 ============================================================
 
-La copia di documento informatico è un documento informatico che, mediante processi e strumenti idonei, assicura la corrispondenza della copia alle informazioni del documento informatico di origine attraverso l’utilizzo di uno dei formati idonei ai sensi della normativa vigente. La copia di documento informatico è, dunque, un documento informatico che muta il formato del documento originario o che muta il supporto del documento originario informatico. Le copie del documento informatico hanno la stessa efficacia probatoria dell’originale da cui sono tratte se la loro conformità è attestata da un pubblico ufficiale a ciò autorizzato o se la conformità non è espressamente disconosciuta, fermo l’obbligo di conservazione dell’originale informatico. La copia di un documento analogico è la trascrizione o riproduzione dell’originale. Si distingue in copia semplice, imitativa e conforme. La copia semplice è la pura trascrizione dell’originale senza riguardo agli elementi formali. La copia imitativa riproduce sia il contenuto che la forma (es. fotocopia). La copia conforme è la copia certificata come conforme all’originale da un pubblico ufficiale autorizzato ad eseguire tale attestazione nell’esercizio delle sue funzioni (copia “autentica”). 
+La copia di documento informatico è un documento informatico che, mediante processi e strumenti idonei, assicura la corrispondenza della copia alle informazioni del documento informatico di origine attraverso l’utilizzo di uno dei formati idonei ai sensi della normativa vigente. La copia di documento informatico è, dunque, un documento informatico che muta il formato del documento originario o che muta il supporto del documento originario informatico. Le copie del documento informatico hanno la stessa efficacia probatoria dell’originale da cui sono tratte se la loro conformità è attestata da un pubblico ufficiale a ciò autorizzato o se la conformità non è espressamente disconosciuta, fermo l’obbligo di conservazione dell’originale informatico. La copia di un documento analogico è la trascrizione o riproduzione dell’originale. Si distingue in copia semplice, imitativa e conforme. 
+
+La copia semplice è la pura trascrizione dell’originale senza riguardo agli elementi formali. 
+
+La copia imitativa riproduce sia il contenuto che la forma (es. fotocopia). 
+
+La copia conforme è la copia certificata come conforme all’originale da un pubblico ufficiale autorizzato ad eseguire tale attestazione nell’esercizio delle sue funzioni (copia “autentica”). 
 
 .. _h5f19306c335f67543223a6a77184e0:
 
 4.9     Copia informatica del documento amministrativo analogico
 ================================================================
 
-È possibile produrre la copia su supporto informatico di documenti amministrativi in origine su supporto analogico. La copia informatica ha il medesimo valore dell’originale analogico da cui è tratta se attestata conforme dal funzionario a ciò delegato nei modi stabiliti dalla legge. L’attestazione di conformità può essere inserita nel documento informatico contenente la copia informatica o può essere prodotta come documento separato contenente un riferimento temporale e l’impronta di ogni copia. In entrambi i casi l’attestazione deve essere sottoscritta con firma digitale del notaio o con firma digitale o firma elettronica qualificata del pubblico ufficiale a ciò autorizzato; se prodotta come documento informatico separato, questo deve contenere un riferimento temporale e l’impronta di ogni copia o estratto informatico oggetto dell’attestazione. Per copia informatica di un documento analogico si intende:
+È possibile produrre la copia su supporto informatico di documenti amministrativi in origine su supporto analogico. La copia informatica ha il medesimo valore dell’originale analogico da cui è tratta se attestata conforme dal funzionario a ciò delegato nei modi stabiliti dalla legge. L’attestazione di conformità può essere inserita nel documento informatico contenente la copia informatica o può essere prodotta come documento separato contenente un riferimento temporale e l’impronta di ogni copia. In entrambi i casi l’attestazione deve essere sottoscritta con firma digitale del notaio o con firma digitale o firma elettronica qualificata del pubblico ufficiale a ciò autorizzato; se prodotta come documento informatico separato, questo deve contenere un riferimento temporale e l’impronta di ogni copia o estratto informatico oggetto dell’attestazione. 
+
+Per copia informatica di un documento analogico si intende:
 
 * copia informatica del documento analogico, data dal documento informatico avente contenuto identico a quello del documento analogico da cui è tratto ma diverso come forma; 
 
 * copia per immagine su supporto informatico di documento analogico, avente contenuto e forma uguali all’originale. 
 
-La copia per immagine su supporto informatico di un documento analogico è prodotta mediante processi e strumenti che assicurano che il documento informatico abbia contenuto e forma identici a quelli del documento analogico da cui è tratto, previo raffronto dei documenti o attraverso certificazione di processo nei casi in cui siano adottate tecniche in grado di garantire la corrispondenza della forma e del contenuto dell’originale e della copia.  Le copie informatiche di documenti analogici, spediti o rilasciati dai depositari pubblici autorizzati e dai pubblici ufficiali hanno la medesima efficacia probatoria degli originali se a esse è apposta o associata, da parte di colui che le spedisce o le rilascia, una firma digitale o altra firma elettronica qualificata e dichiarazione di conformità: 
+La copia per immagine su supporto informatico di un documento analogico è prodotta mediante processi e strumenti che assicurano che il documento informatico abbia contenuto e forma identici a quelli del documento analogico da cui è tratto, previo raffronto dei documenti o attraverso certificazione di processo nei casi in cui siano adottate tecniche in grado di garantire la corrispondenza della forma e del contenuto dell’originale e della copia.  
+
+Le copie informatiche di documenti analogici, spediti o rilasciati dai depositari pubblici autorizzati e dai pubblici ufficiali hanno la medesima efficacia probatoria degli originali se a esse è apposta o associata, da parte di colui che le spedisce o le rilascia, una firma digitale o altra firma elettronica qualificata e dichiarazione di conformità: 
 
 * per “rilascio” si intende la consegna di un supporto fisico idoneo a ricevere la memorizzazione della rappresentazione corrispondente al documento analogico e della dichiarazione di conformità munita della firma elettronica del pubblico ufficiale; 
 
@@ -184,7 +194,7 @@ Il documento deve consentire l’identificazione dell’Amministrazione mittente
 
 Il documento, inoltre, deve recare almeno le seguenti informazioni:
 
-* il luogo di redazione; 
+* il luogo di redazione (ufficio specifico dell’Amministrazione comunale di Palermo); 
 
 * la data di redazione (giorno, mese, anno);
 
@@ -210,7 +220,7 @@ I documenti possono essere sottoscritti digitalmente da uno o più soggetti.
 4.14   Elenco dei formati dei documenti informatici 
 ====================================================
 
-Salvo i casi in cui, in relazione a specifici flussi documentali, vi siano particolari previsioni normative, o istruzioni operative per la fruizione di servizi telematici che dispongano diversamente, l’Ente assicura l’accettazione dei documenti elettronici inviati ai suoi uffici tramite posta elettronica, posta elettronica certificata e altri canali telematici oppure consegnati direttamente su supporti informatici quando sono prodotti in uno dei seguenti formati: 
+Salvo i casi in cui, in relazione a specifici flussi documentali, vi siano particolari previsioni normative, o istruzioni operative per la fruizione di servizi telematici che dispongano diversamente, l’\ |STYLE4|\  tramite posta elettronica, posta elettronica certificata e altri canali telematici oppure consegnati direttamente su supporti informatici quando sono prodotti in uno dei seguenti formati: 
 
 * .pdf (compreso il formato PDF/A);
 
@@ -218,7 +228,7 @@ Salvo i casi in cui, in relazione a specifici flussi documentali, vi siano parti
 
 * .doc, .docx, .xsl, .xlsx, .ppt, pptx;
 
-* .odf, .odt; .csv; .shape file
+* .odf, .odt; .csv; .shape file;
 
 * .txt (codifica Unicode UTF 8);
 
@@ -226,7 +236,7 @@ Salvo i casi in cui, in relazione a specifici flussi documentali, vi siano parti
 
 * .p7m (documenti firmati digitalmente con sottoscrizione di tipo CADES e a condizione che i file originali oggetto di sottoscrizione digitale siano prodotti in uno dei formati previsti nel presente elenco). 
 
-Sono accettati dall’Ente tutti i formati previsti dalle Linee Guida nazionali per la “valorizzazione del patrimonio Informativo pubblico” dell’Agenzia per l’Italia Digitale, e dalle “Linee Guida open data del Comune di Palermo”.
+Sono accettati dall’Ente tutti i formati previsti dalle “Linee Guida nazionali per la valorizzazione del patrimonio Informativo pubblico” dell’Agenzia per l’Italia Digitale, e dalle “Linee Guida open data del Comune di Palermo”.
 
 .. _h5684a74196e5d5a5b454e655cd1913:
 
@@ -316,3 +326,14 @@ La trasmissione del documento informatico per via telematica, con una modalità 
 
 
 .. bottom of content
+
+
+.. |STYLE0| replace:: *Codice dell’Amministrazione Digitale*
+
+.. |STYLE1| replace:: *Regole tecniche per il protocollo informatico ai sensi degli articoli 40 -bis , 41, 47, 57bis e 71, del Codice dell’amministrazione digitale di cui al decreto legislativo n. 82 del 2005*
+
+.. |STYLE2| replace:: *Regole tecniche in materia di sistema di conservazione ai sensi degli articoli 20, commi 3 e 5-bis, 23-ter, comma 4, 43, commi 1 e 3, 44 , 44-bis e 71, comma 1, del Codice dell'amministrazione digitale di cui al decreto legislativo n. 82 del 2005*
+
+.. |STYLE3| replace:: *Regole tecniche in materia di formazione, trasmissione, copia, duplicazione, riproduzione e validazione temporale dei documenti informatici nonché di formazione e conservazione dei documenti informatici delle pubbliche amministrazioni ai sensi degli articoli 20, 22, 23-bis, 23-ter, 40, comma 1, 41, e 71, comma 1, del Codice dell'Amministrazione Digitale di cui al decreto legislativo n. 82 del 2005*
+
+.. |STYLE4| replace:: **Ente assicura l’accettazione dei documenti elettronici inviati ai suoi uffici**
