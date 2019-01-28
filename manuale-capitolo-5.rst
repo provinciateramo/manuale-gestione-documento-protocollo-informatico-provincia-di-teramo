@@ -65,14 +65,20 @@ Qualora i messaggi di posta elettronica non siano conformi agli standard indicat
 5.2.4   Ricezione di documenti informatici su caselle di posta elettronica  non certificate
 -------------------------------------------------------------------------------------------
 
-I messaggi che vengono ricevuti su  caselle di posta elettronica non certificate, sono soggette alla valutazione, da parte del titolare della casella stessa, in merito alla ricevibilità e all'invio al protocollo, in ragione della loro rispondenza a criteri di attendibilità e riconducibilità al mittente dichiarato.
+I messaggi che vengono ricevuti su caselle di posta elettronica non certificate degli uffici, sono soggette alla valutazione, da parte del titolare della casella stessa, in merito alla ricevibilità e all'invio al protocollo, in ragione della loro rispondenza a criteri di attendibilità e riconducibilità al mittente dichiarato. A tal uopo si elencano i criteri minimi che devono essere rispettati nei messaggi che vengono ricevuti su caselle di posta elettronica non certificate degli uffici:
+
+* l’oggetto del messaggio deve contenere sinteticamente la descrizione delle motivazioni per cui il mittente invia il messaggio stesso all’ufficio dell’Amministrazione comunale; ciò al fine di permettere a chi presidia la posta elettronica non certificata, di individuare tempestivamente il destinatario ultimo del messaggio e poterlo così trattare nel protocollo informatico per le finalità di assegnazione;
+
+* il testo del messaggio deve ricondurre tempestivamente al motivo per il quale il mittente invia il messaggio stesso all’ufficio dell’Amministrazione comunale, sempre al fine di trattare nel protocollo informatico l’assegnazione al destinatario interessato dalla comunicazione pervenuta.
+
+Nel caso in cui dall’oggetto o dal testo non sia possibile individuare le motivazioni per cui il mittente invia il messaggio stesso all’ufficio dell’Amministrazione comunale, il ricevente il messaggio non è tenuto a processare tale messaggio nel protocollo informatico, informando lo stesso mittente con una risposta, via posta elettronica non certificata, le motivazioni, di cui ai due precedenti punti, della non registrazione del messaggio sul protocollo informatico.
 
 .. _h2b156a524a6535f3f65da57351019:
 
 5.2.5   Ricezione di documenti informatici su supporti rimovibili 
 ------------------------------------------------------------------
 
-Nei casi in cui con un documento cartaceo siano trasmessi anche  documenti informatici su supporto rimovibile, considerata l'assenza di standard tecnologici e formali in materia di registrazione di file digitali, la AOO si riserva la facoltà di acquisire e trattare tutti i documenti che riesce a decodificare e ad interpretare con le tecnologie a sua disposizione. Per il resto dei documenti non decodificabili la AOO si riserva di chiedere le integrazioni ritenute necessarie al mittente. 
+Nei casi in cui con un documento cartaceo siano trasmessi anche documenti informatici su supporto rimovibile, considerata l'assenza di standard tecnologici e formali in materia di registrazione di file digitali, la AOO si riserva la facoltà di acquisire e trattare tutti i documenti che riesce a decodificare e ad interpretare con le tecnologie a sua disposizione. Per il resto dei documenti non decodificabili la AOO si riserva di chiedere le integrazioni ritenute necessarie al mittente. 
 
 Superata questa fase, il documento viene inserito nel flusso di lavorazione e sottoposto a tutti i controlli e adempimenti del caso. 
 
@@ -95,13 +101,13 @@ Le buste, o contenitori, sono inizialmente esaminati per una preliminare verific
 
 Tutte le buste anche quelle indirizzate nominativamente vengono aperte fatta eccezione per:
 
-buste o plichi riportanti l'indicazione "offerta", "gara d'appalto", "trattativa privata", "preventivo", "indagini di mercato" (per queste ultime, qualora sia richiesto che le stesse pervengano in busta chiusa), o simili: in questo caso  il timbro datario di entrata dell'Amministrazione viene apposto direttamente sulla busta chiusa, unitamente all'ora di arrivo e alla firma leggibile del ricevente. Gli addetti alla ricezione sono tenuti ad accettare sempre e comunque le buste pervenute, indipendentemente dal fatto che siano consegnate fuori termine, oppure con un mezzo diverso da quello riportato nella lettera d'invito. La busta viene registrata al protocollo con la segnatura applicata sull'esterno del plico e successivamente consegnata chiusa all'Ufficio competente. La busta  costituisce parte integrante e sostanziale dell'istanza e deve essere conservata unitamente alla documentazione in essa contenuta. La gestione successiva della busta chiusa compete all'ufficio responsabile del procedimento.
+buste o plichi riportanti l'indicazione "offerta", "gara d'appalto", "trattativa privata", "preventivo", "indagini di mercato" (per queste ultime, qualora sia richiesto che le stesse pervengano in busta chiusa), o simili: in questo caso  il timbro datario di entrata dell'Amministrazione viene apposto direttamente sulla busta chiusa, unitamente all'ora di arrivo e alla firma leggibile del ricevente. Gli addetti alla ricezione sono tenuti ad accettare sempre e comunque le buste pervenute, indipendentemente dal fatto che siano consegnate fuori termine, oppure con un mezzo diverso da quello riportato nella lettera d'invito. La busta viene registrata al protocollo con la segnatura applicata sull'esterno del plico e successivamente consegnata chiusa all'Ufficio competente. La busta costituisce parte integrante e sostanziale dell'istanza e deve essere conservata unitamente alla documentazione in essa contenuta. La gestione successiva della busta chiusa compete all'ufficio responsabile del procedimento.
 
-Corrispondenza personale, ovvero quella che riporta la dicitura "personale" o "riservata  personale" e simili; tale corrispondenza non viene aperta né protocollata ma inoltrata chiusa al destinatario che ne valuterà il contenuto e provvederà a farlo protocollare se necessario.
+\ |STYLE0|\ , ovvero quella che riporta la dicitura "personale" o "riservata  personale" e simili; tale corrispondenza non viene aperta né protocollata ma inoltrata chiusa al destinatario che ne valuterà il contenuto e provvederà a farlo protocollare se necessario.
 
 Qualora un documento cartaceo sia consegnato dal servizio postale direttamente all'ufficio  destinatario del documento, lo stesso deve essere consegnato immediatamente alla UOP centrale di protocollo a cura del personale che lo riceve.
 
-Per motivi organizzativi gli  UOR/UU  sono tenuti ad informare preventivamente il personale addetto  alla ricezione e l'UOP centrale di protocollo in merito alle scadenze (ad esempio concorsi, gare, bandi di ogni genere). Gli uffici sono altresì tenuti ad indicare nei bandi di gara, concorsi ed altra documentazione soggetta a scadenze il giorno e l’orario di scadenza che siano compatibili con l’orario dell’UOP centrale di protocollo e dell'’ufficio a cui deve essere inviata la documentazione.
+Per motivi organizzativi gli  UOR/UU  sono tenuti ad informare preventivamente il personale addetto  alla ricezione e l'UOP centrale di protocollo in merito alle scadenze (ad esempio concorsi, gare, bandi di ogni genere). Gli uffici sono altresì tenuti ad indicare nei bandi di gara, concorsi ed altra documentazione soggetta a scadenze, il luogo di consegna, il giorno e l’orario di scadenza che siano compatibili con l’orario dell’UOP centrale di protocollo e dell'’ufficio a cui deve essere inviata la documentazione.
 
 La corrispondenza in arrivo è aperta il giorno lavorativo in cui è pervenuta e di norma contestualmente protocollata.
 
@@ -114,14 +120,14 @@ La corrispondenza ricevuta via telegramma, per ciò che concerne la registrazion
 5.2.7   Errata ricezione di documenti informatici 
 --------------------------------------------------
 
-In caso di  messaggi erroneamente ricevuti (rilevabile anche dal loro contenuto), l'operatore restituisce il messaggio al mittente con la dicitura "Messaggio pervenuto per errore - non di competenza di questa AOO". 
+In caso di  messaggi erroneamente ricevuti (rilevabile anche dal loro contenuto), l'operatore restituisce il messaggio al mittente con la dicitura "\ |STYLE1|\ ". 
 
 .. _h4e5c2810324b392c4973432a5f2853:
 
 5.2.8   Errata ricezione di documenti cartacei 
 -----------------------------------------------
 
-Nel caso in cui pervengano erroneamente all’amministrazione documenti non di competenza comunque indirizzati al Comune di Palermo  possono verificarsi le seguenti possibilità: 
+Nel caso in cui pervengano erroneamente all’amministrazione documenti non di competenza comunque indirizzati al Comune di Palermo possono verificarsi le seguenti possibilità: 
 
 * se la busta è indirizzata ad altro destinatario si restituisce alla posta;
 
@@ -146,11 +152,11 @@ Nel caso di interoperabilità di protocollo il SdP provvede alla formazione ed i
 
 * messaggio di conferma di protocollazione:  messaggio che contiene la conferma dell'avvenuta protocollazione in ingresso di un documento ricevuto. Si differenzia da altre forme di ricevute di recapito generate dal servizio di posta elettronica dell'AOO in quanto segnala l'avvenuta protocollazione del documento, e quindi l'effettiva presa in carico; 
 
-* messaggio di notifica di eccezione:  messaggio che notifica la rilevazione di una anomalia in un messaggio ricevuto; 
+* messaggio di notifica di eccezione: messaggio che notifica la rilevazione di una anomalia in un messaggio ricevuto; 
 
-* messaggio di annullamento di protocollazione:  messaggio che contiene una comunicazione di annullamento di una protocollazione in ingresso di un documento ricevuto in precedenza; 
+* messaggio di annullamento di protocollazione: messaggio che contiene una comunicazione di annullamento di una protocollazione in ingresso di un documento ricevuto in precedenza; 
 
-* messaggio di aggiornamento di protocollazione:  messaggio che contiene una comunicazione di aggiornamento riguardante un documento protocollato ricevuto in precedenza. 
+* messaggio di aggiornamento di protocollazione: messaggio che contiene una comunicazione di aggiornamento riguardante un documento protocollato ricevuto in precedenza. 
 
 .. _h51631403b1c6c2848525f60777f2e1c:
 
@@ -159,7 +165,7 @@ Nel caso di interoperabilità di protocollo il SdP provvede alla formazione ed i
 
 Quando il documento cartaceo è consegnato direttamente dal mittente o da altra persona incaricata ed è richiesto il rilascio di una ricevuta, gli addetti alla ricezione fotocopiano gratuitamente la prima pagina del documento e appongono sulla copia così realizzata il timbro dell'amministrazione, con la data, la firma e l'ora d'arrivo se richiesta.
 
-Per avere ricevuta con  il numero di protocollo che è stato assegnato al documento è necessario rivolgersi alle UOP.
+Per ottenere ricevuta con il numero di protocollo che è stato assegnato al documento è necessario rivolgersi alle UOP.
 
 .. _h667125f644265363614365358314b59:
 
@@ -215,7 +221,7 @@ L'UOR ricevente avrà cura di :
 
 * eseguire una verifica di congruità in base alle proprie competenze; 
 
-* restituire, in caso di errore,  il documento alla UOP centrale di protocollo; 
+* restituire, in caso di errore, il documento alla UOP centrale di protocollo; 
 
 * prendere in carico il documento per i necessari adempimenti ed eventualmente assegnarlo al proprio interno ad un UU o direttamente al RPA. 
 
@@ -230,11 +236,11 @@ Tutte le operazioni di modifica, smistamento ed assegnazione dei documenti sono 
 
 Durante l'ultima fase del flusso di lavorazione della corrispondenza in ingresso vengono svolte le seguenti attività a cura dell'UOR: 
 
-* verifica della  corretta \ |STYLE0|\  del documento; 
+* verifica della  corretta \ |STYLE2|\  del documento; 
 
-* \ |STYLE1|\  del documento secondo le procedure previste dall'AOO; 
+* \ |STYLE3|\  del documento secondo le procedure previste dall'AOO; 
 
-* inserimento del fascicolo nell'apposito \ |STYLE2|\  nel caso ne venga aperto uno nuovo. 
+* inserimento del fascicolo nell'apposito \ |STYLE4|\  nel caso ne venga aperto uno nuovo. 
 
 .. _h26152d34f405e5f2636f5d47211b3:
 
@@ -382,17 +388,21 @@ Per quanto riguarda le ricevute digitali  l'archiviazione avviene in modo automa
 
 In  caso di mancata associazione automatica delle ricevute, su richiesta degli UOR, l'UOP centrale di protocollo verifica l'avvenuta consegna tramite attività di monitoraggio. 
 
-I messaggi generati  dai sistemi di interoperabilità relativi a protocolli in uscita, che il SdP non riesce ad associare in automatico alla rispettiva registrazione, vengono  associati manualmente dagli operatori dell'UOP centrale di protocollo attraverso apposita funzione presente nel SdP stesso.
+I messaggi generati dai sistemi di interoperabilità relativi a protocolli in uscita, che il SdP non riesce ad associare in automatico alla rispettiva registrazione, vengono  associati manualmente dagli operatori dell'UOP centrale di protocollo attraverso apposita funzione presente nel SdP stesso.
 
 
 .. bottom of content
 
 
-.. |STYLE0| replace:: **classificazione**
+.. |STYLE0| replace:: **Corrispondenza personale**
 
-.. |STYLE1| replace:: **fascicolazione**
+.. |STYLE1| replace:: *Messaggio pervenuto per errore - non di competenza di questa AOO*
 
-.. |STYLE2| replace:: **repertorio**
+.. |STYLE2| replace:: **classificazione**
+
+.. |STYLE3| replace:: **fascicolazione**
+
+.. |STYLE4| replace:: **repertorio**
 
 
 .. |REPLACE1| raw:: html
