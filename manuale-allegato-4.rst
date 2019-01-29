@@ -536,6 +536,14 @@ Il titolo è stato previsto per il carteggio prodotto nell’ambito dell’esple
 Titolo XIV. Oggetti diversi
 ===========================
 
+--------
+
+
+..  Note:: 
+
+    Il contenuto del testo di questa pagina è disponibile in formato aperto qui:
+    \ |LINK2|\  
+
 
 .. bottom of content
 
@@ -546,4 +554,8 @@ Titolo XIV. Oggetti diversi
 .. |LINK1| raw:: html
 
     <a href="https://www.agid.gov.it/piattaforme/sistema-gestione-procedimenti-amministrativi/flussi-documentali-protocollo-informatico" target="_blank">https://www.agid.gov.it/piattaforme/sistema-gestione-procedimenti-amministrativi/flussi-documentali-protocollo-informatico</a>
+
+.. |LINK2| raw:: html
+
+    <a href="http://bit.ly/manuale-allegato-4" target="_blank">http://bit.ly/manuale-allegato-4</a>
 
