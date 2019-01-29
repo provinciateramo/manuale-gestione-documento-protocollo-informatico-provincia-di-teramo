@@ -186,6 +186,15 @@ Dare atto che
 
 * il presente atto non comporta oneri riflessi diretti o indiretti sulla situazione economico finanziaria dell'Amministrazione Comunale. 
 
+--------
+
+
+..  Note:: 
+
+    Il contenuto del testo di questa pagina è disponibile in formato aperto qui:
+    \ |LINK1|\  
+
+
 .. bottom of content
 
 
@@ -198,3 +207,9 @@ Dare atto che
 .. |STYLE3| replace:: **“manuale di gestione del protocollo informatico, dei documenti e dell'archivio del Comune di Palermo”**
 
 .. |STYLE4| replace:: **“manuale di gestione del protocollo informatico, dei documenti e dell'archivio del Comune di Palermo”**
+
+
+.. |LINK1| raw:: html
+
+    <a href="http://bit.ly/proposta-delibera-giunta" target="_blank">http://bit.ly/proposta-delibera-giunta</a>
+
