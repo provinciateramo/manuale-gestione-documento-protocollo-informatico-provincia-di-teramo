@@ -325,6 +325,12 @@ Il documento informatico trasmesso per via telematica si intende inviato e perve
 La trasmissione del documento informatico per via telematica, con una modalità che assicuri l'avvenuta consegna (interazione tra due caselle di posta elettronica certificata),  equivale alla notifica per mezzo della posta nei casi consentiti dalla legge. 
 
 
+..  Note:: 
+
+    Il contenuto del testo di questa pagina è disponibile in formato aperto qui:
+    \ |LINK1|\  
+
+
 .. bottom of content
 
 
@@ -337,3 +343,9 @@ La trasmissione del documento informatico per via telematica, con una modalità 
 .. |STYLE3| replace:: *Regole tecniche in materia di formazione, trasmissione, copia, duplicazione, riproduzione e validazione temporale dei documenti informatici nonché di formazione e conservazione dei documenti informatici delle pubbliche amministrazioni ai sensi degli articoli 20, 22, 23-bis, 23-ter, 40, comma 1, 41, e 71, comma 1, del Codice dell'Amministrazione Digitale di cui al decreto legislativo n. 82 del 2005*
 
 .. |STYLE4| replace:: **Ente assicura l’accettazione dei documenti elettronici inviati ai suoi uffici**
+
+
+.. |LINK1| raw:: html
+
+    <a href="http://bit.ly/manuale-capitolo-4" target="_blank">http://bit.ly/manuale-capitolo-4</a>
+
