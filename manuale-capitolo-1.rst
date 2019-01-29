@@ -200,6 +200,12 @@ L’amministrazione ha avviato procedure tali da consentire, in coerenza con le 
 Gli eventuali documenti cartacei ricevuti, dopo registrazione e segnatura di protocollo, sono sottoposti al processo di scansione per la loro dematerializzazione.
 
 
+..  Note:: 
+
+    Il contenuto del testo di questa pagina è disponibile in formato aperto qui:
+    \ |LINK2|\  
+
+
 .. bottom of content
 
 
@@ -271,4 +277,8 @@ Gli eventuali documenti cartacei ricevuti, dopo registrazione e segnatura di pro
 .. |LINK1| raw:: html
 
     <a href="https://www.agid.gov.it/piattaforme/sistema-gestione-procedimenti-amministrativi/flussi-documentali-protocollo-informatico" target="_blank">https://www.agid.gov.it/piattaforme/sistema-gestione-procedimenti-amministrativi/flussi-documentali-protocollo-informatico</a>
+
+.. |LINK2| raw:: html
+
+    <a href="http://bit.ly/manuale-capitolo-1" target="_blank">http://bit.ly/manuale-capitolo-1</a>
 
