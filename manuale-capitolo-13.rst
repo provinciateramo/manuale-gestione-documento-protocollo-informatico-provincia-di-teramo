@@ -50,7 +50,19 @@ II presente manuale è operativo al momento dell'esecutività dell'atto di appro
 --------
 
 
+..  Note:: 
+
+    Il contenuto del testo di questa pagina è disponibile in formato aperto qui:
+    \ |LINK1|\  
+
+
 .. bottom of content
 
 
 .. |STYLE0| replace:: *Manuale di gestione*
+
+
+.. |LINK1| raw:: html
+
+    <a href="http://bit.ly/manuale-capitolo-13" target="_blank">http://bit.ly/manuale-capitolo-13</a>
+
