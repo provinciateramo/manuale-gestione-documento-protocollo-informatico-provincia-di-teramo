@@ -66,12 +66,11 @@ h1, h2, h3 {
 
 
 /* disativa il testo "edit on Github" in alto a destra */
-/*
 .wy-breadcrumbs li.wy-breadcrumbs-aside {
     float: right;
     display: none;
 }
-*/
+
 
 
 /* #ccd8ab colore deciso per appattarlo al verdino della freccia, per versione mobile */
