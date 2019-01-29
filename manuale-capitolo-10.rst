@@ -281,6 +281,12 @@ Dell’affidamento temporaneo rimane traccia nella posizione fisica occupata dal
 La consultazione da utenti esterni all'Amministrazione, è disciplinata regolamento per la disciplina dell'accesso ai documenti amministrativi  è consultabile sul sito istituzionale dell'Ente.
 
 
+..  Note:: 
+
+    Il contenuto del testo di questa pagina è disponibile in formato aperto qui:
+    \ |LINK4|\  
+
+
 .. bottom of content
 
 
@@ -308,4 +314,8 @@ La consultazione da utenti esterni all'Amministrazione, è disciplinata regolame
 .. |LINK3| raw:: html
 
     <a href="https://manuale-gestione-protocollo-documento-informatico-palermo.readthedocs.io/it/latest/manuale-allegato-4.html" target="_blank">allegato 4</a>
+
+.. |LINK4| raw:: html
+
+    <a href="http://bit.ly/manuale-capitolo-10" target="_blank">http://bit.ly/manuale-capitolo-10</a>
 
