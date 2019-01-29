@@ -190,4 +190,16 @@ Fanno parte di questo gruppo tutti i dipendenti dei vari Servizi dell'Ente che a
 * interrogazione, con visibilità limitata, dei  documenti di competenza dell'UOR con le restrizioni formalmente indicate dal Dirigente responsabile.
 
 
+..  Note:: 
+
+    Il contenuto del testo di questa pagina è disponibile in formato aperto qui:
+    \ |LINK1|\  
+
+
 .. bottom of content
+
+
+.. |LINK1| raw:: html
+
+    <a href="http://bit.ly/manuale-capitolo-8" target="_blank">http://bit.ly/manuale-capitolo-8</a>
+
