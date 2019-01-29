@@ -18,11 +18,11 @@ Atteso che:
 
 Premesso che:
 
-* il Decreto del Presidente del Consiglio dei Ministri del 3 dicembre 2013 "Regole tecniche in materia di conservazione”, ai sensi degli articoli 20, commi 3 e 5-bis, 23-ter, comma 4, 43, commi 1 e 3, 44, 44-bis e 71, commi 1, del CAD, prevede che le pubbliche amministrazioni di cui all'articolo 2,  comma 2 (del CAD):
+* il Decreto del Presidente del Consiglio dei Ministri del 3 dicembre 2013 "Regole tecniche in materia di conservazione”, ai sensi degli articoli 20, commi 3 e 5-bis, 23-ter, comma 4, 43, commi 1 e 3, 44, 44-bis e 71, commi 1, del CAD, prevede che le pubbliche amministrazioni di cui all'articolo 2,  comma 2 (del CAD): 
 
-#. provvedano a nominare il responsabile della gestione documentale e un suo vicario, per casi di vacanza, assenza o impedimento del primo al quale vengono attribuiti i compiti di cui all'art. 4 del decreto medesimo; 
+    * provvedano a nominare il responsabile della gestione documentale e un suo vicario, per casi di vacanza, assenza o impedimento del primo al quale vengono attribuiti i compiti di cui all'art. 4 del decreto medesimo;  
 
-#. adottino su proposta del responsabile del Servizio Innovazione il manuale di gestione, che descrive il sistema di gestione, anche ai fini della conservazione dei documenti informatici, e fornisce le istruzioni per il corretto funzionamento del servizio per la tenuta del protocollo informatico, della gestione dei flussi documentali e degli archivi;
+    * adottino su proposta del responsabile del Servizio Innovazione il manuale di gestione, che descrive il sistema di gestione, anche ai fini della conservazione dei documenti informatici, e fornisce le istruzioni per il corretto funzionamento del servizio per la tenuta del protocollo informatico, della gestione dei flussi documentali e degli archivi;
 
 Considerato:
 
