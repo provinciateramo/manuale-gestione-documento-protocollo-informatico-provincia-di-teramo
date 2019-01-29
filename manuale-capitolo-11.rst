@@ -476,4 +476,16 @@ E'  disponibile per le UOP del SdP una funzione applicativa di "Stampa registro 
 Inoltre, al fine di assicurare l'integrità e la disponibilità dei dati contenuti nel registro di protocollo generale della AOO, il SdP provvede, il giorno successivo lavorativo alla stampa ufficiale giornaliera del protocollo del giorno precedente.
 
 
+..  Note:: 
+
+    Il contenuto del testo di questa pagina è disponibile in formato aperto qui:
+    \ |LINK1|\  
+
+
 .. bottom of content
+
+
+.. |LINK1| raw:: html
+
+    <a href="http://bit.ly/manuale-capitolo-11" target="_blank">http://bit.ly/manuale-capitolo-11</a>
+
