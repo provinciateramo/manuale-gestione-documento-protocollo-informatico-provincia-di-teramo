@@ -153,6 +153,12 @@ Glossario dei termini contenuti nelle regole tecniche di cui all’articolo 71 d
 \ |STYLE72|\ : operazione con cui il responsabile della conservazione di un organo giudiziario o amministrativo dello Stato effettua l'invio agli Archivi di Stato o all’Archivio Centrale dello Stato della documentazione destinata ad essere ivi conservata ai sensi della normativa vigente in materia di beni culturali.
 
 
+..  Note:: 
+
+    Il contenuto del testo di questa pagina è disponibile in formato aperto qui:
+    \ |LINK7|\  
+
+
 .. bottom of content
 
 
@@ -326,4 +332,8 @@ Glossario dei termini contenuti nelle regole tecniche di cui all’articolo 71 d
 .. |LINK6| raw:: html
 
     <a href="https://www.agid.gov.it/sites/default/files/repository_files/leggi_decreti_direttive/dpcm_13_11_2014_regole_tecniche_documento_informatico.pdf" target="_blank">Decreto del Presidente del Consiglio dei Ministri del 13 novembre 2014</a>
+
+.. |LINK7| raw:: html
+
+    <a href="http://bit.ly/manuale-allegato-1" target="_blank">http://bit.ly/manuale-allegato-1</a>
 
