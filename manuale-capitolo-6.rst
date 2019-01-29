@@ -55,4 +55,16 @@ Nel caso di smistamento o assegnazione errati, l’ufficio che riceve il documen
 Tutte le operazioni di modifica, smistamento ed assegnazione dei documenti sono tracciate dal SdP. 
 
 
+..  Note:: 
+
+    Il contenuto del testo di questa pagina è disponibile in formato aperto qui:
+    \ |LINK1|\  
+
+
 .. bottom of content
+
+
+.. |LINK1| raw:: html
+
+    <a href="http://bit.ly/manuale-capitolo-6" target="_blank">http://bit.ly/manuale-capitolo-6</a>
+
