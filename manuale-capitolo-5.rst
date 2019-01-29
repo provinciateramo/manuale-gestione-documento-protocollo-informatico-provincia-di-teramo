@@ -391,6 +391,12 @@ In  caso di mancata associazione automatica delle ricevute, su richiesta degli U
 I messaggi generati dai sistemi di interoperabilità relativi a protocolli in uscita, che il SdP non riesce ad associare in automatico alla rispettiva registrazione, vengono  associati manualmente dagli operatori dell'UOP centrale di protocollo attraverso apposita funzione presente nel SdP stesso.
 
 
+..  Note:: 
+
+    Il contenuto del testo di questa pagina è disponibile in formato aperto qui:
+    \ |LINK1|\  
+
+
 .. bottom of content
 
 
@@ -411,3 +417,8 @@ I messaggi generati dai sistemi di interoperabilità relativi a protocolli in us
 .. |REPLACE2| raw:: html
 
     <img src="https://raw.githubusercontent.com/cirospat/manuale-gestione-documento-protocollo-informatico-comune-palermo/master/static/immagine-manuale-capitolo-5-bis.PNG" />
+
+.. |LINK1| raw:: html
+
+    <a href="http://bit.ly/manuale-capitolo-5" target="_blank">http://bit.ly/manuale-capitolo-5</a>
+
