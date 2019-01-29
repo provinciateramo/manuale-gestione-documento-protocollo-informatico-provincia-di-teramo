@@ -109,4 +109,16 @@ portali e già tracciati su apposite piattaforme che ne curano la registrazione,
 un codice univoco e la persistenza nel tempo.
 
 
+..  Note:: 
+
+    Il contenuto del testo di questa pagina è disponibile in formato aperto qui:
+    \ |LINK1|\  
+
+
 .. bottom of content
+
+
+.. |LINK1| raw:: html
+
+    <a href="http://bit.ly/manuale-allegato-3" target="_blank">http://bit.ly/manuale-allegato-3</a>
+
