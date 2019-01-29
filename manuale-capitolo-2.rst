@@ -23,4 +23,16 @@ Tutti i protocolli diversi dal protocollo informatico, sono da considerarsi di f
 In generale il RSP provvede al monitoraggio dell’operato di tutte le UOP per verificarne la conformità ai contenuti del presente Manuale. In particolare RSP esegue periodicamente controlli a campione per la verifica del corretto uso dell'unico registro di protocollo. 
 
 
+..  Note:: 
+
+    Il contenuto del testo di questa pagina è disponibile in formato aperto qui:
+    \ |LINK1|\  
+
+
 .. bottom of content
+
+
+.. |LINK1| raw:: html
+
+    <a href="http://bit.ly/manuale-capitolo-2" target="_blank">http://bit.ly/manuale-capitolo-2</a>
+
