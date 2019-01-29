@@ -81,10 +81,20 @@ Ciascun complesso dei documenti sopra descritti, in quanto aggregazione di docum
 Oltre a quelli elencati possono essere istituiti altri registri con le stesse caratteristiche.
 
 
+..  Note:: 
+
+    Il contenuto del testo di questa pagina è disponibile in formato aperto qui:
+    \ |LINK2|\  
+
+
 .. bottom of content
 
 
 .. |LINK1| raw:: html
 
     <a href="https://manuale-gestione-protocollo-documento-informatico-palermo.readthedocs.io/it/latest/manuale-allegato-3.html" target="_blank">allegato 3</a>
+
+.. |LINK2| raw:: html
+
+    <a href="http://bit.ly/manuale-capitolo-9" target="_blank">http://bit.ly/manuale-capitolo-9</a>
 
