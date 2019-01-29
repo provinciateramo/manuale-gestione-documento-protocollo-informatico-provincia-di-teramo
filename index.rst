@@ -14,9 +14,9 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
 
 .. admonition:: Fonte delle informazioni contenute nel Manuale
 
-    La fonte del seguente documento è il “\ |STYLE0|\ ” della Provincia di Pistoia, approvato con Decreto Presidenziale. n. 101 del 12/04/2017, disponibile al seguente link: \ |LINK2|\ .
+    La fonte del seguente documento è il “\ |STYLE0|\ ” della Provincia di Pistoia, approvato con Decreto Presidenziale. n. 101 del 12/04/2017, disponibile al \ |LINK2|\ .
     
-    Detto “manuale” coincide nei contenuti con il Manuale analogo dell’Agenzia per l’Italia Digitale (AgID): \ |LINK3|\  (sezione “documentazione allegata”).  
+    Detto “manuale” coincide nei contenuti con il \ |LINK3|\ , (sezione “documentazione allegata”).  
     
     Il manuale così individuato è stato adattato alle esigenze del Comune di Palermo.
     Nell’elaborare un manuale di gestione del protocollo informatico, dei documenti e dell’archivio del Comune di Palermo è stata effettuata una ricognizione online per analizzare analoghi manuali redatti recentemente da altre pubbliche amministrazioni. E’ stato scelto tra tanti il manuale della Provincia di Pistoia e dell’AGID in quanto esso tratta un’ampia casistica di situazioni in cui si può ritrovare quotidianamente il personale di una PA nella gestione del protocollo informatico, dei documenti e dell’archivio.
@@ -79,9 +79,9 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
 
 .. |LINK2| raw:: html
 
-    <a href="http://www.provincia.pistoia.it/articolo/2017/09/manuale-di-gestione-del-protocollo-informatico-dei-documenti-e-dellarchivio" target="_blank">http://www.provincia.pistoia.it/articolo/2017/09/manuale-di-gestione-del-protocollo-informatico-dei-documenti-e-dellarchivio</a>
+    <a href="http://www.provincia.pistoia.it/articolo/2017/09/manuale-di-gestione-del-protocollo-informatico-dei-documenti-e-dellarchivio" target="_blank">link</a>
 
 .. |LINK3| raw:: html
 
-    <a href="https://www.agid.gov.it/piattaforme/sistema-gestione-procedimenti-amministrativi/flussi-documentali-protocollo-informatico" target="_blank">https://www.agid.gov.it/piattaforme/sistema-gestione-procedimenti-amministrativi/flussi-documentali-protocollo-informatico</a>
+    <a href="https://www.agid.gov.it/piattaforme/sistema-gestione-procedimenti-amministrativi/flussi-documentali-protocollo-informatico" target="_blank">Manuale analogo dell’Agenzia per l’Italia Digitale (AgID)</a>
 
