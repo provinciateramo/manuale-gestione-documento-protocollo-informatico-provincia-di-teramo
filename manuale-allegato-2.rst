@@ -60,4 +60,17 @@ Decreto Presidente del Consiglio dei Ministri 24 ottobre 2014 “Definizione del
 
 Decreto Presidente del Consiglio dei Ministri 13 novembre 2014 “Regole tecniche in materia di formazione, trasmissione, copia, duplicazione, riproduzione e validazione temporale dei documenti informatici nonche' di formazione e conservazione dei documenti informatici delle pubbliche amministrazioni ai sensi degli articoli 20, 22, 23-bis, 23-ter, 40, comma 1, 41, e 7. 
 
+
+..  Note:: 
+
+    Il contenuto del testo di questa pagina è disponibile in formato aperto qui:
+    \ |LINK1|\  
+
+
 .. bottom of content
+
+
+.. |LINK1| raw:: html
+
+    <a href="http://bit.ly/manuale-allegato-2" target="_blank">http://bit.ly/manuale-allegato-2</a>
+
