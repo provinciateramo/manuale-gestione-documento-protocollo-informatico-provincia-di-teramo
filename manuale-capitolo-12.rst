@@ -72,4 +72,16 @@ Le informazioni relative ai documenti protocollati in emergenza sono inserite ne
 Durante la fase di recupero dei dati a ciascun documento registrato in emergenza viene attribuito un numero di protocollo generale che deve mantenere stabilmente la correlazione con il numero utilizzato in emergenza. Per ogni giornata di registrazione di emergenza è riportato sul relativo registro il numero totale di operazioni registrate.
 
 
+..  Note:: 
+
+    Il contenuto del testo di questa pagina è disponibile in formato aperto qui:
+    \ |LINK1|\  
+
+
 .. bottom of content
+
+
+.. |LINK1| raw:: html
+
+    <a href="http://bit.ly/manuale-capitolo-12" target="_blank">http://bit.ly/manuale-capitolo-12</a>
+
