@@ -243,6 +243,12 @@ Si applicheranno in ogni caso, per l’archiviazione e la custodia dei documenti
 La conservazione dovrà garantire  l’integrità e l’affidabilità dei documenti, nonché il contesto di produzione, la loro struttura e il loro contenuto.
 
 
+..  Note:: 
+
+    Il contenuto del testo di questa pagina è disponibile in formato aperto qui:
+    \ |LINK2|\  
+
+
 .. bottom of content
 
 
@@ -266,4 +272,8 @@ La conservazione dovrà garantire  l’integrità e l’affidabilità dei docume
 .. |LINK1| raw:: html
 
     <a href="https://www.agid.gov.it/sites/default/files/repository_files/documenti_indirizzo/istruzioni_per_la_produzione_e_conservazione_registro_giornaliero_di_protocollo.pdf" target="_blank">Istruzioni per la produzione e conservazione del registro giornaliero di protocollo</a>
+
+.. |LINK2| raw:: html
+
+    <a href="http://bit.ly/manuale-capitolo-3" target="_blank">http://bit.ly/manuale-capitolo-3</a>
 
