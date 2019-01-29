@@ -83,5 +83,5 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
 
 .. |LINK3| raw:: html
 
-    <a href="https://www.agid.gov.it/piattaforme/sistema-gestione-procedimenti-amministrativi/flussi-documentali-protocollo-informatico" target="_blank">Manuale analogo dell’Agenzia per l’Italia Digitale (AgID)</a>
+    <a href="https://www.agid.gov.it/piattaforme/sistema-gestione-procedimenti-amministrativi/flussi-documentali-protocollo-informatico" target="_blank">Manuale di gestione del protocollo informatico, dei documenti e dell’archivio dell’Agenzia per l’Italia Digitale (AgID)</a>
 
