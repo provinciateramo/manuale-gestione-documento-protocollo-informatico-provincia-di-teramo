@@ -24,6 +24,8 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
 
 ..  Important:: 
 
+    \ |STYLE1|\ .
+    
     La presente versione di Manuale va rivista alla luce della pubblicazione, \ |LINK4|\ , delle \ |LINK5|\  (in consultazione pubblica fino al 16 novembre 2019).
 
 
@@ -69,6 +71,8 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
 
 
 .. |STYLE0| replace:: *Manuale di Gestione del protocollo informatico, dei documenti e dell’archivio*
+
+.. |STYLE1| replace:: **Ottobre 2019**
 
 
 .. |REPLACE1| raw:: html
