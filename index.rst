@@ -22,6 +22,11 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
     Nell’elaborare un manuale di gestione del protocollo informatico, dei documenti e dell’archivio del Comune di Palermo è stata effettuata una ricognizione online per analizzare analoghi manuali redatti recentemente da altre pubbliche amministrazioni. E’ stato scelto tra tanti il manuale della Provincia di Pistoia e dell’AGID in quanto esso tratta un’ampia casistica di situazioni in cui si può ritrovare quotidianamente il personale di una PA nella gestione del protocollo informatico, dei documenti e dell’archivio.
 
 
+..  Important:: 
+
+    La presente versione di Manuale va rivista alla luce della pubblicazione, \ |LINK4|\ , delle \ |LINK5|\  (in consultazione pubblica fino al 16 novembre 2019).
+
+
 .. toctree:: 
     :maxdepth: 3
     :caption: Indice del manuale
@@ -84,4 +89,12 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
 .. |LINK3| raw:: html
 
     <a href="https://www.agid.gov.it/piattaforme/sistema-gestione-procedimenti-amministrativi/flussi-documentali-protocollo-informatico" target="_blank">Manuale di gestione del protocollo informatico, dei documenti e dell’archivio dell’Agenzia per l’Italia Digitale (AgID)</a>
+
+.. |LINK4| raw:: html
+
+    <a href="https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/notizie/2019/10/17/consultazione-linee-guida-sulla-formazione-gestione-conservazione-documenti" target="_blank">da parte dell’AgID</a>
+
+.. |LINK5| raw:: html
+
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs" target="_blank">Linee Guida sulla formazione, gestione e conservazione dei documenti informatici</a>
 
