@@ -28,9 +28,7 @@ Decreto del Presidente della Repubblica 20 dicembre 2000, n. 445:
 
 * tutti i documenti già soggetti a registrazione particolare dell’Amministrazione.
 
-Sono esclusi dalla registrazione di protocollo i documenti già soggetti a registrazione mediante
-
-registri particolari dell’Amministrazione:
+Sono esclusi dalla registrazione di protocollo i documenti già soggetti a registrazione mediante registri particolari dell’Amministrazione:
 
 * Registro delle proposte di Deliberazioni di Giunta e di Consiglio Comunale;
 
@@ -54,9 +52,7 @@ registri particolari dell’Amministrazione:
 
 * Registro delle pubblicazione all'albo pretorio online. 
 
-Sono esclusi dalla registrazione di protocollo i documenti già soggetti ad altro tipo di
-
-registrazione particolare presso l’Amministrazione:
+Sono esclusi dalla registrazione di protocollo i documenti già soggetti ad altro tipo di registrazione particolare presso l’Amministrazione:
 
 * Buste paga;
 
@@ -102,11 +98,7 @@ Sono altresì esclusi dalla protocollazione, le seguenti tipologie documentarie:
 
 * Ricevute di ritorno delle raccomandate A/R.
 
-Sono esclusi dalla registrazione di protocollo atti, documenti e certificazioni scaricati da
-
-portali e già tracciati su apposite piattaforme che ne curano la registrazione, attribuendo loro
-
-un codice univoco e la persistenza nel tempo.
+Sono esclusi dalla registrazione di protocollo atti, documenti e certificazioni scaricati da portali e già tracciati su apposite piattaforme che ne curano la registrazione, attribuendo loro un codice univoco e la persistenza nel tempo.
 
 
 ..  Note:: 
