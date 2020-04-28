@@ -4,9 +4,7 @@
 Allegato 3 - Documenti esclusi dalla registrazione di Protocollo
 ================================================================
 
-Sono esclusi dalla registrazione di protocollo tutti i documenti di cui all’art. 53 comma 5 del
-
-Decreto del Presidente della Repubblica 20 dicembre 2000, n. 445:
+Sono esclusi dalla registrazione di protocollo tutti i documenti di cui all’art. 53 comma 5 del Decreto del Presidente della Repubblica 20 dicembre 2000, n. 445:
 
 * Gazzette ufficiali;
 
