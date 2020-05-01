@@ -18,15 +18,16 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
     
     Detto “manuale” coincide nei contenuti con il \ |LINK3|\ , (sezione “documentazione allegata”).  
     
-    Il manuale così individuato è stato adattato alle esigenze del Comune di Palermo.
-    Nell’elaborare un manuale di gestione del protocollo informatico, dei documenti e dell’archivio del Comune di Palermo è stata effettuata una ricognizione online per analizzare analoghi manuali redatti recentemente da altre pubbliche amministrazioni. E’ stato scelto tra tanti il manuale della Provincia di Pistoia e dell’AGID in quanto esso tratta un’ampia casistica di situazioni in cui si può ritrovare quotidianamente il personale di una PA nella gestione del protocollo informatico, dei documenti e dell’archivio.
+    Nell’elaborare il manuale di gestione del protocollo informatico, dei documenti e dell’archivio del Comune di Palermo è stata effettuata una ricognizione online per analizzare analoghi manuali redatti recentemente da altre pubbliche amministrazioni. E’ stato scelto tra tanti il manuale della Provincia di Pistoia e dell’AGID in quanto essi trattano un’ampia casistica di situazioni in cui si può ritrovare quotidianamente il personale di un grande comune  nella gestione del protocollo informatico, dei documenti e dell’archivio.
+    
+    Il presente manuale è stato adattato alle esigenze del Comune di Palermo.
 
 
 ..  Important:: 
 
     \ |STYLE1|\ .
     
-    La presente versione di Manuale va rivista alla luce della pubblicazione, \ |LINK4|\ , delle \ |LINK5|\  (in consultazione pubblica fino al 16 novembre 2019).
+    La presente versione di Manuale va rivista alla luce della pubblicazione, \ |LINK4|\ , delle \ |LINK5|\  (in consultazione pubblica fino al 16 novembre 2019). Al mese di aprile 2020 ancora le Linee guida sulla formazione, gestione e conservazione dei documenti informatici, a cura dell’AGID, non sono state pubblicate nella GURI.
 
 
 .. toctree:: 
@@ -81,6 +82,9 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
 .. |REPLACE2| raw:: html
 
     <p><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Bozza versione gennaio 2019</span></p>
+    <br>
+    <p><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Revisione bozza versione novembre 2019</span></p>
+    
 
 .. |LINK1| raw:: html
 
