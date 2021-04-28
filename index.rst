@@ -33,6 +33,7 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
 ..  Warning:: 
 
     \ |STYLE2|\ 
+    
     A partire dalla data di applicazione delle \ |LINK6|\ , sono abrogati:
     
     * il \ |STYLE3|\  \ |LINK7|\ ”;
