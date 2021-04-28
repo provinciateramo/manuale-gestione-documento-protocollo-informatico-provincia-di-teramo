@@ -34,11 +34,11 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
 
     A partire dalla data di applicazione delle Linee Guida AGID, sono abrogati:
     
-    * il DPCM 13 novembre 2014, contenente “Regole tecniche in materia di formazione, trasmissione, copia, duplicazione, riproduzione e validazione temporale dei documenti \ |LINK6|\ ”;
+    * il \ |STYLE2|\  \ |LINK6|\ ”;
     
-    * il DPCM 3 dicembre 2013, contenente “Regole tecniche in materia di sistema di conservazione”, ad eccezione dell’art. 13 che rimane in vigore fino alla emanazione delle Linee guida di cui all’art. 29 del CAD.
+    * il \ |STYLE3|\ ”, ad eccezione dell’art. 13 che rimane in vigore fino alla emanazione delle Linee guida di cui all’art. 29 del CAD.
     
-    Per quanto concerne il DPCM 3 dicembre 2013, contenente “Regole tecniche per il protocollo informatico”, a partire dalla data di applicazione delle presenti Linee guida sono abrogate tutte le disposizioni fatte salve le seguenti:
+    Per quanto concerne il \ |STYLE4|\ ”, a partire dalla data di applicazione delle presenti Linee guida sono abrogate tutte le disposizioni fatte salve le seguenti:
     
     * art. 2 comma 1;
     
@@ -53,9 +53,10 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
     * art. 20;
     
     * art. 21.
-    Sempre a far data dalla data di applicazione delle presenti Linee guida, la circolare n. 60 del 23 gennaio 2013 dell’AgID in materia di “Formato e definizione dei tipi di informazioni minime ed accessorie associate ai messaggi scambiati tra le Pubbliche Amministrazioni” è abrogata e sostituita dall’allegato 6 “Comunicazione tra AOO di documenti amministrativi protocollati” del presente documento.
     
-    Restano efficaci le disposizioni di cui alla Circolare n. 65 del 10 aprile 2014, fino all’entrata in vigore delle Linee Guida previste dall’art. 29 del CAD (nota).
+    Sempre a far data dalla data di applicazione delle presenti Linee guida, la \ |STYLE5|\  in materia di “Formato e definizione dei tipi di informazioni minime ed accessorie associate ai messaggi scambiati tra le Pubbliche Amministrazioni” è abrogata e sostituita dall’allegato 6 “Comunicazione tra AOO di documenti amministrativi protocollati” del presente documento.
+    
+    Restano efficaci le disposizioni di cui alla \ |STYLE6|\ , fino all’entrata in vigore delle Linee Guida previste dall’art. 29 del CAD (\ |STYLE7|\ ).
     
     (nota)
     L’art. 29, comma 1, del CAD prevede che “I soggetti che intendono
@@ -107,6 +108,18 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
 .. |STYLE0| replace:: *Manuale di Gestione del protocollo informatico, dei documenti e dell’archivio*
 
 .. |STYLE1| replace:: **Ottobre 2019**
+
+.. |STYLE2| replace:: **DPCM 13 novembre 2014, contenente “Regole tecniche in materia di formazione, trasmissione, copia, duplicazione, riproduzione e validazione temporale dei documenti**
+
+.. |STYLE3| replace:: **DPCM 3 dicembre 2013, contenente “Regole tecniche in materia di sistema di conservazione**
+
+.. |STYLE4| replace:: **DPCM 3 dicembre 2013, contenente “Regole tecniche per il protocollo informatico**
+
+.. |STYLE5| replace:: **circolare n. 60 del 23 gennaio 2013 dell’AgID**
+
+.. |STYLE6| replace:: **Circolare n. 65 del 10 aprile 2014**
+
+.. |STYLE7| replace:: **nota**
 
 
 .. |REPLACE1| raw:: html
