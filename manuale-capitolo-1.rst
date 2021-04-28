@@ -9,9 +9,11 @@
 1.1    Premessa
 ===============
 
-II decreto del Presidente del Consiglio dei Ministri 3 dicembre 2013 concernente le "Regole tecniche per il protocollo informatico”, articolo 3, comma 1, lettera d), prevede l'adozione del manuale di gestione per tutte le amministrazioni di cui all'articolo 2, comma 2, del decreto legislativo 7 marzo 2005, n. 82, Codice dell’Amministrazione Digitale. Il manuale di gestione, disciplinato dal successivo art. 5, comma 1, "descrive il sistema di gestione anche ai fini della conservazione, dei documenti informatici e fornisce le istruzioni per il corretto funzionamento del servizio per la tenuta del protocollo informatico, della gestione dei flussi documentali e degli archivi”. 
+:class:`II decreto del Presidente del Consiglio dei Ministri 3 dicembre 2013 concernente le "Regole tecniche per il protocollo informatico”, articolo 3, comma 1, lettera d), prevede l'adozione del manuale di gestione per tutte le amministrazioni di cui all'articolo 2, comma 2, del decreto legislativo 7 marzo 2005, n. 82, Codice dell’Amministrazione Digitale. Il manuale di gestione, disciplinato dal successivo art. 5, comma 1, "descrive il sistema di gestione anche ai fini della conservazione, dei documenti informatici e fornisce le istruzioni per il corretto funzionamento del servizio per la tenuta del protocollo informatico, della gestione dei flussi documentali e degli archivi”`. \ |STYLE0|\ \ |LINK1|\ \ |STYLE1|\ 
 
-In questo ambito è previsto che ogni amministrazione pubblica individui una o più \ |STYLE0|\ , all'interno delle quali sia nominato un responsabile del servizio per la tenuta del protocollo informatico, della gestione dei flussi documentali e degli archivi, ai sensi dell’articolo 50 del Testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa (decreto del Presidente della Repubblica n. 445 del 28 dicembre 2000). 
+Il presente manuale di gestione è la concreta attuazione delle \ |LINK2|\  del 2019 a cura dell’Agenzia per l’Italia Digitale (AGID), che costituiscono la nuova versione aggiornata delle regole tecniche in materia di formazione, protocollazione, gestione e conservazione del documento, già precedentemente regolate nei DPCM del 2013 e 2014.
+
+In questo ambito è previsto che ogni amministrazione pubblica individui una o più \ |STYLE2|\ , all'interno delle quali sia nominato un responsabile del servizio per la tenuta del protocollo informatico, della gestione dei flussi documentali e degli archivi, ai sensi dell’articolo 50 del Testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa (decreto del Presidente della Repubblica n. 445 del 28 dicembre 2000). 
 
 Obiettivo del Manuale di gestione è descrivere sia il sistema di gestione documentale a partire dalla fase di protocollazione della corrispondenza in ingresso e in uscita e di quella interna, sia le funzionalità disponibili per gli addetti al servizio e per i soggetti esterni che a diverso titolo interagiscono con l'amministrazione. Il protocollo informatico, anche con le sue funzionalità minime, costituisce l'infrastruttura di base tecnico-funzionale su cui avviare il processo di ammodernamento e di trasparenza dell'attività dell'amministrazione comunale. Il manuale è destinato alla più ampia diffusione interna ed esterna, in quanto fornisce le istruzioni complete per eseguire correttamente le operazioni di formazione, registrazione, classificazione, fascicolazione e archiviazione dei documenti. Il presente documento, pertanto, si rivolge non solo agli operatori di protocollo, ma, in generale, a tutti i dipendenti e ai soggetti esterni che si relazionano con l'amministrazione. 
 
@@ -20,11 +22,40 @@ Obiettivo del Manuale di gestione è descrivere sia il sistema di gestione docum
 1.2     Ambito di applicazione del manuale
 ==========================================
 
-Il presente manuale è adottato ai sensi dell’art. 3 , comma 1, lett. d) del DPCM 3 dicembre 2013, recante le regole tecniche per il protocollo informatico. 
+Il presente manuale è adottato ai sensi delle \ |LINK3|\  del 2019 a cura dell’Agenzia per l’Italia Digitale (AGID)  :class:`dell’art. 3 , comma 1, lett. d) del DPCM 3 dicembre 2013, recante le regole tecniche per il protocollo informatico` (\ |LINK4|\ ). 
 
-Esso descrive allo stato attuale le attività di formazione, registrazione, classificazione, fascicolazione dei documenti ed archiviazione degli stessi, oltre che il flusso di lavorazione dei documenti del Comune di Palermo.
+Il manuale si applica all’intera Area Organizzativa Omogenea del Comune di Palermo.
+
+Il manuale descrive allo stato attuale le attività di \ |STYLE3|\ .
 
 Il protocollo fa fede, anche con effetto giuridico, dell'effettivo ricevimento e della spedizione di un documento.
+
+.. _h1424b7b6874285a223211146d3a5022:
+
+1.2.1. Principi generali della gestione documentale
+---------------------------------------------------
+
+La gestione documentale è un processo che può essere suddiviso in tre fasi principali: \ |STYLE4|\ . Nell’ambito di ognuna delle suddette fasi si svolgono una serie di attività che si distinguono per complessità, impatto, natura, finalità e/o effetto, anche giuridico, alle quali corrispondono approcci metodologici e prassi operative distinte.
+
+La gestione documentale, affinché possa essere efficiente e sicura, deve essere necessariamente presidiata da specifiche procedure e strumenti informatici, in grado di governare con efficacia ogni singolo accadimento che coinvolge la vita del documento ed effettuata secondo i principi generali applicabili in materia di trattamento dei dati personali anche mediante un’adeguata analisi del rischio. Un corretto processo di gestione del documento sin dalla fase di formazione rappresenta, infatti, la migliore garanzia per l’adempimento degli obblighi tipici della gestione degli archivi.
+
+\ |STYLE5|\ , si distinguono tre fasi di gestione in ragione delle diverse modalità di organizzazione ed utilizzo dei documenti:
+
+#. \ |STYLE6|\ : riguarda i documenti necessari alle attività correnti;
+
+#. \ |STYLE7|\ : riguarda i documenti ancora utili per finalità amministrative o giuridiche, ma non più indispensabili per la trattazione delle attività correnti;
+
+#. \ |STYLE8|\ : riguarda i documenti storici selezionati per la conservazione permanente.
+
+Nella fase di formazione devono essere perseguiti obiettivi di qualità, efficienza, razionalità, sistematicità, accessibilità e coerenza alle regole tecniche che presidiano la formazione dei documenti informatici, tenendo in debito conto le esigenze e i bisogni pratici del lavoro quotidiano tipico dell’amministrazione. Al tal fine, risulta decisivo avvalersi del presente manuale di gestione documentale, di workflow documentali e sistemi di Document & Content Management e di applicativi informatici ai sensi degli articoli 68 e 69 del CAD, che si basino su \ |STYLE9|\  \ |STYLE10|\ . In un contesto in continua trasformazione, il manuale di gestione documentale deve essere sottoposto a continuo aggiornamento, in ragione dell’evoluzione tecnologica e dell’obsolescenza degli oggetti e degli strumenti digitali utilizzati. Allo stesso modo, anche i processi e le attività che governano la fase di formazione dei documenti informatici devono essere sottoposti ad un costante lavoro di valutazione, monitoraggio, ri-progettazione e reingegnerizzazione. L’adozione del manuale di gestione documentale e di conservazione non risponde solo ad esigenze pratico-operative, ma rappresenta un preciso obbligo al quale fa seguito l’ulteriore obbligo della sua pubblicazione sul sito istituzionale dell’ente.
+
+La gestione dei documenti informatici prosegue con il suo trasferimento in un sistema di conservazione da realizzarsi in ottemperanza a quanto disposto dal CAD e dal presente manuale.
+
+Nell’ambito della gestione documentale possono essere necessarie attività di riversamento dei documenti in altro formato diverso da quello originale. Tale riversamento può avvenire più volte nella gestione del documento informatico e in diversi momenti per finalità gestionali o conservative.
+
+Accanto a queste fasi “essenziali” del ciclo di vita, vanno, altresì, esaminate quelle eventualmente rilevanti, specialmente con riferimento ai riversamenti e al documento amministrativo informatico, in caso di protocollazione e pubblicazione del documento informatico.
+
+In ambito digitale gli obblighi di pubblicazione di atti e provvedimenti amministrativi aventi effetto di pubblicità legale o comunque derivanti dalla normativa in materia di trasparenza devono essere assolti con la pubblicazione nei rispettivi siti web istituzionali. Affinché il processo di pubblicazione on line possa generare un prodotto atto ad assolvere i predetti obblighi è necessario che esso garantisca la conformità di quanto pubblicato all’originale, l’autorevolezza dell’ente emanatore e del sito web, la validità giuridica dei documenti e quindi la loro veridicità, efficacia e perdurabilità nel tempo.
 
  
 
@@ -35,58 +66,58 @@ Il protocollo fa fede, anche con effetto giuridico, dell'effettivo ricevimento e
 
 Ai fini del presente manuale si intende per:
 
-* "\ |STYLE1|\ ", Il Comune di Palermo;
+* "\ |STYLE11|\ ", Il Comune di Palermo;
 
-* "\ |STYLE2|\  ", il D. Lgs. 7 marzo 2005, n. 82 e successive modifiche e integrazioni;
+* "\ |STYLE12|\  ", il D. Lgs. 7 marzo 2005, n. 82 e successive modifiche e integrazioni;
 
-* “\ |STYLE3|\ ” il D. Lgs. 22.1.2004, n. 42 recante il “codice dei beni culturali e del paesaggio”;
+* “\ |STYLE13|\ ” il D. Lgs. 22.1.2004, n. 42 recante il “codice dei beni culturali e del paesaggio”;
 
-* "\ |STYLE4|\  ", il D.P.C.M. 3 dicembre 2013 concernente le "\ |STYLE5|\ ”;
+* "\ |STYLE14|\  ", il D.P.C.M. 3 dicembre 2013 concernente le "\ |STYLE15|\ ” soltanto per i seguenti articoli: art. 2 comma 1; art. 6; art. 9; art. 18 commi 1 e 5; art. 19; art. 20; art. 21. Gli altri articoli sono stati \ |LINK5|\ . 
 
-* “\ |STYLE6|\ ”,  il D.P.C.M. 13 novembre 2014, recante “\ |STYLE7|\ ”;
+* :class:\`“\ |STYLE16|\ ”,  il D.P.C.M. 13 novembre 2014, recante “\ |STYLE17|\ ” soltanto in relazione all’art. 13 (accreditamento) in quanto gli altri articoli sono stati \ |LINK6|\ .\`
 
-* "\ |STYLE8|\ ", il D.P.R. 20 dicembre 2000, n. 445 - Testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa.
+* "\ |STYLE18|\ ", il D.P.R. 20 dicembre 2000, n. 445 - Testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa.
 
-Per l’elenco completo delle definizioni vedasi \ |STYLE9|\ . 
+Per l’elenco completo delle definizioni vedasi \ |STYLE19|\ . 
 
 Di seguito si riportano gli acronimi utilizzati più frequentemente: 
 
-* \ |STYLE10|\  - Area Organizzativa Omogenea denominata Comune di Palermo;
+* \ |STYLE20|\  - Area Organizzativa Omogenea denominata Comune di Palermo;
 
-* \ |STYLE11|\  - Coordinatore della gestione documentale;
+* \ |STYLE21|\  - Coordinatore della gestione documentale;
 
-* \ |STYLE12|\  - la piattaforma informatica disponibile online che rende pubblici tutti gli atti amministrativi prodotti dall’Amministrazione, oggetto di pubblicazione nell’Albo Pretorio, e  che i cittadini e le aziende utilizzano per lo scambio documentale con il Comune di Palermo, previa autenticazione con credenziali;
+* \ |STYLE22|\  - la piattaforma informatica disponibile online che rende pubblici tutti gli atti amministrativi prodotti dall’Amministrazione, oggetto di pubblicazione nell’Albo Pretorio, e  che i cittadini e le aziende utilizzano per lo scambio documentale con il Comune di Palermo, previa autenticazione con credenziali;
 
-* \ |STYLE13|\  – Denominazione dell’applicativo che include  i moduli relativi alle procedure di protocollo informatico e gestione degli atti amministrativi;
+* \ |STYLE23|\  – Denominazione dell’applicativo che include i moduli relativi alle procedure di protocollo informatico e gestione dei documenti informatici;
 
-* \ |STYLE14|\  – Interoperabilità di protocollo tra pubbliche amministrazioni;
+* \ |STYLE24|\  – Interoperabilità di protocollo tra pubbliche amministrazioni;
 
-* \ |STYLE15|\  -  Indice delle Pubbliche Amministrazioni;
+* \ |STYLE25|\  -  Indice delle Pubbliche Amministrazioni;
 
-* \ |STYLE16|\  - Responsabile del Procedimento Amministrativo - il dipendente che ha la responsabilità dell'esecuzione degli adempimenti amministrativi relativi ad un affare; 
+* \ |STYLE26|\  - Responsabile del Procedimento Amministrativo - il dipendente che ha la responsabilità dell'esecuzione degli adempimenti amministrativi relativi ad un affare; 
 
-* \ |STYLE17|\  - Responsabile del Servizio per la tenuta del protocollo informatico, e dell'archivio; 
+* \ |STYLE27|\  - Responsabile del Servizio per la tenuta del protocollo informatico, e dell'archivio; 
 
-* \ |STYLE18|\  - Responsabile tecnico per la tenuta del sistema di gestione informatica del protocollo; coincide con la Società Informatica comunale SISPI SpA.;
+* \ |STYLE28|\  - Responsabile tecnico per la tenuta del sistema di gestione informatica del protocollo; coincide con la Società Informatica comunale SISPI SpA.;
 
-* \ |STYLE19|\  - Servizio di protocollo informatico;
+* \ |STYLE29|\  - Servizio di protocollo informatico;
 
-* \ |STYLE20|\  – servizio per la  trasmissione via internet di email;
+* \ |STYLE30|\  – servizio per la  trasmissione via internet di email;
 
-* \ |STYLE21|\  - Unità Organizzative di registrazione di Protocollo - rappresentano gli uffici che svolgono attività di registrazione di protocollo; 
+* \ |STYLE31|\  - Unità Organizzative di registrazione di Protocollo - rappresentano gli uffici che svolgono attività di registrazione di protocollo; 
 
-* \ |STYLE22|\  - Uffici Organizzativi di Riferimento - un insieme di uffici che, per tipologia di mandato istituzionale e competenza, di funzione amministrativa perseguita, di obiettivi e di attività svolta, presentano esigenze di gestione della documentazione in modo unitario e coordinato; 
+* \ |STYLE32|\  - Uffici Organizzativi di Riferimento - un insieme di uffici che, per tipologia di mandato istituzionale e competenza, di funzione amministrativa perseguita, di obiettivi e di attività svolta, presentano esigenze di gestione della documentazione in modo unitario e coordinato; 
 
-* \ |STYLE23|\  - Ufficio Utente - un ufficio dell'AOO che utilizza i servizi messi a disposizione dal servizio di protocollo informatico; ovvero il soggetto, destinatario del documento, così come risulta dai campi opzionali della segnatura di protocollo. 
+* \ |STYLE33|\  - Ufficio Utente - un ufficio dell'AOO che utilizza i servizi messi a disposizione dal servizio di protocollo informatico; ovvero il soggetto, destinatario del documento, così come risulta dai campi opzionali della segnatura di protocollo. 
 
-Per le norme ed i regolamenti di riferimento vedasi l'elenco riportato nell'\ |STYLE24|\ .
+Per le norme ed i regolamenti di riferimento vedasi l'elenco riportato nell'\ |STYLE34|\ .
 
 .. _h216946b6a4f2014785e4527a454b3:
 
 1.4    Area Organizzativa Omogenea e modello organizzativo adottato
 ===================================================================
 
-Per la gestione dei documenti, viene individuata un’unica Area Organizzativa Omogenea (AOO), denominata “\ |STYLE25|\ ”, che comprende tutte le diverse strutture organizzative in cui si articola l'Ente. Ai fini della gestione del sistema documentario all’interno del Comune di Palermo sono individuati una pluralità di Uffici Organizzativi di Riferimento (UOR).
+Per la gestione dei documenti, viene individuata un’unica Area Organizzativa Omogenea (AOO), denominata “\ |STYLE35|\ ”, che comprende tutte le diverse strutture organizzative in cui si articola l'Ente. Ai fini della gestione del sistema documentario all’interno del Comune di Palermo sono individuati una pluralità di Uffici Organizzativi di Riferimento (UOR).
 
 Il sistema di protocollazione adottato dal Comune di Palermo è unico, ed è accentrato per la corrispondenza in entrata nonché per la documentazione pervenuta a mezzo PEC istituzionale e tramite interoperabilità; è decentrato per la corrispondenza in uscita e interna attraverso tutti gli UOR (che svolgono anche i compiti di  UOP).
 
@@ -97,9 +128,9 @@ Il sistema di protocollazione adottato dal Comune di Palermo è unico, ed è acc
 
 Nella AOO è istituito il servizio per la tenuta del protocollo informatico, la gestione dei flussi documentali e degli archivi.
 
-Al suddetto servizio è preposto il Responsabile del Servizio di Protocollo informatico, della gestione dei flussi documentali e degli archivi (di seguito \ |STYLE26|\ ).
+Al suddetto servizio è preposto il Responsabile del Servizio di Protocollo informatico, della gestione dei flussi documentali e degli archivi (di seguito \ |STYLE36|\ ).
 
-Le attività afferenti al Servizio di Protocollo informatico, della gestione dei flussi documentali e degli archivi, sono coordinate da un dirigente, il Coordinatore della gestione documentale (di seguito \ |STYLE27|\ ) .
+Le attività afferenti al Servizio di Protocollo informatico, della gestione dei flussi documentali e degli archivi, sono coordinate da un dirigente, il Coordinatore della gestione documentale (di seguito \ |STYLE37|\ ) .
 
 In relazione alla modalità di fruizione del servizio di protocollo adottata dalla AOO, è compito del servizio:
 
@@ -160,7 +191,7 @@ L'Amministrazione munisce i propri dipendenti di una casella di posta elettronic
 1.10   Sistema di classificazione dei documenti
 ===============================================
 
-Per la classificazione dei documenti viene utilizzato il  \ |STYLE28|\  indicato dall’Agenzia per l’Italia Digitale per i comuni \ |LINK1|\  (sezione “Documenti di indirizzo”), denominato “\ |STYLE29|\ ”, e redatto dal “Gruppo di lavoro per la formulazione di proposte e modelli per la riorganizzazione dell’archivio dei Comuni”, edizione dicembre 2005. Il Titolario dettagliato è descritto nell’\ |STYLE30|\ .
+Per la classificazione dei documenti viene utilizzato il  \ |STYLE38|\  indicato dall’Agenzia per l’Italia Digitale per i comuni \ |LINK7|\  (sezione “Documenti di indirizzo”), denominato “\ |STYLE39|\ ”, e redatto dal “Gruppo di lavoro per la formulazione di proposte e modelli per la riorganizzazione dell’archivio dei Comuni”, edizione dicembre 2005. Il Titolario dettagliato è descritto nell’\ |STYLE40|\ .
 
 .. _h25161a3b6e57167716791b3c392f:
 
@@ -177,23 +208,23 @@ Nell'ambito dei piani formativi richiesti a tutte le amministrazioni sulla forma
 
 * alla materia archivistica, imprescindibile per poter creare e gestire fascicoli digitali.
 
-.. _h1d1119466453e7459704b7d6f7a4e69:
+.. _h382d45125a326474162f6301e16b:
 
-1.11   Accreditamento dell'AOO all' IPA
+1.12   Accreditamento dell'AOO all' IPA
 =======================================
 
 L'Amministrazione, nell'ambito degli adempimenti previsti, si è accreditata presso l'Indice delle Pubbliche Amministrazioni (IPA), tenuto e reso pubblico dalla medesima, fornendo le informazioni che individuano l'amministrazione stessa. 
 
-Il codice identificativo “\ |STYLE31|\ ” è stato generato e attribuito autonomamente dall'Amministrazione. L'indice delle pubbliche amministrazioni (IPA) è accessibile tramite il relativo sito internet da parte di tutti i soggetti pubblici o privati. L'Amministrazione comunica tempestivamente all'IPA ogni successiva modifica delle proprie credenziali di riferimento e la data in cui la modifica stessa sarà operativa.
+Il codice identificativo “\ |STYLE41|\ ” è stato generato e attribuito autonomamente dall'Amministrazione. L'indice delle pubbliche amministrazioni (IPA) è accessibile tramite il relativo sito internet da parte di tutti i soggetti pubblici o privati. L'Amministrazione comunica tempestivamente all'IPA ogni successiva modifica delle proprie credenziali di riferimento e la data in cui la modifica stessa sarà operativa.
 
 Il referente dell’Amministrazione, per l'IPA è stato individuato all'interno dei Servizi Informatici nella figura del RTP.
 
-.. _h3a3231797f5b1345566e307d73394f:
+.. _h4d1c212b72d261e3d4b5f3d377643:
 
-1.12 Dematerializzazione dei procedimenti amministrativi della AOO
+1.13 Dematerializzazione dei procedimenti amministrativi della AOO
 ==================================================================
 
-L’amministrazione ha avviato procedure tali da consentire, in coerenza con le disposizioni normative e regolamentari in materia, che nella AOO siano prodotti, gestiti, inviati e conservati solo documenti informatici.
+L’amministrazione ha avviato procedure tali da consentire, in coerenza con le disposizioni normative e regolamentari in materia (con particolare riferimento alle \ |LINK8|\ ), che nella AOO siano prodotti, gestiti, inviati e conservati solo documenti informatici.
 
 È prevista la riproduzione su carta degli originali informatici firmati e protocollati solo nel caso in cui il destinatario non sia nelle condizioni di ricevere e visualizzare i documenti informatici.
 
@@ -203,82 +234,130 @@ Gli eventuali documenti cartacei ricevuti, dopo registrazione e segnatura di pro
 ..  Note:: 
 
     Il contenuto del testo di questa pagina è disponibile in formato aperto qui:
-    \ |LINK2|\  
+    \ |LINK9|\  
 
 
 .. bottom of content
 
 
-.. |STYLE0| replace:: **Aree Organizzative Omogenee**
+.. |STYLE0| replace:: *(*
 
-.. |STYLE1| replace:: **Amministrazione**
+.. |STYLE1| replace:: *)*
 
-.. |STYLE2| replace:: **Codice  dell’Amministrazione Digitale**
+.. |STYLE2| replace:: **Aree Organizzative Omogenee**
 
-.. |STYLE3| replace:: **Codice dei beni culturali**
+.. |STYLE3| replace:: **formazione, gestione (registrazione, classificazione, fascicolazione) dei documenti ed archiviazione degli stessi, oltre che il flusso di lavorazione dei documenti del Comune di Palermo**
 
-.. |STYLE4| replace:: **Regole tecniche per il protocollo**
+.. |STYLE4| replace:: **formazione, gestione e conservazione**
 
-.. |STYLE5| replace:: **Regole tecniche per il protocollo informatico**
+.. |STYLE5| replace:: **Dal punto di vista archivistico**
 
-.. |STYLE6| replace:: **Regole tecniche per la conservazione**
+.. |STYLE6| replace:: **archivio corrente**
 
-.. |STYLE7| replace:: **Regole tecniche in materia di sistema di conservazione ai sensi degli articoli 20,commi 3 e 5-bis, 23-ter, comma 4, 43, commi 1 e 3, 44, 44-bis e 71, comma 1, del Codice dell’Amministrazione Digitale di cui al D. Lgs. n. 82 del 2005**
+.. |STYLE7| replace:: **archivio di deposito**
 
-.. |STYLE8| replace:: **Testo Unico**
+.. |STYLE8| replace:: **archivio storico**
 
-.. |STYLE9| replace:: **l'allegato 1**
+.. |STYLE9| replace:: **elevati livelli di automazione ed interoperabilità**
 
-.. |STYLE10| replace:: **AOO**
+.. |STYLE10| replace:: **in grado di operare nel web**
 
-.. |STYLE11| replace:: **CGD**
+.. |STYLE11| replace:: **Amministrazione**
 
-.. |STYLE12| replace:: **PORTALE DEI SERVIZI ONLINE**
+.. |STYLE12| replace:: **Codice  dell’Amministrazione Digitale**
 
-.. |STYLE13| replace:: **SCRIVANIA VIRTUALE**
+.. |STYLE13| replace:: **Codice dei beni culturali**
 
-.. |STYLE14| replace:: **IOP**
+.. |STYLE14| replace:: **Regole tecniche per il protocollo**
 
-.. |STYLE15| replace:: **IPA**
+.. |STYLE15| replace:: **Regole tecniche per il protocollo informatico**
 
-.. |STYLE16| replace:: **RPA**
+.. |STYLE16| replace:: **Regole tecniche per la conservazione**
 
-.. |STYLE17| replace:: **RSP**
+.. |STYLE17| replace:: **Regole tecniche in materia di sistema di conservazione ai sensi degli articoli 20, commi 3 e 5-bis, 23-ter, comma 4, 43, commi 1 e 3, 44, 44-bis e 71, comma 1, del Codice dell’Amministrazione Digitale di cui al D. Lgs. n. 82 del 2005**
 
-.. |STYLE18| replace:: **RTP**
+.. |STYLE18| replace:: **Testo Unico**
 
-.. |STYLE19| replace:: **SdP**
+.. |STYLE19| replace:: **l'allegato 1**
 
-.. |STYLE20| replace:: **SMTP**
+.. |STYLE20| replace:: **AOO**
 
-.. |STYLE21| replace:: **UOP**
+.. |STYLE21| replace:: **CGD**
 
-.. |STYLE22| replace:: **UOR**
+.. |STYLE22| replace:: **PORTALE DEI SERVIZI ONLINE**
 
-.. |STYLE23| replace:: **UU**
+.. |STYLE23| replace:: **SCRIVANIA VIRTUALE**
 
-.. |STYLE24| replace:: **allegato 2**
+.. |STYLE24| replace:: **IOP**
 
-.. |STYLE25| replace:: **Comune di Palermo**
+.. |STYLE25| replace:: **IPA**
 
-.. |STYLE26| replace:: **RSP**
+.. |STYLE26| replace:: **RPA**
 
-.. |STYLE27| replace:: **CGD**
+.. |STYLE27| replace:: **RSP**
 
-.. |STYLE28| replace:: **Titolario**
+.. |STYLE28| replace:: **RTP**
 
-.. |STYLE29| replace:: **Piano di classificazione (= Titolario) per gli archivi dei Comuni italiani (seconda edizione)**
+.. |STYLE29| replace:: **SdP**
 
-.. |STYLE30| replace:: **allegato 4**
+.. |STYLE30| replace:: **SMTP**
 
-.. |STYLE31| replace:: **c_g273**
+.. |STYLE31| replace:: **UOP**
+
+.. |STYLE32| replace:: **UOR**
+
+.. |STYLE33| replace:: **UU**
+
+.. |STYLE34| replace:: **allegato 2**
+
+.. |STYLE35| replace:: **Comune di Palermo**
+
+.. |STYLE36| replace:: **RSP**
+
+.. |STYLE37| replace:: **CGD**
+
+.. |STYLE38| replace:: **Titolario**
+
+.. |STYLE39| replace:: **Piano di classificazione (= Titolario) per gli archivi dei Comuni italiani (seconda edizione)**
+
+.. |STYLE40| replace:: **allegato 4**
+
+.. |STYLE41| replace:: **c_g273**
 
 
 .. |LINK1| raw:: html
 
-    <a href="https://www.agid.gov.it/piattaforme/sistema-gestione-procedimenti-amministrativi/flussi-documentali-protocollo-informatico" target="_blank">https://www.agid.gov.it/piattaforme/sistema-gestione-procedimenti-amministrativi/flussi-documentali-protocollo-informatico</a>
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/introduzione-strumenti-di-lettura-e-disposizioni-comuni.html#abrogazioni-e-norme-transitorie" target="_blank">abrogato dalle Linee guida sulla formazione, gestione e conservazione dei documenti informatici, paragrafo 1.9</a>
 
 .. |LINK2| raw:: html
+
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/index.html" target="_blank">Linee guida sulla formazione, gestione e conservazione dei documenti informatici</a>
+
+.. |LINK3| raw:: html
+
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/index.html" target="_blank">Linee guida sulla formazione, gestione e conservazione dei documenti informatici</a>
+
+.. |LINK4| raw:: html
+
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/introduzione-strumenti-di-lettura-e-disposizioni-comuni.html#abrogazioni-e-norme-transitorie" target="_blank">abrogato dalle Linee guida sulla formazione, gestione e conservazione dei documenti informatici, paragrafo 1.9</a>
+
+.. |LINK5| raw:: html
+
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/introduzione-strumenti-di-lettura-e-disposizioni-comuni.html#abrogazioni-e-norme-transitorie" target="_blank">abrogati dalle Linee guida sulla formazione, gestione e conservazione dei documenti informatici, paragrafo 1.9</a>
+
+.. |LINK6| raw:: html
+
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/introduzione-strumenti-di-lettura-e-disposizioni-comuni.html#abrogazioni-e-norme-transitorie" target="_blank">abrogati dalle Linee guida sulla formazione, gestione e conservazione dei documenti informatici, paragrafo 1.9</a>
+
+.. |LINK7| raw:: html
+
+    <a href="https://www.agid.gov.it/piattaforme/sistema-gestione-procedimenti-amministrativi/flussi-documentali-protocollo-informatico" target="_blank">https://www.agid.gov.it/piattaforme/sistema-gestione-procedimenti-amministrativi/flussi-documentali-protocollo-informatico</a>
+
+.. |LINK8| raw:: html
+
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/index.html" target="_blank">Linee guida sulla formazione, gestione e conservazione dei documenti informatici</a>
+
+.. |LINK9| raw:: html
 
     <a href="http://bit.ly/manuale-capitolo-1" target="_blank">http://bit.ly/manuale-capitolo-1</a>
 
