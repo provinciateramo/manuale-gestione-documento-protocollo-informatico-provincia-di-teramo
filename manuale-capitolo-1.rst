@@ -9,7 +9,7 @@
 1.1    Premessa
 ===============
 
-:class:`II decreto del Presidente del Consiglio dei Ministri 3 dicembre 2013 concernente le "Regole tecniche per il protocollo informatico”, articolo 3, comma 1, lettera d), prevede l'adozione del manuale di gestione per tutte le amministrazioni di cui all'articolo 2, comma 2, del decreto legislativo 7 marzo 2005, n. 82, Codice dell’Amministrazione Digitale. Il manuale di gestione, disciplinato dal successivo art. 5, comma 1, "descrive il sistema di gestione anche ai fini della conservazione, dei documenti informatici e fornisce le istruzioni per il corretto funzionamento del servizio per la tenuta del protocollo informatico, della gestione dei flussi documentali e degli archivi”`. \ |STYLE0|\ \ |LINK1|\ \ |STYLE1|\ 
+[II decreto del Presidente del Consiglio dei Ministri 3 dicembre 2013 concernente le "Regole tecniche per il protocollo informatico”, articolo 3, comma 1, lettera d), prevede l'adozione del manuale di gestione per tutte le amministrazioni di cui all'articolo 2, comma 2, del decreto legislativo 7 marzo 2005, n. 82, Codice dell’Amministrazione Digitale. Il manuale di gestione, disciplinato dal successivo art. 5, comma 1, "descrive il sistema di gestione anche ai fini della conservazione, dei documenti informatici e fornisce le istruzioni per il corretto funzionamento del servizio per la tenuta del protocollo informatico, della gestione dei flussi documentali e degli archivi”]. \ |STYLE0|\ \ |LINK1|\ \ |STYLE1|\ 
 
 Il presente manuale di gestione è la concreta attuazione delle \ |LINK2|\  del 2019 a cura dell’Agenzia per l’Italia Digitale (AGID), che costituiscono la nuova versione aggiornata delle regole tecniche in materia di formazione, protocollazione, gestione e conservazione del documento, già precedentemente regolate nei DPCM del 2013 e 2014.
 
@@ -22,7 +22,7 @@ Obiettivo del Manuale di gestione è descrivere sia il sistema di gestione docum
 1.2     Ambito di applicazione del manuale
 ==========================================
 
-Il presente manuale è adottato ai sensi delle \ |LINK3|\  del 2019 a cura dell’Agenzia per l’Italia Digitale (AGID)  :class:`dell’art. 3 , comma 1, lett. d) del DPCM 3 dicembre 2013, recante le regole tecniche per il protocollo informatico` (\ |LINK4|\ ). 
+Il presente manuale è adottato ai sensi delle \ |LINK3|\  del 2019 a cura dell’Agenzia per l’Italia Digitale (AGID)  [dell’art. 3 , comma 1, lett. d) del DPCM 3 dicembre 2013, recante le regole tecniche per il protocollo informatico] (\ |LINK4|\ ). 
 
 Il manuale si applica all’intera Area Organizzativa Omogenea del Comune di Palermo.
 
@@ -74,7 +74,7 @@ Ai fini del presente manuale si intende per:
 
 * "\ |STYLE14|\  ", il D.P.C.M. 3 dicembre 2013 concernente le "\ |STYLE15|\ ” soltanto per i seguenti articoli: art. 2 comma 1; art. 6; art. 9; art. 18 commi 1 e 5; art. 19; art. 20; art. 21. Gli altri articoli sono stati \ |LINK5|\ . 
 
-* :class:\`“\ |STYLE16|\ ”,  il D.P.C.M. 13 novembre 2014, recante “\ |STYLE17|\ ” soltanto in relazione all’art. 13 (accreditamento) in quanto gli altri articoli sono stati \ |LINK6|\ .\`
+* [“\ |STYLE16|\ ”,  il D.P.C.M. 13 novembre 2014, recante “\ |STYLE17|\ ” soltanto in relazione all’art. 13 (accreditamento) in quanto gli altri articoli sono stati \ |LINK6|\ .]
 
 * "\ |STYLE18|\ ", il D.P.R. 20 dicembre 2000, n. 445 - Testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa.
 
