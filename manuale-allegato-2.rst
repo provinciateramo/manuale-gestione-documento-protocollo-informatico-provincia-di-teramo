@@ -4,6 +4,8 @@
 Allegato 2 - Principali riferimenti normativi
 =============================================
 
+:guilabel:`il testo visualizzato in questa modalità` è abrogato dalle Linee Guida AGID \ |LINK1|\ .
+
 Legge 7 agosto 1990, n. 241 s.m.i. - Nuove norme in materia di procedimento amministrativo di diritto di accesso ai documenti amministrativi. (G.U. del 18 agosto 1990, n. 192) .
 
 DPR 27 giugno 1992, n. 352 - Regolamento per la disciplina delle modalità di esercizio dei casi di esclusione del diritto di accesso ai documenti amministrativi, in attuazione dell’art. 24, comma 2, della Legge 7 agosto 1990, n. 241 s.m.i., recante nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi. (G.U. 29 luglio 1992, n. 177).
@@ -52,25 +54,54 @@ Decreto legislativo 7 marzo 2005, n. 82 “Codice dell’amministrazione digital
 
 Decreto Presidente della Repubblica 11 febbraio 2005, n. 68 “Regolamento recante disposizioni per l'utilizzo della posta elettronica certificata, a norma dell'articolo 27 della legge 16 gennaio 2003, n. 3.”
 
-Decreto Presidente del Consiglio dei Ministri 3 dicembre 2013 “Regole tecniche per il protocollo informatico ai sensi degli articoli 40 -bis , 41, 47, 57 -bis e 71, del Codice dell’amministrazione digitale di cui al decreto legislativo n. 82 del 2005.
+Decreto Presidente del Consiglio dei Ministri 3 dicembre 2013 “Regole tecniche per il protocollo informatico ai sensi degli articoli 40 -bis , 41, 47, 57 -bis e 71, del Codice dell’amministrazione digitale di cui al decreto legislativo n. 82 del 2005” per i soli articoli:
 
-Decreto Presidente del Consiglio dei Ministri 3 dicembre 2013 “Regole tecniche in materia di sistema di conservazione ai sensi degli articoli 20, commi 3 e 5 -bis , 23 -ter , comma 4, 43, commi 1 e 3, 44 , 44 -bis e 71, comma 1, del Codice dell’amministrazione digitale di cui al decreto legislativo n. 82 del 2005.
+* \ |STYLE0|\ 
+
+* \ |STYLE1|\ 
+
+* \ |STYLE2|\ 
+
+* \ |STYLE3|\ 
+
+* \ |STYLE4|\ 
+
+* \ |STYLE5|\ 
+
+:guilabel:`Decreto Presidente del Consiglio dei Ministri 3 dicembre 2013 “Regole tecniche in materia di sistema di conservazione ai sensi degli articoli 20, commi 3 e 5 -bis , 23 -ter , comma 4, 43, commi 1 e 3, 44 , 44 -bis e 71, comma 1, del Codice dell’amministrazione digitale di cui al decreto legislativo n. 82 del 2005.`
 
 Decreto Presidente del Consiglio dei Ministri 24 ottobre 2014 “Definizione delle caratteristiche del sistema pubblico per la gestione dell'identita' digitale di cittadini e imprese (SPID), nonché' dei tempi e delle modalità' di adozione del sistema SPID da parte delle pubbliche amministrazioni e delle imprese.
 
-Decreto Presidente del Consiglio dei Ministri 13 novembre 2014 “Regole tecniche in materia di formazione, trasmissione, copia, duplicazione, riproduzione e validazione temporale dei documenti informatici nonche' di formazione e conservazione dei documenti informatici delle pubbliche amministrazioni ai sensi degli articoli 20, 22, 23-bis, 23-ter, 40, comma 1, 41, e 7. 
+:guilabel:`Decreto Presidente del Consiglio dei Ministri 13 novembre 2014 “Regole tecniche in materia di formazione, trasmissione, copia, duplicazione, riproduzione e validazione temporale dei documenti informatici nonche' di formazione e conservazione dei documenti informatici delle pubbliche amministrazioni ai sensi degli articoli 20, 22, 23-bis, 23-ter, 40, comma 1, 41, e 7.` 
 
 
 ..  Note:: 
 
     Il contenuto del testo di questa pagina è disponibile in formato aperto qui:
-    \ |LINK1|\  
+    \ |LINK2|\  
 
 
 .. bottom of content
 
 
+.. |STYLE0| replace:: **art. 2 comma 1, Oggetto e ambito di applicazione**
+
+.. |STYLE1| replace:: **art. 6, Funzionalità**
+
+.. |STYLE2| replace:: **art. 9, Formato della segnatura di protocollo**
+
+.. |STYLE3| replace:: **art. 18 commi 1 e 5, Modalità di registrazione dei documenti informatici**
+
+.. |STYLE4| replace:: **art. 20, Segnatura di protocollo dei documenti trasmessi**
+
+.. |STYLE5| replace:: **art. 21, Informazioni da includere nella segnatura**
+
+
 .. |LINK1| raw:: html
+
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/index.html#" target="_blank">sulla formazione, gestione e conservazione dei documenti informatici</a>
+
+.. |LINK2| raw:: html
 
     <a href="http://bit.ly/manuale-allegato-2" target="_blank">http://bit.ly/manuale-allegato-2</a>
 
