@@ -199,9 +199,9 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
     <img src="https://raw.githubusercontent.com/cirospat/manuale-gestione-documento-protocollo-informatico-comune-palermo/master/static/comune-palermo-innovazione.png" />
 .. |REPLACE2| raw:: html
 
-    <p><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 0px 2px; border-radius: 10px;">Bozza versione gennaio 2019</span> 
-    <span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 0px 2px; border-radius: 10px;">Revisione novembre 2019</span> 
-    <span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 0px 2px; border-radius: 10px;">Revisione dicembre 2020</span> 
+    <p><span style="background-color: #1a5dc9; color: #ffffff; display: inline-block; padding: 0px 2px; border-radius: 10px;">Bozza versione gennaio 2019</span> 
+    <span style="background-color: #1a5dc9; color: #ffffff; display: inline-block; padding: 0px 2px; border-radius: 10px;">Revisione novembre 2019</span> 
+    <span style="background-color: #1a5dc9; color: #ffffff; display: inline-block; padding: 0px 2px; border-radius: 10px;">Revisione dicembre 2020</span> 
     <img src="https://img.shields.io/github/last-commit/cirospat/manuale-gestione-documento-protocollo-informatico-comune-palermo.svg?colorB=informational&label=ultimo%20aggiornamento&style=popout&logo=GitHub&logoColor=green" />   
     </p>
 
