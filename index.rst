@@ -53,9 +53,9 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
     
     \ |STYLE42|\  :guilabel:`ABROGAZIONI` \ |STYLE43|\ 
     
-    Sempre a far data dalla data di applicazione delle Linee guida AGID, la \ |STYLE44|\  in materia di “Formato e definizione dei tipi di informazioni minime ed accessorie associate ai messaggi scambiati tra le Pubbliche Amministrazioni” :guilabel:`è abrogata` e sostituita dall’\ |LINK12|\ .
+    Sempre a far data dalla data di applicazione delle Linee guida AGID, la \ |LINK12|\  in materia di “Formato e definizione dei tipi di informazioni minime ed accessorie associate ai messaggi scambiati tra le Pubbliche Amministrazioni” :guilabel:`è abrogata` e ``sostituita`` dall’\ |LINK13|\ .
     
-    Restano efficaci le disposizioni di cui alla \ |LINK13|\ , :guilabel:`fino all’entrata in vigore delle Linee Guida` previste AGID dall’art. 29 del CAD. (L’art. 29, comma 1, del CAD prevede che “\ |STYLE45|\ ”).
+    Restano efficaci le disposizioni di cui alla \ |LINK14|\ , :guilabel:`fino all’entrata in vigore delle Linee Guida` previste AGID dall’art. 29 del CAD. (L’art. 29, comma 1, del CAD prevede che “\ |STYLE44|\ ”).
 
 
 .. toctree:: 
@@ -187,9 +187,7 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
 
 .. |STYLE43| replace:: **↓**
 
-.. |STYLE44| replace:: **circolare n. 60 del 23 gennaio 2013 dell’AgID**
-
-.. |STYLE45| replace:: *I soggetti che intendono fornire servizi fiduciari qualificati o svolgere l’attività di gestore di posta elettronica certificata o di gestore dell’identità digitale di cui all’articolo 64 presentano all’AgID domanda di qualificazione, secondo le modalità fissate dalle Linee guida. I soggetti che intendono svolgere l’attività di conservatore di documenti informatici presentano all’AgID domanda di accreditamento, secondo le modalità fissate dalle Linee guida*
+.. |STYLE44| replace:: *I soggetti che intendono fornire servizi fiduciari qualificati o svolgere l’attività di gestore di posta elettronica certificata o di gestore dell’identità digitale di cui all’articolo 64 presentano all’AgID domanda di qualificazione, secondo le modalità fissate dalle Linee guida. I soggetti che intendono svolgere l’attività di conservatore di documenti informatici presentano all’AgID domanda di accreditamento, secondo le modalità fissate dalle Linee guida*
 
 
 .. |REPLACE1| raw:: html
@@ -245,9 +243,13 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
 
 .. |LINK12| raw:: html
 
-    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/_downloads/79ebfd0000672f477eac7b869b7f1694/All%206%20-%20Comunicazione%20tra%20AOO%20di%20Documenti%20Amministrativi%20Protocollati.pdf" target="_blank">allegato 6 “Comunicazione tra AOO di documenti amministrativi protocollati” delle Linee Guida AGID</a>
+    <a href="https://www.agid.gov.it/sites/default/files/repository_files/circolari/circolare_60_2013_segnatura_protocollo_informatico_-_rev_aipa_n.28-2001.pdf" target="_blank">circolare n. 60 del 23 gennaio 2013 dell’AgID</a>
 
 .. |LINK13| raw:: html
+
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/_downloads/79ebfd0000672f477eac7b869b7f1694/All%206%20-%20Comunicazione%20tra%20AOO%20di%20Documenti%20Amministrativi%20Protocollati.pdf" target="_blank">allegato 6 “Comunicazione tra AOO di documenti amministrativi protocollati” delle Linee Guida AGID</a>
+
+.. |LINK14| raw:: html
 
     <a href="https://www.agid.gov.it/sites/default/files/repository_files/circolari/circolare_accreditamento_conservatori_n_65_10-04-2014.pdf" target="_blank">Circolare n. 65 del 10 aprile 2014</a>
 
