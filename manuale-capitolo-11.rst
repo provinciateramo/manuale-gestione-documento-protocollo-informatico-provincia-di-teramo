@@ -4,6 +4,8 @@
 11- Modalità di produzione e di conservazione delle registrazioni di Protocollo informatico 
 ********************************************************************************************
 
+:guilabel:`il testo visualizzato in questa modalità` è abrogato dalle Linee Guida AGID \ |LINK1|\ .
+
 II presente capitolo illustra le modalità di produzione e di conservazione delle registrazioni di protocollo informatico, nonché le modalità di registrazione delle informazioni annullate o modificate nell'ambito di ogni sessione di attività di registrazione. 
 
 |
@@ -180,7 +182,7 @@ L'operazione di acquisizione dell'immagine dei documenti cartacei deve essere ef
 11.6     Annullamento delle registrazioni di protocollo
 =======================================================
 
-L'art. 8 del D.P.C.M. 3 dicembre 2013, che detta le regole tecniche per il protocollo informatico, disciplina le modalità con cui deve avvenire l'eventuale annullamento delle informazioni di protocollo.
+:guilabel:`L'art. 8 del D.P.C.M. 3 dicembre 2013, che detta le regole tecniche per il protocollo informatico, disciplina le modalità con cui deve avvenire l'eventuale annullamento delle informazioni di protocollo`.
 
 L'annullamento anche di una sola delle informazioni generate o assegnate automaticamente dal sistema e registrate in forma immodificabile determina l'automatico e contestuale annullamento della intera registrazione di protocollo.
 
@@ -479,13 +481,17 @@ Inoltre, al fine di assicurare l'integrità e la disponibilità dei dati contenu
 ..  Note:: 
 
     Il contenuto del testo di questa pagina è disponibile in formato aperto qui:
-    \ |LINK1|\  
+    \ |LINK2|\  
 
 
 .. bottom of content
 
 
 .. |LINK1| raw:: html
+
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/index.html#" target="_blank">sulla formazione, gestione e conservazione dei documenti informatici</a>
+
+.. |LINK2| raw:: html
 
     <a href="http://bit.ly/manuale-capitolo-11" target="_blank">http://bit.ly/manuale-capitolo-11</a>
 
