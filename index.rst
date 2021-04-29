@@ -37,7 +37,7 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
     
     * il \ |LINK10|\ \ |STYLE4|\ ”, ad eccezione dell’art. 13 che rimane in vigore fino all'emanazione delle Linee guida di cui all’art. 29 del CAD.
     
-    Per quanto concerne il \ |STYLE5|\ ”, a partire dalla data di applicazione delle Linee guida AGID sono :guilabel:`abrogate tutte le disposizioni` fatte salve le seguenti:
+    Per quanto concerne il \ |STYLE5|\ ”, a partire dalla data di applicazione delle Linee guida AGID sono :guilabel:`abrogate tutte le disposizioni` ``fatte salve le seguenti``:
     
     * ``art. 2 comma 1`` [\ |STYLE6|\ . \ |STYLE7|\ ]
     
