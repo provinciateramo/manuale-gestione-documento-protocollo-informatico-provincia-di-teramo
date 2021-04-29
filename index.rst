@@ -13,13 +13,13 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
 
 .. admonition:: Fonte delle informazioni contenute nel "Manuale"
 
-    La fonte del documento è il “\ |STYLE0|\ ” della Provincia di Pistoia, approvato con Decreto Presidenziale. n. 101 del 12/04/2017, disponibile al \ |LINK2|\ .
+    La fonte del documento è il “\ |STYLE0|\ ” della \ |LINK2|\ .
     
     Questo “manuale” coincide nei contenuti con il \ |LINK3|\ , (sezione “documentazione allegata”).  
     
-    Nell’elaborare il manuale di gestione del protocollo informatico, dei documenti e dell’archivio del Comune di Palermo è stata effettuata una ricognizione online per analizzare analoghi manuali redatti recentemente da altre pubbliche amministrazioni. E’ stato scelto tra tanti il manuale della Provincia di Pistoia e dell’AGID in quanto essi trattano un’ampia casistica di situazioni in cui si può ritrovare quotidianamente il personale di un grande comune  nella gestione del protocollo informatico, dei documenti e dell’archivio.
+    Nell’elaborare il manuale del Comune di Palermo è stata effettuata una ricognizione online per analizzare analoghi manuali redatti recentemente da altre pubbliche amministrazioni. E’ stato scelto tra tanti il manuale della Provincia di Pistoia e dell’AGID in quanto essi trattano un’ampia casistica di situazioni in cui si può ritrovare quotidianamente il personale di un grande comune  nella gestione del protocollo informatico, dei documenti e dell’archivio.
     
-    Il presente manuale è stato adattato alle esigenze del Comune di Palermo.
+    Il manuale  qui illustrato è stato adattato alle esigenze del Comune di Palermo.
 
 
 ..  Important:: 
@@ -39,19 +39,19 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
     
     Per quanto concerne il \ |STYLE5|\ ”, a partire dalla data di applicazione delle Linee guida AGID sono :guilabel:`abrogate tutte le disposizioni` fatte salve le seguenti:
     
-    * art. 2 comma 1 [\ |STYLE6|\ . \ |STYLE7|\ ]
+    * ``art. 2 comma 1`` [\ |STYLE6|\ . \ |STYLE7|\ ]
     
-    * art. 6 [\ |STYLE8|\ \ |STYLE9|\  \ |STYLE10|\ \ |STYLE11|\  \ |STYLE12|\ \ |STYLE13|\  \ |STYLE14|\ \ |STYLE15|\ ]
+    * ``art. 6`` [\ |STYLE8|\ \ |STYLE9|\  \ |STYLE10|\ \ |STYLE11|\  \ |STYLE12|\ \ |STYLE13|\  \ |STYLE14|\ \ |STYLE15|\ ]
     
-    * art. 9 [\ |STYLE16|\  \ |STYLE17|\ \ |STYLE18|\ ]
+    * ``art. 9`` [\ |STYLE16|\  \ |STYLE17|\ \ |STYLE18|\ ]
     
-    * art. 18 commi 1 e 5 [\ |STYLE19|\ \ |STYLE20|\  \ |STYLE21|\ \ |STYLE22|\  \ |STYLE23|\ \ |STYLE24|\ ]
+    * ``art. 18 commi 1 e 5`` [\ |STYLE19|\ \ |STYLE20|\  \ |STYLE21|\ \ |STYLE22|\  \ |STYLE23|\ \ |STYLE24|\ ]
     
-    * art. 19 [\ |STYLE25|\  \ |STYLE26|\ \ |STYLE27|\  \ |STYLE28|\ \ |STYLE29|\  
+    * ``art. 19`` [\ |STYLE25|\  \ |STYLE26|\ \ |STYLE27|\  \ |STYLE28|\ \ |STYLE29|\  
     
-    * art. 20 [\ |STYLE30|\  \ |STYLE31|\ \ |STYLE32|\  \ |STYLE33|\ \ |STYLE34|\ ] 
+    * ``art. 20`` [\ |STYLE30|\  \ |STYLE31|\ \ |STYLE32|\  \ |STYLE33|\ \ |STYLE34|\ ] 
     
-    * art. 21 [\ |STYLE35|\ \ |STYLE36|\  \ |STYLE37|\ \ |STYLE38|\  \ |STYLE39|\ \ |STYLE40|\  \ |STYLE41|\ \ |STYLE42|\ ] 
+    * ``art. 21`` [\ |STYLE35|\ \ |STYLE36|\  \ |STYLE37|\ \ |STYLE38|\  \ |STYLE39|\ \ |STYLE40|\  \ |STYLE41|\ \ |STYLE42|\ ] 
     
     \ |STYLE43|\ 
     
@@ -187,7 +187,7 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
 
 .. |STYLE42| replace:: *. Qualora due o più amministrazioni stabiliscano di scambiarsi informazioni non previste tra quelle definite al comma 2, le stesse possono estendere il fi le di cui all’art. 20, comma 1, includendo le informazioni specifiche stabilite di comune accordo, nel rispetto delle indicazioni tecniche stabilite dall’Agenzia per l’Italia digitale.*
 
-.. |STYLE43| replace:: **ATTENZIONE**
+.. |STYLE43| replace:: **ATTENZIONE ↓**
 
 .. |STYLE44| replace:: **circolare n. 60 del 23 gennaio 2013 dell’AgID**
 
@@ -211,7 +211,7 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
 
 .. |LINK2| raw:: html
 
-    <a href="http://www.provincia.pistoia.it/articolo/2017/09/manuale-di-gestione-del-protocollo-informatico-dei-documenti-e-dellarchivio" target="_blank">link</a>
+    <a href="https://www.provincia.pistoia.it/articolo/2017/09/manuale-di-gestione-del-protocollo-informatico-dei-documenti-e-dellarchivio" target="_blank">Provincia di Pistoia, approvato con Decreto Presidenziale. n. 101 del 12/04/2017</a>
 
 .. |LINK3| raw:: html
 
