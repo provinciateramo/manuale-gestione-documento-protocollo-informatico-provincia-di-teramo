@@ -57,7 +57,7 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
     
     Sempre a far data dalla data di applicazione delle Linee guida AGID, la \ |STYLE44|\  in materia di “Formato e definizione dei tipi di informazioni minime ed accessorie associate ai messaggi scambiati tra le Pubbliche Amministrazioni” è abrogata e sostituita dall’\ |LINK11|\ .
     
-    Restano efficaci le disposizioni di cui alla \ |LINK12|\ , fino all’entrata in vigore delle Linee Guida previste AGID dall’art. 29 del CAD. L’art. 29, comma 1, del CAD prevede che “\ |STYLE45|\ ”.
+    Restano efficaci le disposizioni di cui alla \ |LINK12|\ , fino all’entrata in vigore delle Linee Guida previste AGID dall’art. 29 del CAD. (L’art. 29, comma 1, del CAD prevede che “\ |STYLE45|\ ”).
 
 
 .. toctree:: 
@@ -199,15 +199,15 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
     <img src="https://raw.githubusercontent.com/cirospat/manuale-gestione-documento-protocollo-informatico-comune-palermo/master/static/comune-palermo-innovazione.png" />
 .. |REPLACE2| raw:: html
 
-    <p><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 0px 4px; border-radius: 10px;">Bozza versione gennaio 2019</span> 
-    <span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 1px 5px; border-radius: 10px;">Revisione versione novembre 2019</span> 
-    <span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 1px 5px; border-radius: 10px;">Revisione versione dicembre 2020</span> 
+    <p><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 0px 3px; border-radius: 10px;">Bozza versione gennaio 2019</span> 
+    <span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 0px 3px; border-radius: 10px;">Revisione versione novembre 2019</span> 
+    <span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 0px 3px; border-radius: 10px;">Revisione versione dicembre 2020</span> 
     <img src="https://img.shields.io/github/last-commit/cirospat/manuale-gestione-documento-protocollo-informatico-comune-palermo.svg?colorB=informational&label=ultimo%20aggiornamento&style=popout&logo=GitHub&logoColor=green" />   
     </p>
 
 .. |LINK1| raw:: html
 
-    <a href="https://www.indicepa.gov.it/ricerca/n-dettaglioamministrazione.php?cod_amm=c_g273" target="_blank">Codice IPA: c_g273</a>
+    <a href="https://www.indicepa.gov.it/ipa-portale/consultazione/domicilio-digitale/ricerca-area-organizzativa-omogenea/scheda-area-organizzativa-omogenea/AB7F7A3/scheda-ente/8301" target="_blank">Codice IPA: c_g273</a>
 
 .. |LINK2| raw:: html
 
