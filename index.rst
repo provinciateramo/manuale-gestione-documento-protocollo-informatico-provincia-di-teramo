@@ -27,15 +27,15 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
 
 ..  Warning:: 
 
-    \ |STYLE1|\  \ |LINK7|\  \ |STYLE2|\ 
+    \ |STYLE1|\  \ |LINK7|\  :guilabel:\`\ |STYLE2|\ \` \ |STYLE3|\ 
     
     A partire dalla data di applicazione delle \ |LINK8|\ , sono :guilabel:`abrogati`:
     
-    * il \ |LINK9|\ \ |STYLE3|\ ”;
+    * il \ |LINK9|\ \ |STYLE4|\ ”;
     
-    * il \ |LINK10|\ \ |STYLE4|\ ”, ad eccezione dell’art. 13 che rimane in vigore fino all'emanazione delle Linee guida di cui all’art. 29 del CAD.
+    * il \ |LINK10|\ \ |STYLE5|\ ”, ad eccezione dell’art. 13 che rimane in vigore fino all'emanazione delle Linee guida di cui all’art. 29 del CAD.
     
-    Per quanto concerne il \ |STYLE5|\ ”, a partire dalla data di applicazione delle Linee guida AGID sono :guilabel:`abrogate tutte le disposizioni` ``fatte salve le seguenti``:
+    Per quanto concerne il \ |LINK11|\ , a partire dalla data di applicazione delle Linee guida AGID sono :guilabel:`abrogate tutte le disposizioni` ``fatte salve le seguenti``:
     
     * ``art. 2 comma 1`` [\ |STYLE6|\ . \ |STYLE7|\ ]
     
@@ -53,9 +53,9 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
     
     \ |STYLE43|\  :guilabel:\`\ |STYLE44|\ \` \ |STYLE45|\ 
     
-    Sempre a far data dalla data di applicazione delle Linee guida AGID, la \ |STYLE46|\  in materia di “Formato e definizione dei tipi di informazioni minime ed accessorie associate ai messaggi scambiati tra le Pubbliche Amministrazioni” :guilabel:`è abrogata` e sostituita dall’\ |LINK11|\ .
+    Sempre a far data dalla data di applicazione delle Linee guida AGID, la \ |STYLE46|\  in materia di “Formato e definizione dei tipi di informazioni minime ed accessorie associate ai messaggi scambiati tra le Pubbliche Amministrazioni” :guilabel:`è abrogata` e sostituita dall’\ |LINK12|\ .
     
-    Restano efficaci le disposizioni di cui alla \ |LINK12|\ , :guilabel:`fino all’entrata in vigore delle Linee Guida` previste AGID dall’art. 29 del CAD. (L’art. 29, comma 1, del CAD prevede che “\ |STYLE47|\ ”).
+    Restano efficaci le disposizioni di cui alla \ |LINK13|\ , :guilabel:`fino all’entrata in vigore delle Linee Guida` previste AGID dall’art. 29 del CAD. (L’art. 29, comma 1, del CAD prevede che “\ |STYLE47|\ ”).
 
 
 .. toctree:: 
@@ -103,13 +103,13 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
 
 .. |STYLE1| replace:: **LE**
 
-.. |STYLE2| replace:: **ABROGANO LE SEGUENTI NORME PRECEDENTI**
+.. |STYLE2| replace:: **ABROGANO**
 
-.. |STYLE3| replace:: **, contenente “Regole tecniche in materia di formazione, trasmissione, copia, duplicazione, riproduzione e validazione temporale dei documenti informatici**
+.. |STYLE3| replace:: **LE SEGUENTI NORME PRECEDENTI**
 
-.. |STYLE4| replace:: **, contenente “Regole tecniche in materia di sistema di conservazione**
+.. |STYLE4| replace:: **, contenente “Regole tecniche in materia di formazione, trasmissione, copia, duplicazione, riproduzione e validazione temporale dei documenti informatici**
 
-.. |STYLE5| replace:: **DPCM 3 dicembre 2013, contenente “Regole tecniche per il protocollo informatico**
+.. |STYLE5| replace:: **, contenente “Regole tecniche in materia di sistema di conservazione**
 
 .. |STYLE6| replace:: **Oggetto e ambito di applicazione**
 
@@ -245,9 +245,13 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
 
 .. |LINK11| raw:: html
 
-    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/_downloads/79ebfd0000672f477eac7b869b7f1694/All%206%20-%20Comunicazione%20tra%20AOO%20di%20Documenti%20Amministrativi%20Protocollati.pdf" target="_blank">allegato 6 “Comunicazione tra AOO di documenti amministrativi protocollati” delle Linee Guida AGID</a>
+    <a href="https://www.agid.gov.it/sites/default/files/repository_files/leggi_decreti_direttive/dpcm_3-12-2013_protocollo.pdf" target="_blank">DPCM 3 dicembre 2013, contenente “Regole tecniche per il protocollo informatico”</a>
 
 .. |LINK12| raw:: html
+
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/_downloads/79ebfd0000672f477eac7b869b7f1694/All%206%20-%20Comunicazione%20tra%20AOO%20di%20Documenti%20Amministrativi%20Protocollati.pdf" target="_blank">allegato 6 “Comunicazione tra AOO di documenti amministrativi protocollati” delle Linee Guida AGID</a>
+
+.. |LINK13| raw:: html
 
     <a href="https://www.agid.gov.it/sites/default/files/repository_files/circolari/circolare_accreditamento_conservatori_n_65_10-04-2014.pdf" target="_blank">Circolare n. 65 del 10 aprile 2014</a>
 
