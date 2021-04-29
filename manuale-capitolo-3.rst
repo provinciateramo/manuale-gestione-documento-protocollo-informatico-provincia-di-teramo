@@ -4,6 +4,8 @@
 3- Formazione dei documenti informatici 
 ****************************************
 
+:guilabel:`il testo visualizzato in questa modalità` è abrogato dalle Linee Guida AGID \ |LINK1|\ .
+
 Il presente capitolo descrive le procedure adottate per la formazione, la gestione, la trasmissione, l'interscambio, l'accesso e la conservazione dei documenti informatici, anche in relazione alle norme sulla protezione dei dati personali e alle misure di sicurezza.
 
 I documenti e le informazioni trattate dall'AOO sono disponibili, integre e riservate.
@@ -26,7 +28,7 @@ Il contenuto del presente paragrafo si applica, salvo ove diversamente specifica
 
 Il documento informatico è formato mediante una delle seguenti modalità:
 
-#. creazione tramite l’utilizzo di strumenti software che assicurino la produzione di documenti nei formati previsti nell’allegato “\ |LINK1|\ ” allegato alle \ |LINK2|\ ; 
+#. creazione tramite l’utilizzo di strumenti software che assicurino la produzione di documenti nei formati previsti nell’allegato “\ |LINK2|\ ” allegato alle \ |LINK3|\ ; 
 
 #. acquisizione di un documento informatico per via telematica o su supporto informatico, acquisizione della copia per immagine su supporto informatico di un documento analogico, acquisizione della copia informatica di un documento analogico; m
 
@@ -64,7 +66,7 @@ Nel caso di documento informatico formato secondo le sopracitate lettere C) e D)
 
 La certezza dell’autore è la capacità di poter associare in maniera certa e permanente il soggetto che ha sottoscritto il documento stesso.
 
-Al momento della formazione del documento informatico immodificabile, devono essere generati e associati permanentemente ad esso i relativi metadati. L’insieme minimo dei metadati, come definiti nell’allegato 5 “\ |LINK3|\ ”  delle \ |LINK4|\ , è costituito da:
+Al momento della formazione del documento informatico immodificabile, devono essere generati e associati permanentemente ad esso i relativi metadati. L’insieme minimo dei metadati, come definiti nell’allegato 5 “\ |LINK4|\ ”  delle \ |LINK5|\ , è costituito da:
 
 #. l’identificativo alfanumerico univoco e persistente;
 
@@ -78,9 +80,9 @@ Al momento della formazione del documento informatico immodificabile, devono ess
 
 f) l’impronta crittografica del documento informatico (eventualmente contenuta in una firma, sigillo o marcatura temporale elettronica e qualora non già coincidente con l’identificativo univoco).
 
-Eventuali ulteriori metadati sono definiti in funzione del contesto e delle necessità gestionali e conservative, in conformità a quanto previsto nell’Allegato  5 “\ |LINK5|\ ”  delle \ |LINK6|\ .
+Eventuali ulteriori metadati sono definiti in funzione del contesto e delle necessità gestionali e conservative, in conformità a quanto previsto nell’Allegato  5 “\ |LINK6|\ ”  delle \ |LINK7|\ .
 
-La disponibilità e la riservatezza delle informazioni contenute nel documento informatico sono garantite attraverso l’adozione di specifiche politiche e procedure predeterminate dall’ente, in conformità con le disposizioni vigenti in materia di accesso e protezione dei dati personali. Tali politiche e procedure sono contenute nel manuale di gestione documentale. L’evidenza informatica corrispondente al documento informatico immodificabile è prodotta in uno dei formati contenuti nell’Allegato 2 “\ |LINK7|\ ” delle \ |LINK8|\  ove sono specificate, anche, le caratteristiche e i criteri di scelta del formato stesso.
+La disponibilità e la riservatezza delle informazioni contenute nel documento informatico sono garantite attraverso l’adozione di specifiche politiche e procedure predeterminate dall’ente, in conformità con le disposizioni vigenti in materia di accesso e protezione dei dati personali. Tali politiche e procedure sono contenute nel manuale di gestione documentale. L’evidenza informatica corrispondente al documento informatico immodificabile è prodotta in uno dei formati contenuti nell’Allegato 2 “\ |LINK8|\ ” delle \ |LINK9|\  ove sono specificate, anche, le caratteristiche e i criteri di scelta del formato stesso.
 
 .. _h779303838426b4475523e3dd4d38:
 
@@ -101,13 +103,13 @@ Le risorse strumentali e le procedure utilizzate per la formazione dei documenti
 
 * l'interscambiabilità dei documenti all'interno della stessa AOO e con AOO diverse.
 
-[I documenti dell'AOO sono prodotti con l'ausilio di applicativi di automazione ufficio nel rispetto dei criteri indicati dall'allegato 2 del D.P.C.M. 3 dicembre 2013] (abrogato dalle \ |LINK9|\ ).
+:guilabel:`I documenti dell'AOO sono prodotti con l'ausilio di applicativi di automazione ufficio nel rispetto dei criteri indicati dall'allegato 2 del D.P.C.M. 3 dicembre 2013`.
 
-I documenti informatici redatti dall'AOO con i prodotti d'automazione ufficio sono convertiti (prodotti), prima della loro sottoscrizione con firma digitale, nei formati standard indicati [dall'allegato 2 del D.P.C.M. 3 dicembre 2013] (abrogato dalle linee guida AGID) dall’allegato “\ |LINK10|\ ” delle \ |LINK11|\ , al fine di garantire la leggibilità per altri sistemi, la non alterabilità durante le fasi di accesso e conservazione e l'immutabilità nel tempo del contenuto e della struttura del documento.
+I documenti informatici redatti dall'AOO con i prodotti d'automazione ufficio sono convertiti (prodotti), prima della loro sottoscrizione con firma digitale, nei formati standard indicati :guilabel:`dall'allegato 2 del D.P.C.M. 3 dicembre 2013` dall’allegato “\ |LINK10|\ ” delle \ |LINK11|\ , al fine di garantire la leggibilità per altri sistemi, la non alterabilità durante le fasi di accesso e conservazione e l'immutabilità nel tempo del contenuto e della struttura del documento.
 
-Per attribuire in modo certo la titolarità del documento, lo stesso è sottoscritto con firma digitale o altra firma elettronica [apposta ai sensi del D.P.C.M. 22 febbraio 2013 “\ |STYLE1|\ ” ] (abrogato dalle \ |LINK12|\ ).
+Per attribuire in modo certo la titolarità del documento, lo stesso è sottoscritto con firma digitale o altra firma elettronica :guilabel:\`apposta ai sensi del D.P.C.M. 22 febbraio 2013 “\ |STYLE1|\ ”\`.
 
-[Per garantire le caratteristiche di immodificabilità e di integrità, nonché attribuire una data certa a un documento informatico prodotto all'interno della AOO, si applicano le regole di cui al D.P.C.M. 13 novembre 2014 “\ |STYLE2|\ ” ] (abrogato dalle \ |LINK13|\ ).
+:guilabel:\`Per garantire le caratteristiche di immodificabilità e di integrità, nonché attribuire una data certa a un documento informatico prodotto all'interno della AOO, si applicano le regole di cui al D.P.C.M. 13 novembre 2014 “\ |STYLE2|\ ” \`.
 
 .. _h6547537d5592b1563635f7d293b1b80:
 
@@ -141,7 +143,7 @@ Il sistema di gestione informatica dei documenti:
 3.2.1  I contenuti del registro giornaliero di protocollo
 ---------------------------------------------------------
 
-Il \ |STYLE4|\  deve ricomprendere le informazioni minime richieste dall’art. 53, comma 1, del DPR 445/2000 e [dalla Circolare n. 60 del 2013 ] (abrogato da Linee Guida AGID) \ |STYLE5|\ \ |LINK14|\ \ |STYLE6|\ . In particolare, la registrazione di protocollo per ogni documento ricevuto o spedito richiede la memorizzazione delle seguenti informazioni:
+Il \ |STYLE4|\  deve ricomprendere le informazioni minime richieste dall’art. 53, comma 1, del DPR 445/2000 e [dalla Circolare n. 60 del 2013 ] (abrogato da Linee Guida AGID) \ |STYLE5|\ \ |LINK12|\ \ |STYLE6|\ . In particolare, la registrazione di protocollo per ogni documento ricevuto o spedito richiede la memorizzazione delle seguenti informazioni:
 
 #. il numero di protocollo del documento generato automaticamente dal sistema;
 
@@ -161,7 +163,7 @@ Il registro giornaliero di protocollo deve contenere, in modo ordinato e progres
 
 La scelta dei \ |STYLE7|\  \ |STYLE8|\  deve essere strumentale a che il documento assuma le caratteristiche di immodificabilità e di staticità e a tal uopo è necessario fare riferimento all’allegato 2, denominato “Formati”, delle regole tecniche.
 
-Come consigliato dall’Agenzia per l’Italia Digitale nel documento “\ |LINK15|\ ”, è opportuno privilegiare formati le cui specifiche tecniche siano pubbliche, utilizzando quelli che abbiano ricevuto l’approvazione di organismi internazionali che definiscono norme tecniche (ISO, CEN, ECMA, W3C ecc.). Possono essere validamente utilizzati i seguenti formati: Portable Document Format (PDF), tra cui si suggerisce l’uso del formato PDF/A creato per l’archiviazione nel lungo periodo; Office Open XML nella sua estensione DOCX; Open Document (ODF); TXT (Codifica UTF 8); XML; JPEG; PNG. In ogni caso il Registro giornaliero di protocollo inviato al Sistema di Conservazione dovrà essere privo di elementi attivi, tra cui macro e campi variabili.
+Come consigliato dall’Agenzia per l’Italia Digitale nel documento “\ |LINK13|\ ”, è opportuno privilegiare formati le cui specifiche tecniche siano pubbliche, utilizzando quelli che abbiano ricevuto l’approvazione di organismi internazionali che definiscono norme tecniche (ISO, CEN, ECMA, W3C ecc.). Possono essere validamente utilizzati i seguenti formati: Portable Document Format (PDF), tra cui si suggerisce l’uso del formato PDF/A creato per l’archiviazione nel lungo periodo; Office Open XML nella sua estensione DOCX; Open Document (ODF); TXT (Codifica UTF 8); XML; JPEG; PNG. In ogni caso il Registro giornaliero di protocollo inviato al Sistema di Conservazione dovrà essere privo di elementi attivi, tra cui macro e campi variabili.
 
 
 .. admonition:: I metadati da associare al Registro giornaliero di protocollo, comprensivi dei metadati minimi individuati per tutte le tipologie documentali, sono
@@ -345,7 +347,7 @@ Allo stato attuale non è previsto l'accesso al sistema di gestione informatica 
 3.8    Conservazione dei documenti informatici
 ==============================================
 
-Il Comune utilizza sistemi di gestione documentale automatizzata. La funzione di conservazione dei documenti informatici, tuttora in fase di implementazione, deve avvenire nel rispetto delle modalità e tecniche specificate dal [D.P.C.M. 3 dicembre 2013 "\ |STYLE9|\ ” e del D.P.C.M. 13 novembre 2014 “\ |STYLE10|\ ”] (abrogato dalle linee guida AGID) dalle \ |LINK16|\ .
+Il Comune utilizza sistemi di gestione documentale automatizzata. La funzione di conservazione dei documenti informatici, tuttora in fase di implementazione, deve avvenire nel rispetto delle modalità e tecniche specificate dal :guilabel:\`D.P.C.M. 3 dicembre 2013 "\ |STYLE9|\ ” e del D.P.C.M. 13 novembre 2014 “\ |STYLE10|\ ”\`.
 
 Le procedure di archiviazione saranno effettuate al momento della migrazione dei documenti informatici dal sistema di gestione corrente a quello destinato alla conservazione.
 
@@ -359,7 +361,7 @@ La conservazione dovrà garantire  l’integrità e l’affidabilità dei docume
 ..  Note:: 
 
     Il contenuto del testo di questa pagina è disponibile in formato aperto qui:
-    \ |LINK17|\  
+    \ |LINK14|\  
 
 
 .. bottom of content
@@ -390,35 +392,35 @@ La conservazione dovrà garantire  l’integrità e l’affidabilità dei docume
 
 .. |LINK1| raw:: html
 
-    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/_downloads/5e42a9d5c8873a1dc532ef5522f5477c/All%202%20-%20Formati%20di%20File%20e%20Riversamento.pdf" target="_blank">formati di file e riversamento</a>
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/index.html#" target="_blank">sulla formazione, gestione e conservazione dei documenti informatici</a>
 
 .. |LINK2| raw:: html
 
-    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/index.html" target="_blank">Linee guida sulla formazione, gestione e conservazione dei documenti informatici</a>
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/_downloads/5e42a9d5c8873a1dc532ef5522f5477c/All%202%20-%20Formati%20di%20File%20e%20Riversamento.pdf" target="_blank">formati di file e riversamento</a>
 
 .. |LINK3| raw:: html
 
-    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/_downloads/68ba1a216597dd078bef95b520f86f14/All%205%20-I%20Metadati.pdf" target="_blank">Metadati</a>
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/index.html" target="_blank">Linee guida sulla formazione, gestione e conservazione dei documenti informatici</a>
 
 .. |LINK4| raw:: html
 
-    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/index.html" target="_blank">Linee guida sulla formazione, gestione e conservazione dei documenti informatici</a>
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/_downloads/68ba1a216597dd078bef95b520f86f14/All%205%20-I%20Metadati.pdf" target="_blank">Metadati</a>
 
 .. |LINK5| raw:: html
 
-    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/_downloads/68ba1a216597dd078bef95b520f86f14/All%205%20-I%20Metadati.pdf" target="_blank">Metadati</a>
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/index.html" target="_blank">Linee guida sulla formazione, gestione e conservazione dei documenti informatici</a>
 
 .. |LINK6| raw:: html
 
-    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/index.html" target="_blank">Linee guida sulla formazione, gestione e conservazione dei documenti informatici</a>
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/_downloads/68ba1a216597dd078bef95b520f86f14/All%205%20-I%20Metadati.pdf" target="_blank">Metadati</a>
 
 .. |LINK7| raw:: html
 
-    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/_downloads/5e42a9d5c8873a1dc532ef5522f5477c/All%202%20-%20Formati%20di%20File%20e%20Riversamento.pdf" target="_blank">Formati di file e riversamento</a>
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/index.html" target="_blank">Linee guida sulla formazione, gestione e conservazione dei documenti informatici</a>
 
 .. |LINK8| raw:: html
 
-    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/index.html" target="_blank">Linee guida sulla formazione, gestione e conservazione dei documenti informatici</a>
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/_downloads/5e42a9d5c8873a1dc532ef5522f5477c/All%202%20-%20Formati%20di%20File%20e%20Riversamento.pdf" target="_blank">Formati di file e riversamento</a>
 
 .. |LINK9| raw:: html
 
@@ -434,25 +436,13 @@ La conservazione dovrà garantire  l’integrità e l’affidabilità dei docume
 
 .. |LINK12| raw:: html
 
-    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/index.html" target="_blank">Linee guida sulla formazione, gestione e conservazione dei documenti informatici</a>
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/_downloads/79ebfd0000672f477eac7b869b7f1694/All%206%20-%20Comunicazione%20tra%20AOO%20di%20Documenti%20Amministrativi%20Protocollati.pdf" target="_blank">Comunicazione tra AOO di documenti amministrativi protocollati</a>
 
 .. |LINK13| raw:: html
 
-    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/index.html" target="_blank">Linee guida sulla formazione, gestione e conservazione dei documenti informatici</a>
-
-.. |LINK14| raw:: html
-
-    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/_downloads/79ebfd0000672f477eac7b869b7f1694/All%206%20-%20Comunicazione%20tra%20AOO%20di%20Documenti%20Amministrativi%20Protocollati.pdf" target="_blank">Comunicazione tra AOO di documenti amministrativi protocollati</a>
-
-.. |LINK15| raw:: html
-
     <a href="https://www.agid.gov.it/sites/default/files/repository_files/documenti_indirizzo/istruzioni_per_la_produzione_e_conservazione_registro_giornaliero_di_protocollo.pdf" target="_blank">Istruzioni per la produzione e conservazione del registro giornaliero di protocollo</a>
 
-.. |LINK16| raw:: html
-
-    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs" target="_blank">Linee guida Agid formazione-gestione-conservazione documento informatico del 2020</a>
-
-.. |LINK17| raw:: html
+.. |LINK14| raw:: html
 
     <a href="http://bit.ly/manuale-capitolo-3" target="_blank">http://bit.ly/manuale-capitolo-3</a>
 
