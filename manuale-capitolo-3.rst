@@ -143,7 +143,7 @@ Il sistema di gestione informatica dei documenti:
 3.2.1  I contenuti del registro giornaliero di protocollo
 ---------------------------------------------------------
 
-Il \ |STYLE4|\  deve ricomprendere le informazioni minime richieste dall’art. 53, comma 1, del DPR 445/2000 e [dalla Circolare n. 60 del 2013 ] (abrogato da Linee Guida AGID) \ |STYLE5|\ \ |LINK12|\ \ |STYLE6|\ . In particolare, la registrazione di protocollo per ogni documento ricevuto o spedito richiede la memorizzazione delle seguenti informazioni:
+Il \ |STYLE4|\  deve ricomprendere le informazioni minime richieste dall’art. 53, comma 1, del DPR 445/2000 e :guilabel:`[dalla Circolare n. 60 del 2013 ]` \ |STYLE5|\ \ |LINK12|\ \ |STYLE6|\ . In particolare, la registrazione di protocollo per ogni documento ricevuto o spedito richiede la memorizzazione delle seguenti informazioni:
 
 #. il numero di protocollo del documento generato automaticamente dal sistema;
 
