@@ -1,6 +1,4 @@
 
-|REPLACE1|
-
 .. _h443f2e6218176f272b7f287454535629:
 
 Manuale di gestione del protocollo informatico, del documento informatico e dell'archivio del Comune di Palermo
@@ -8,7 +6,7 @@ Manuale di gestione del protocollo informatico, del documento informatico e dell
 
 Area Organizzativa Omogenea: unica - \ |LINK1|\ 
 
-|REPLACE2|
+|REPLACE1|
 
 
 .. admonition:: Fonte delle informazioni contenute nel "Manuale"
@@ -195,9 +193,6 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
 
 
 .. |REPLACE1| raw:: html
-
-    <img src="https://raw.githubusercontent.com/cirospat/manuale-gestione-documento-protocollo-informatico-comune-palermo/master/static/comune-palermo-innovazione.png" />
-.. |REPLACE2| raw:: html
 
     <p><span style="background-color: #1a5dc9; color: #ffffff; display: inline-block; padding: 0px 2px; border-radius: 10px;">Bozza versione gennaio 2019</span> 
     <span style="background-color: #1a5dc9; color: #ffffff; display: inline-block; padding: 0px 2px; border-radius: 10px;">Revisione novembre 2019</span> 
