@@ -37,7 +37,7 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
     
     * il \ |LINK10|\ \ |STYLE4|\ ”, ad eccezione dell’art. 13 che rimane in vigore fino all'emanazione delle Linee guida di cui all’art. 29 del CAD.
     
-    Per quanto concerne il \ |STYLE5|\ ”, a partire dalla data di applicazione delle Linee guida AGID sono abrogate tutte le disposizioni fatte salve le seguenti:
+    Per quanto concerne il \ |STYLE5|\ ”, a partire dalla data di applicazione delle Linee guida AGID sono :guilabel:`abrogate tutte le disposizioni` fatte salve le seguenti:
     
     * art. 2 comma 1 [\ |STYLE6|\ . \ |STYLE7|\ ]
     
@@ -55,9 +55,9 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
     
     \ |STYLE43|\ 
     
-    Sempre a far data dalla data di applicazione delle Linee guida AGID, la \ |STYLE44|\  in materia di “Formato e definizione dei tipi di informazioni minime ed accessorie associate ai messaggi scambiati tra le Pubbliche Amministrazioni” è abrogata e sostituita dall’\ |LINK11|\ .
+    Sempre a far data dalla data di applicazione delle Linee guida AGID, la \ |STYLE44|\  in materia di “Formato e definizione dei tipi di informazioni minime ed accessorie associate ai messaggi scambiati tra le Pubbliche Amministrazioni” :guilabel:`è abrogata` e sostituita dall’\ |LINK11|\ .
     
-    Restano efficaci le disposizioni di cui alla \ |LINK12|\ , fino all’entrata in vigore delle Linee Guida previste AGID dall’art. 29 del CAD. (L’art. 29, comma 1, del CAD prevede che “\ |STYLE45|\ ”).
+    Restano efficaci le disposizioni di cui alla \ |LINK12|\ , :guilabel:`fino all’entrata in vigore delle Linee Guida` previste AGID dall’art. 29 del CAD. (L’art. 29, comma 1, del CAD prevede che “\ |STYLE45|\ ”).
 
 
 .. toctree:: 
@@ -199,9 +199,9 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
     <img src="https://raw.githubusercontent.com/cirospat/manuale-gestione-documento-protocollo-informatico-comune-palermo/master/static/comune-palermo-innovazione.png" />
 .. |REPLACE2| raw:: html
 
-    <p><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 0px 3px; border-radius: 10px;">Bozza versione gennaio 2019</span> 
-    <span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 0px 3px; border-radius: 10px;">Revisione versione novembre 2019</span> 
-    <span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 0px 3px; border-radius: 10px;">Revisione versione dicembre 2020</span> 
+    <p><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 0px 2px; border-radius: 10px;">Bozza versione gennaio 2019</span> 
+    <span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 0px 2px; border-radius: 10px;">Revisione novembre 2019</span> 
+    <span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 0px 2px; border-radius: 10px;">Revisione dicembre 2020</span> 
     <img src="https://img.shields.io/github/last-commit/cirospat/manuale-gestione-documento-protocollo-informatico-comune-palermo.svg?colorB=informational&label=ultimo%20aggiornamento&style=popout&logo=GitHub&logoColor=green" />   
     </p>
 
