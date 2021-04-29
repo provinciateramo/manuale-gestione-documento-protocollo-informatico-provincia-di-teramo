@@ -51,11 +51,11 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
     
     * ``art. 21`` [\ |STYLE35|\ \ |STYLE36|\  \ |STYLE37|\ \ |STYLE38|\  \ |STYLE39|\ \ |STYLE40|\  \ |STYLE41|\ \ |STYLE42|\ ] 
     
-    \ |STYLE43|\ 
+    \ |STYLE43|\  :guilabel:\`\ |STYLE44|\ \` \ |STYLE45|\ 
     
-    Sempre a far data dalla data di applicazione delle Linee guida AGID, la \ |STYLE44|\  in materia di “Formato e definizione dei tipi di informazioni minime ed accessorie associate ai messaggi scambiati tra le Pubbliche Amministrazioni” :guilabel:`è abrogata` e sostituita dall’\ |LINK11|\ .
+    Sempre a far data dalla data di applicazione delle Linee guida AGID, la \ |STYLE46|\  in materia di “Formato e definizione dei tipi di informazioni minime ed accessorie associate ai messaggi scambiati tra le Pubbliche Amministrazioni” :guilabel:`è abrogata` e sostituita dall’\ |LINK11|\ .
     
-    Restano efficaci le disposizioni di cui alla \ |LINK12|\ , :guilabel:`fino all’entrata in vigore delle Linee Guida` previste AGID dall’art. 29 del CAD. (L’art. 29, comma 1, del CAD prevede che “\ |STYLE45|\ ”).
+    Restano efficaci le disposizioni di cui alla \ |LINK12|\ , :guilabel:`fino all’entrata in vigore delle Linee Guida` previste AGID dall’art. 29 del CAD. (L’art. 29, comma 1, del CAD prevede che “\ |STYLE47|\ ”).
 
 
 .. toctree:: 
@@ -185,11 +185,15 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
 
 .. |STYLE42| replace:: *. Qualora due o più amministrazioni stabiliscano di scambiarsi informazioni non previste tra quelle definite al comma 2, le stesse possono estendere il fi le di cui all’art. 20, comma 1, includendo le informazioni specifiche stabilite di comune accordo, nel rispetto delle indicazioni tecniche stabilite dall’Agenzia per l’Italia digitale.*
 
-.. |STYLE43| replace:: **ATTENZIONE ↓**
+.. |STYLE43| replace:: **ATTENZIONE ALLE SEGUENTI ULTERIORI**
 
-.. |STYLE44| replace:: **circolare n. 60 del 23 gennaio 2013 dell’AgID**
+.. |STYLE44| replace:: **ABROGAZIONI**
 
-.. |STYLE45| replace:: *I soggetti che intendono fornire servizi fiduciari qualificati o svolgere l’attività di gestore di posta elettronica certificata o di gestore dell’identità digitale di cui all’articolo 64 presentano all’AgID domanda di qualificazione, secondo le modalità fissate dalle Linee guida. I soggetti che intendono svolgere l’attività di conservatore di documenti informatici presentano all’AgID domanda di accreditamento, secondo le modalità fissate dalle Linee guida*
+.. |STYLE45| replace:: **↓**
+
+.. |STYLE46| replace:: **circolare n. 60 del 23 gennaio 2013 dell’AgID**
+
+.. |STYLE47| replace:: *I soggetti che intendono fornire servizi fiduciari qualificati o svolgere l’attività di gestore di posta elettronica certificata o di gestore dell’identità digitale di cui all’articolo 64 presentano all’AgID domanda di qualificazione, secondo le modalità fissate dalle Linee guida. I soggetti che intendono svolgere l’attività di conservatore di documenti informatici presentano all’AgID domanda di accreditamento, secondo le modalità fissate dalle Linee guida*
 
 
 .. |REPLACE1| raw:: html
@@ -197,8 +201,7 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
     <p><span style="background-color: #1a5dc9; color: #ffffff; display: inline-block; padding: 0px 2px; border-radius: 10px;">Bozza versione gennaio 2019</span> 
     <span style="background-color: #1a5dc9; color: #ffffff; display: inline-block; padding: 0px 2px; border-radius: 10px;">Revisione novembre 2019</span> 
     <span style="background-color: #1a5dc9; color: #ffffff; display: inline-block; padding: 0px 2px; border-radius: 10px;">Revisione dicembre 2020</span> 
-    <img src="https://img.shields.io/github/last-commit/cirospat/manuale-gestione-documento-protocollo-informatico-comune-palermo.svg?colorB=informational&label=ultimo%20aggiornamento&style=popout&logo=GitHub&logoColor=green" />   
-    </p>
+    <img src="https://img.shields.io/github/last-commit/cirospat/manuale-gestione-documento-protocollo-informatico-comune-palermo.svg?colorB=informational&label=ultimo%20aggiornamento&style=popout&logo=GitHub&logoColor=green" />   </p>
 
 .. |LINK1| raw:: html
 
