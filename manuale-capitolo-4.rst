@@ -4,6 +4,8 @@
 4- Modalità di utilizzo di strumenti informatici per lo scambio di documenti
 ****************************************************************************
 
+:guilabel:`il testo visualizzato in questa modalità` è abrogato dalle Linee Guida AGID \ |LINK1|\ .
+
 II presente capitolo fornisce indicazioni sulle modalità di utilizzo di strumenti informatici per lo scambio di documenti all'interno ed all'esterno dell'AOO.
 
 Prima di entrare nel merito, occorre caratterizzare l'oggetto di scambio: il documento amministrativo.
@@ -77,7 +79,7 @@ I documenti su supporto cartaceo sono inviati:
 4.3    Documento interno formale
 ================================
 
-I documenti interni dell'Amministrazione devono essere formati con tecnologie informatiche. Lo scambio tra gli uffici dell’Amministrazione di documenti informatici di rilevanza amministrativa giuridico-probatoria – quando essi non siano assistiti da procedure informatiche che ne garantiscano altrimenti la tracciabilità – avviene, di norma, per mezzo della procedura di protocollo informatico sull’unico registro di protocollo informatico; il documento informatico scambiato viene prima sottoscritto con firma digitale e poi protocollato. 
+I documenti interni dell'Amministrazione devono essere formati con tecnologie informatiche. Lo scambio tra gli uffici dell’Amministrazione di documenti informatici di rilevanza amministrativa giuridico-probatoria – quando essi non siano assistiti da procedure informatiche che ne garantiscano altrimenti la tracciabilità – avviene, di norma, per mezzo della procedura di protocollo informatico nell'unico registro di protocollo informatico; il documento informatico scambiato viene prima sottoscritto con firma digitale e poi protocollato. 
 
 .. _h697d18407b437c142e72312a44313b3a:
 
@@ -93,7 +95,9 @@ Di conseguenza, per la formazione, la gestione e la sottoscrizione di documenti 
 4.5    Documento informatico
 ============================
 
-Il documento informatico è la rappresentazione informatica di atti, fatti o dati giuridicamente rilevanti; l’art. 20 del D. Lgs. del 7 marzo 2005, n. 82  “\ |STYLE0|\ ” e successive modifiche, prevede che “il documento informatico da chiunque formato, la registrazione su supporto informatico e la trasmissione con strumenti telematici sono validi e rilevanti a tutti gli effetti di legge, se conformi alle disposizioni del presente codice ed alle regole tecniche di cui all’art.71” adottate con  D.P.C.M. 3 dicembre 2013 “\ |STYLE1|\ ”, D.P.C.M. 3 dicembre 2013 “\ |STYLE2|\ ” e  D.P.C.M. 13 novembre 2014 “\ |STYLE3|\ ”. I documenti informatici prodotti, indipendentemente dal software utilizzato per la loro redazione, prima della loro eventuale sottoscrizione con firma digitale sono convertiti in uno dei formati aperti standard previsti dalla normativa vigente in materia di archiviazione, al fine di garantire la non alterabilità durante le fasi di accesso e conservazione e l’immutabilità nel tempo del contenuto e della struttura. Un documento nativo informatico non può essere convertito in formato analogico prima della sua eventuale acquisizione a sistema di protocollo o archiviazione informatica. 
+Il documento informatico è la rappresentazione informatica di atti, fatti o dati giuridicamente rilevanti; l’art. 20 del D. Lgs. del 7 marzo 2005, n. 82  “\ |STYLE0|\ ” e successive modifiche, prevede che “il documento informatico da chiunque formato, la registrazione su supporto informatico e la trasmissione con strumenti telematici sono validi e rilevanti a tutti gli effetti di legge, se conformi alle disposizioni del presente codice :guilabel:\` ed alle regole tecniche di cui all’art.71” adottate con  D.P.C.M. 3 dicembre 2013 “\ |STYLE1|\ ”, D.P.C.M. 3 dicembre 2013 “\ |STYLE2|\ ” e  D.P.C.M. 13 novembre 2014 “\ |STYLE3|\ ”\`. 
+
+I documenti informatici prodotti, indipendentemente dal software utilizzato per la loro redazione, prima della loro eventuale sottoscrizione con firma digitale sono convertiti in uno dei formati aperti standard previsti dalla normativa vigente in materia di archiviazione \ |STYLE4|\ \ |LINK2|\  \ |STYLE5|\ , al fine di garantire la non alterabilità durante le fasi di accesso e conservazione e l’immutabilità nel tempo del contenuto e della struttura. Un documento nativo informatico non può essere convertito in formato analogico prima della sua eventuale acquisizione a sistema di protocollo o archiviazione informatica. 
 
 .. _h3d246c7d84f6c3f521f2225305a69:
 
@@ -220,21 +224,21 @@ I documenti possono essere sottoscritti digitalmente da uno o più soggetti.
 4.14   Elenco dei formati dei documenti informatici 
 ====================================================
 
-Salvo i casi in cui, in relazione a specifici flussi documentali, vi siano particolari previsioni normative, o istruzioni operative per la fruizione di servizi telematici che dispongano diversamente, l’\ |STYLE4|\  tramite posta elettronica, posta elettronica certificata e altri canali telematici oppure consegnati direttamente su supporti informatici quando sono prodotti in uno dei seguenti formati: 
+Salvo i casi in cui, in relazione a specifici flussi documentali, vi siano particolari previsioni normative, o istruzioni operative per la fruizione di servizi telematici che dispongano diversamente, l’\ |STYLE6|\  tramite posta elettronica, posta elettronica certificata e altri canali telematici oppure consegnati direttamente su supporti informatici quando sono prodotti in uno dei seguenti formati previsti \ |STYLE7|\ \ |LINK3|\  \ |STYLE8|\ : 
 
-* .pdf (compreso il formato PDF/A);
+* :guilabel:`.pdf (compreso il formato PDF/A);`
 
-* .gif, .jpg, .bmp, .png, .wmf, .tif;
+* :guilabel:`.gif, .jpg, .bmp, .png, .wmf, .tif;`
 
-* .doc, .docx, .xsl, .xlsx, .ppt, pptx;
+* :guilabel:`.doc, .docx, .xsl, .xlsx, .ppt, pptx;`
 
-* .odf, .odt; .csv; .shape file;
+* :guilabel:`.odf, .odt; .csv; .shape file;`
 
-* .txt (codifica Unicode UTF 8);
+* :guilabel:`.txt (codifica Unicode UTF 8);`
 
-* .zip (a condizione che i file contenuti all’interno del file compresso siano prodotti in uno dei formati previsti nel presente elenco);
+* :guilabel:`.zip (a condizione che i file contenuti all’interno del file compresso siano prodotti in uno dei formati previsti nel presente elenco);`
 
-* .p7m (documenti firmati digitalmente con sottoscrizione di tipo CADES e a condizione che i file originali oggetto di sottoscrizione digitale siano prodotti in uno dei formati previsti nel presente elenco). 
+* :guilabel:`.p7m (documenti firmati digitalmente con sottoscrizione di tipo CADES e a condizione che i file originali oggetto di sottoscrizione digitale siano prodotti in uno dei formati previsti nel presente elenco).`
 
 Sono accettati dall’Ente tutti i formati previsti dalle “Linee Guida nazionali per la valorizzazione del patrimonio Informativo pubblico” dell’Agenzia per l’Italia Digitale, e dalle “Linee Guida open data del Comune di Palermo”.
 
@@ -328,7 +332,7 @@ La trasmissione del documento informatico per via telematica, con una modalità 
 ..  Note:: 
 
     Il contenuto del testo di questa pagina è disponibile in formato aperto qui:
-    \ |LINK1|\  
+    \ |LINK4|\  
 
 
 .. bottom of content
@@ -342,10 +346,30 @@ La trasmissione del documento informatico per via telematica, con una modalità 
 
 .. |STYLE3| replace:: *Regole tecniche in materia di formazione, trasmissione, copia, duplicazione, riproduzione e validazione temporale dei documenti informatici nonché di formazione e conservazione dei documenti informatici delle pubbliche amministrazioni ai sensi degli articoli 20, 22, 23-bis, 23-ter, 40, comma 1, 41, e 71, comma 1, del Codice dell'Amministrazione Digitale di cui al decreto legislativo n. 82 del 2005*
 
-.. |STYLE4| replace:: **Ente assicura l’accettazione dei documenti elettronici inviati ai suoi uffici**
+.. |STYLE4| replace:: **dall’**
+
+.. |STYLE5| replace:: **alle linee guida AGID sulla formazione-gestione-conservazione documento informatico del 2020**
+
+.. |STYLE6| replace:: **Ente assicura l’accettazione dei documenti elettronici inviati ai suoi uffici**
+
+.. |STYLE7| replace:: **dall’**
+
+.. |STYLE8| replace:: **alle linee guida AGID sulla formazione-gestione-conservazione documento informatico del 2020**
 
 
 .. |LINK1| raw:: html
+
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/index.html#" target="_blank">sulla formazione, gestione e conservazione dei documenti informatici</a>
+
+.. |LINK2| raw:: html
+
+    <a href="https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/202531503020O__OAllegato+2++Formati+di+File+e+Riversamento.pdf" target="_blank">Allegato 2  Formati di File e Riversamento</a>
+
+.. |LINK3| raw:: html
+
+    <a href="https://trasparenza.agid.gov.it/moduli/downloadFile.php?file=oggetto_allegati/202531503020O__OAllegato+2++Formati+di+File+e+Riversamento.pdf" target="_blank">Allegato 2  Formati di File e Riversamento</a>
+
+.. |LINK4| raw:: html
 
     <a href="http://bit.ly/manuale-capitolo-4" target="_blank">http://bit.ly/manuale-capitolo-4</a>
 
