@@ -11,9 +11,6 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
 |REPLACE2|
 
 
-|REPLACE3|
-
-
 .. admonition:: Fonte delle informazioni contenute nel "Manuale"
 
     La fonte del documento è il “\ |STYLE0|\ ” della Provincia di Pistoia, approvato con Decreto Presidenziale. n. 101 del 12/04/2017, disponibile al \ |LINK2|\ .
@@ -34,11 +31,11 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
 
     \ |STYLE1|\  \ |LINK7|\  \ |STYLE2|\ 
     
-    A partire dalla data di applicazione delle \ |LINK8|\ , sono abrogati:
+    A partire dalla data di applicazione delle \ |LINK8|\ , sono :guilabel:`abrogati`:
     
-    * il \ |STYLE3|\  \ |LINK9|\ ”;
+    * il \ |LINK9|\ \ |STYLE3|\ ”;
     
-    * il \ |STYLE4|\ ”, ad eccezione dell’art. 13 che rimane in vigore fino all'emanazione delle Linee guida di cui all’art. 29 del CAD.
+    * il \ |LINK10|\ \ |STYLE4|\ ”, ad eccezione dell’art. 13 che rimane in vigore fino all'emanazione delle Linee guida di cui all’art. 29 del CAD.
     
     Per quanto concerne il \ |STYLE5|\ ”, a partire dalla data di applicazione delle Linee guida AGID sono abrogate tutte le disposizioni fatte salve le seguenti:
     
@@ -58,9 +55,9 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
     
     \ |STYLE43|\ 
     
-    Sempre a far data dalla data di applicazione delle Linee guida AGID, la \ |STYLE44|\  in materia di “Formato e definizione dei tipi di informazioni minime ed accessorie associate ai messaggi scambiati tra le Pubbliche Amministrazioni” è abrogata e sostituita dall’\ |LINK10|\ .
+    Sempre a far data dalla data di applicazione delle Linee guida AGID, la \ |STYLE44|\  in materia di “Formato e definizione dei tipi di informazioni minime ed accessorie associate ai messaggi scambiati tra le Pubbliche Amministrazioni” è abrogata e sostituita dall’\ |LINK11|\ .
     
-    Restano efficaci le disposizioni di cui alla \ |LINK11|\ , fino all’entrata in vigore delle Linee Guida previste AGID dall’art. 29 del CAD. L’art. 29, comma 1, del CAD prevede che “\ |STYLE45|\ ”.
+    Restano efficaci le disposizioni di cui alla \ |LINK12|\ , fino all’entrata in vigore delle Linee Guida previste AGID dall’art. 29 del CAD. L’art. 29, comma 1, del CAD prevede che “\ |STYLE45|\ ”.
 
 
 .. toctree:: 
@@ -110,9 +107,9 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
 
 .. |STYLE2| replace:: **ABROGANO LE SEGUENTI NORME PRECEDENTI**
 
-.. |STYLE3| replace:: **DPCM 13 novembre 2014, contenente “Regole tecniche in materia di formazione, trasmissione, copia, duplicazione, riproduzione e validazione temporale dei documenti**
+.. |STYLE3| replace:: **, contenente “Regole tecniche in materia di formazione, trasmissione, copia, duplicazione, riproduzione e validazione temporale dei documenti informatici**
 
-.. |STYLE4| replace:: **DPCM 3 dicembre 2013, contenente “Regole tecniche in materia di sistema di conservazione**
+.. |STYLE4| replace:: **, contenente “Regole tecniche in materia di sistema di conservazione**
 
 .. |STYLE5| replace:: **DPCM 3 dicembre 2013, contenente “Regole tecniche per il protocollo informatico**
 
@@ -202,12 +199,10 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
     <img src="https://raw.githubusercontent.com/cirospat/manuale-gestione-documento-protocollo-informatico-comune-palermo/master/static/comune-palermo-innovazione.png" />
 .. |REPLACE2| raw:: html
 
-    <img src="https://img.shields.io/github/last-commit/cirospat/manuale-gestione-documento-protocollo-informatico-comune-palermo.svg?colorB=informational&label=ultimo%20aggiornamento&style=popout&logo=GitHub&logoColor=green" />   
-.. |REPLACE3| raw:: html
-
     <p><span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 1px 5px; border-radius: 10px;">Bozza versione gennaio 2019</span> 
-    <span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 2px 6px; border-radius: 10px;">Revisione versione novembre 2019</span> 
-    <span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 2px 6px; border-radius: 10px;">Revisione versione dicembre 2020</span>
+    <span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 1px 5px; border-radius: 10px;">Revisione versione novembre 2019</span> 
+    <span style="background-color: #6462d1; color: #ffffff; display: inline-block; padding: 1px 5px; border-radius: 10px;">Revisione versione dicembre 2020</span> 
+    <img src="https://img.shields.io/github/last-commit/cirospat/manuale-gestione-documento-protocollo-informatico-comune-palermo.svg?colorB=informational&label=ultimo%20aggiornamento&style=popout&logo=GitHub&logoColor=green" />   
     </p>
 
 .. |LINK1| raw:: html
@@ -244,13 +239,17 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
 
 .. |LINK9| raw:: html
 
-    <a href="http://www.agid.gov.it/sites/default/files/leggi_decreti_direttive/dpcm_13_11_2014_regole_tecniche_documento_informatico.pdf" target="_blank">informatici</a>
+    <a href="http://www.agid.gov.it/sites/default/files/leggi_decreti_direttive/dpcm_13_11_2014_regole_tecniche_documento_informatico.pdf" target="_blank">DPCM 13 novembre 2014</a>
 
 .. |LINK10| raw:: html
 
-    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/_downloads/79ebfd0000672f477eac7b869b7f1694/All%206%20-%20Comunicazione%20tra%20AOO%20di%20Documenti%20Amministrativi%20Protocollati.pdf" target="_blank">allegato 6 “Comunicazione tra AOO di documenti amministrativi protocollati” delle Linee Guida AGID</a>
+    <a href="https://www.agid.gov.it/sites/default/files/repository_files/leggi_decreti_direttive/dpcm_3-12-2013_conservazione.pdf" target="_blank">DPCM 3 dicembre 2013</a>
 
 .. |LINK11| raw:: html
+
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/_downloads/79ebfd0000672f477eac7b869b7f1694/All%206%20-%20Comunicazione%20tra%20AOO%20di%20Documenti%20Amministrativi%20Protocollati.pdf" target="_blank">allegato 6 “Comunicazione tra AOO di documenti amministrativi protocollati” delle Linee Guida AGID</a>
+
+.. |LINK12| raw:: html
 
     <a href="https://www.agid.gov.it/sites/default/files/repository_files/circolari/circolare_accreditamento_conservatori_n_65_10-04-2014.pdf" target="_blank">Circolare n. 65 del 10 aprile 2014</a>
 
