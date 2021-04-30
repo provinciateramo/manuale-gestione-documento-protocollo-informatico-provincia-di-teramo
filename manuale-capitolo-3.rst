@@ -109,7 +109,7 @@ I documenti informatici redatti dall'AOO con i prodotti d'automazione ufficio so
 
 Per attribuire in modo certo la titolarità del documento, lo stesso è sottoscritto con firma digitale o altra firma elettronica :guilabel:\`apposta ai sensi del D.P.C.M. 22 febbraio 2013 “\ |STYLE1|\ ”\`.
 
-:guilabel:\`Per garantire le caratteristiche di immodificabilità e di integrità, nonché attribuire una data certa a un documento informatico prodotto all'interno della AOO, si applicano le regole di cui al D.P.C.M. 13 novembre 2014 “\ |STYLE2|\ ” \`.
+:guilabel:\`Per garantire le caratteristiche di immodificabilità e di integrità, nonché attribuire una data certa a un documento informatico prodotto all'interno della AOO, si applicano le regole di cui al D.P.C.M. 13 novembre 2014 “\ |STYLE2|\ ”\`.
 
 .. _h6547537d5592b1563635f7d293b1b80:
 
