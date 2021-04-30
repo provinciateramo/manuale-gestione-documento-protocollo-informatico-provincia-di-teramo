@@ -28,19 +28,19 @@ Il contenuto del presente paragrafo si applica, salvo ove diversamente specifica
 
 Il documento informatico è formato mediante una delle seguenti modalità:
 
-1- creazione tramite l’utilizzo di strumenti software che assicurino la produzione di documenti nei formati previsti nell’allegato “\ |LINK2|\ ” allegato alle \ |LINK3|\ ; 
+\ |STYLE0|\  creazione tramite l’utilizzo di strumenti software che assicurino la produzione di documenti nei formati previsti nell’allegato “\ |LINK2|\ ” allegato alle \ |LINK3|\ ; 
 
-2- acquisizione di un documento informatico per via telematica o su supporto informatico, acquisizione della copia per immagine su supporto informatico di un documento analogico, acquisizione della copia informatica di un documento analogico; m
+\ |STYLE1|\  acquisizione di un documento informatico per via telematica o su supporto informatico, acquisizione della copia per immagine su supporto informatico di un documento analogico, acquisizione della copia informatica di un documento analogico; m
 
-3- memorizzazione su supporto informatico in formato digitale delle informazioni risultanti da transazioni o processi informatici o dalla presentazione telematica di dati attraverso moduli o formulari resi disponibili all’utente; 
+\ |STYLE2|\  memorizzazione su supporto informatico in formato digitale delle informazioni risultanti da transazioni o processi informatici o dalla presentazione telematica di dati attraverso moduli o formulari resi disponibili all’utente; 
 
-4- generazione o raggruppamento anche in via automatica di un insieme di dati o registrazioni, provenienti da una o più banche dati, anche appartenenti a più soggetti interoperanti, secondo una struttura logica predeterminata e memorizzata in forma statica.
+\ |STYLE3|\  generazione o raggruppamento anche in via automatica di un insieme di dati o registrazioni, provenienti da una o più banche dati, anche appartenenti a più soggetti interoperanti, secondo una struttura logica predeterminata e memorizzata in forma statica.
 
-Il documento informatico deve essere identificato in modo univoco e persistente. Nel caso dell’Amministrazione, l’identificazione dei documenti oggetto di registrazione di protocollo è rappresentata dalla segnatura di protocollo univocamente accoppiata al documento. L’identificazione dei documenti non protocollati è affidata alle funzioni del sistema di gestione documentale. In alternativa l’identificazione univoca può essere realizzata mediante associazione al documento di una sua impronta crittografica basata su funzioni di \ |STYLE0|\  che siano ritenute crittograficamente sicure.
+Il documento informatico deve essere identificato in modo univoco e persistente. Nel caso dell’Amministrazione, l’identificazione dei documenti oggetto di registrazione di protocollo è rappresentata dalla segnatura di protocollo univocamente accoppiata al documento. L’identificazione dei documenti non protocollati è affidata alle funzioni del sistema di gestione documentale. In alternativa l’identificazione univoca può essere realizzata mediante associazione al documento di una sua impronta crittografica basata su funzioni di \ |STYLE4|\  che siano ritenute crittograficamente sicure.
 
 Il documento informatico è immodificabile se la sua memorizzazione su supporto informatico in formato digitale non può essere alterata nel suo accesso, gestione e conservazione.
 
-Nel caso di documento informatico formato secondo la sopracitata lettera A), l’immodificabilità e l’integrità sono garantite da una o più delle seguenti operazioni:
+Nel caso di documento informatico formato secondo il sopracitato punto 1), l’immodificabilità e l’integrità sono garantite da una o più delle seguenti operazioni:
 
 * apposizione di una firma elettronica qualificata o di un sigillo elettronico qualificato o firma elettronica avanzata;
 
@@ -78,7 +78,7 @@ Al momento della formazione del documento informatico immodificabile, devono ess
 
 #. il destinatario, se presente;
 
-5) l’impronta crittografica del documento informatico (eventualmente contenuta in una firma, sigillo o marcatura temporale elettronica e qualora non già coincidente con l’identificativo univoco).
+\ |STYLE5|\  l’impronta crittografica del documento informatico (eventualmente contenuta in una firma, sigillo o marcatura temporale elettronica e qualora non già coincidente con l’identificativo univoco).
 
 Eventuali ulteriori metadati sono definiti in funzione del contesto e delle necessità gestionali e conservative, in conformità a quanto previsto nell’Allegato  5 “\ |LINK6|\ ”  delle \ |LINK7|\ .
 
@@ -107,7 +107,7 @@ Le risorse strumentali e le procedure utilizzate per la formazione dei documenti
 
 I documenti informatici redatti dall'AOO con i prodotti d'automazione ufficio sono convertiti (prodotti), prima della loro sottoscrizione con firma digitale, nei formati standard indicati :guilabel:`dall'allegato 2 del D.P.C.M. 3 dicembre 2013` dall’allegato “\ |LINK10|\ ” delle \ |LINK11|\ , al fine di garantire la leggibilità per altri sistemi, la non alterabilità durante le fasi di accesso e conservazione e l'immutabilità nel tempo del contenuto e della struttura del documento.
 
-Per attribuire in modo certo la titolarità del documento, lo stesso è sottoscritto con firma digitale o altra firma elettronica :guilabel:\`apposta ai sensi del D.P.C.M. 22 febbraio 2013 “\ |STYLE1|\ ”\`.
+Per attribuire in modo certo la titolarità del documento, lo stesso è sottoscritto con firma digitale o altra firma elettronica :guilabel:`apposta ai sensi del D.P.C.M. 22 febbraio 2013 'Regole tecniche in materia di generazione, apposizione e verifica delle firme elettroniche avanzate, qualificate e digitali'`
 
 :guilabel:`Per garantire le caratteristiche di immodificabilità e di integrità, nonché attribuire una data certa a un documento informatico prodotto all'interno della AOO, si applicano le regole di cui al D.P.C.M. 13 novembre 2014 'Regole tecniche in materia di formazione, trasmissione, copia, duplicazione, riproduzione e validazione temporale dei documenti informatici nonché di formazione e conservazione dei documenti informatici delle pubbliche amministrazioni ai sensi del Codice dell’Amministrazione Digitale di cui al decreto legislativo n. 82 del 2005.'`
 
@@ -136,14 +136,14 @@ Il sistema di gestione informatica dei documenti:
 
 #. consente la corretta organizzazione dei documenti nell'ambito del sistema di classificazione d'archivio adottato;
 
-#. consente la produzione del “\ |STYLE2|\ ” (ai sensi dell’art. 52, del D.P.R. 28 dicembre 2000, n. 445). L’art. 7, comma 5 del DPCM 3.12.2013, in tema di misure di sicurezza dei sistemi di protocollo informatico, prevede che il registro giornaliero di protocollo sia trasmesso, entro la giornata lavorativa successiva a quella della sua produzione, al Sistema di Conservazione, garantendone l'immodificabilità del contenuto. 
+#. consente la produzione del “\ |STYLE6|\ ” (ai sensi dell’art. 52, del D.P.R. 28 dicembre 2000, n. 445). L’art. 7, comma 5 del DPCM 3.12.2013, in tema di misure di sicurezza dei sistemi di protocollo informatico, prevede che il registro giornaliero di protocollo sia trasmesso, entro la giornata lavorativa successiva a quella della sua produzione, al Sistema di Conservazione, garantendone l'immodificabilità del contenuto. 
 
 .. _h3d765d3c104b277920506d576e3359:
 
 3.2.1  I contenuti del registro giornaliero di protocollo
 ---------------------------------------------------------
 
-Il \ |STYLE3|\  deve ricomprendere le informazioni minime richieste dall’art. 53, comma 1, del DPR 445/2000 e :guilabel:`[dalla Circolare n. 60 del 2013 ]` \ |STYLE4|\ \ |LINK12|\ \ |STYLE5|\ . In particolare, la registrazione di protocollo per ogni documento ricevuto o spedito richiede la memorizzazione delle seguenti informazioni:
+Il \ |STYLE7|\  deve ricomprendere le informazioni minime richieste dall’art. 53, comma 1, del DPR 445/2000 e :guilabel:`[dalla Circolare n. 60 del 2013 ]` \ |STYLE8|\ \ |LINK12|\ \ |STYLE9|\ . In particolare, la registrazione di protocollo per ogni documento ricevuto o spedito richiede la memorizzazione delle seguenti informazioni:
 
 #. il numero di protocollo del documento generato automaticamente dal sistema;
 
@@ -161,7 +161,7 @@ Il \ |STYLE3|\  deve ricomprendere le informazioni minime richieste dall’art. 
 
 Il registro giornaliero di protocollo deve contenere, in modo ordinato e progressivo, l’elenco delle informazioni inserite con l’operazione di registrazione di protocollo nell’arco di uno stesso giorno.
 
-La scelta dei \ |STYLE6|\  \ |STYLE7|\  deve essere strumentale a che il documento assuma le caratteristiche di immodificabilità e di staticità e a tal uopo è necessario fare riferimento all’allegato 2, denominato “Formati”, delle regole tecniche.
+La scelta dei \ |STYLE10|\  \ |STYLE11|\  deve essere strumentale a che il documento assuma le caratteristiche di immodificabilità e di staticità e a tal uopo è necessario fare riferimento all’allegato 2, denominato “Formati”, delle regole tecniche.
 
 Come consigliato dall’Agenzia per l’Italia Digitale nel documento “\ |LINK13|\ ”, è opportuno privilegiare formati le cui specifiche tecniche siano pubbliche, utilizzando quelli che abbiano ricevuto l’approvazione di organismi internazionali che definiscono norme tecniche (ISO, CEN, ECMA, W3C ecc.). Possono essere validamente utilizzati i seguenti formati: 
 
@@ -363,7 +363,7 @@ Allo stato attuale non è previsto l'accesso al sistema di gestione informatica 
 3.8    Conservazione dei documenti informatici
 ==============================================
 
-Il Comune utilizza sistemi di gestione documentale automatizzata. La funzione di conservazione dei documenti informatici, tuttora in fase di implementazione, deve avvenire nel rispetto delle modalità e tecniche specificate dal :guilabel:\`D.P.C.M. 3 dicembre 2013 "\ |STYLE8|\ ” e del D.P.C.M. 13 novembre 2014 “\ |STYLE9|\ ”.\`
+Il Comune utilizza sistemi di gestione documentale automatizzata. La funzione di conservazione dei documenti informatici, tuttora in fase di implementazione, deve avvenire nel rispetto delle modalità e tecniche specificate dal :guilabel:\`D.P.C.M. 3 dicembre 2013 "\ |STYLE12|\ ” e del D.P.C.M. 13 novembre 2014 “\ |STYLE13|\ ”.\`
 
 Le procedure di archiviazione saranno effettuate al momento della migrazione dei documenti informatici dal sistema di gestione corrente a quello destinato alla conservazione.
 
@@ -383,25 +383,33 @@ La conservazione dovrà garantire  l’integrità e l’affidabilità dei docume
 .. bottom of content
 
 
-.. |STYLE0| replace:: *hash*
+.. |STYLE0| replace:: **Punto 1-**
 
-.. |STYLE1| replace:: *Regole tecniche in materia di generazione, apposizione e verifica delle firme elettroniche avanzate, qualificate e digitali*
+.. |STYLE1| replace:: **Punto 2-**
 
-.. |STYLE2| replace:: **registro giornaliero di protocollo**
+.. |STYLE2| replace:: **Punto 3-**
 
-.. |STYLE3| replace:: **registro giornaliero di protocollo**
+.. |STYLE3| replace:: **Punto 4-**
 
-.. |STYLE4| replace:: **dall’allegato 6 “**
+.. |STYLE4| replace:: *hash*
 
-.. |STYLE5| replace:: **”**
+.. |STYLE5| replace:: **Punto 5)**
 
-.. |STYLE6| replace:: **formati**
+.. |STYLE6| replace:: **registro giornaliero di protocollo**
 
-.. |STYLE7| replace:: **idonei alla conservazione del Registro giornaliero di protocollo**
+.. |STYLE7| replace:: **registro giornaliero di protocollo**
 
-.. |STYLE8| replace:: *Regole tecniche in materia di sistema di conservazione*
+.. |STYLE8| replace:: **dall’allegato 6 “**
 
-.. |STYLE9| replace:: *Regole tecniche in materia di formazione, trasmissione, copia, duplicazione, riproduzione e validazione temporale dei documenti informatici nonché di formazione e conservazione dei documenti informatici delle pubbliche amministrazioni ai sensi degli articoli 20, 22, 23 -bis, 23 -ter, 40, comma 1, 41, e 71, comma 1, del Codice dell’amministrazione digitale di cui al decreto legislativo n. 82 del 2005*
+.. |STYLE9| replace:: **”**
+
+.. |STYLE10| replace:: **formati**
+
+.. |STYLE11| replace:: **idonei alla conservazione del Registro giornaliero di protocollo**
+
+.. |STYLE12| replace:: *Regole tecniche in materia di sistema di conservazione*
+
+.. |STYLE13| replace:: *Regole tecniche in materia di formazione, trasmissione, copia, duplicazione, riproduzione e validazione temporale dei documenti informatici nonché di formazione e conservazione dei documenti informatici delle pubbliche amministrazioni ai sensi degli articoli 20, 22, 23 -bis, 23 -ter, 40, comma 1, 41, e 71, comma 1, del Codice dell’amministrazione digitale di cui al decreto legislativo n. 82 del 2005*
 
 
 .. |LINK1| raw:: html
