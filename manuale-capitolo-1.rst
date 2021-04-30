@@ -74,7 +74,7 @@ Ai fini del presente manuale si intende per:
 
 * “\ |STYLE11|\ ” il D. Lgs. 22.1.2004, n. 42 recante il “codice dei beni culturali e del paesaggio”;
 
-* "\ |STYLE12|\  ", il D.P.C.M. 3 dicembre 2013 concernente le "\ |STYLE13|\ ” soltanto per i seguenti articoli: art. 2 comma 1; art. 6; art. 9; art. 18 commi 1 e 5; art. 19; art. 20; art. 21. Gli altri articoli sono stati \ |LINK4|\ . 
+* "\ |STYLE12|\  ", il D.P.C.M. 3 dicembre 2013 concernente le "\ |STYLE13|\ ” soltanto per i seguenti articoli: art. 2 comma 1; art. 6; art. 9; art. 18 commi 1 e 5; art. 19; art. 20; art. 21. :guilabel:\`Gli altri articoli sono stati \ |LINK4|\ .\` 
 
 * :guilabel:\`“\ |STYLE14|\ ”,  il D.P.C.M. 13 novembre 2014, recante “\ |STYLE15|\ ”\` 
 
