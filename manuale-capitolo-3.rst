@@ -347,7 +347,7 @@ Allo stato attuale non è previsto l'accesso al sistema di gestione informatica 
 3.8    Conservazione dei documenti informatici
 ==============================================
 
-Il Comune utilizza sistemi di gestione documentale automatizzata. La funzione di conservazione dei documenti informatici, tuttora in fase di implementazione, deve avvenire nel rispetto delle modalità e tecniche specificate dal :guilabel:\`D.P.C.M. 3 dicembre 2013 "\ |STYLE9|\ ” e del D.P.C.M. 13 novembre 2014 “\ |STYLE10|\ ”\`.
+Il Comune utilizza sistemi di gestione documentale automatizzata. La funzione di conservazione dei documenti informatici, tuttora in fase di implementazione, deve avvenire nel rispetto delle modalità e tecniche specificate dal :guilabel:\`D.P.C.M. 3 dicembre 2013 "\ |STYLE9|\ ” e del D.P.C.M. 13 novembre 2014 “\ |STYLE10|\ ”.\`
 
 Le procedure di archiviazione saranno effettuate al momento della migrazione dei documenti informatici dal sistema di gestione corrente a quello destinato alla conservazione.
 
@@ -387,7 +387,7 @@ La conservazione dovrà garantire  l’integrità e l’affidabilità dei docume
 
 .. |STYLE9| replace:: *Regole tecniche in materia di sistema di conservazione*
 
-.. |STYLE10| replace:: *Regole tecniche in materia di formazione, trasmissione, copia, duplicazione, riproduzione e validazione temporale dei documenti informatici nonché di formazione e conservazione dei documenti informatici delle pubbliche amministrazioni ai sensi degli articoli 20, 22, 23 -bis , 23 -ter , 40, comma 1, 41, e 71, comma 1, del Codice dell’amministrazione digitale di cui al decreto legislativo n. 82 del 2005*
+.. |STYLE10| replace:: *Regole tecniche in materia di formazione, trasmissione, copia, duplicazione, riproduzione e validazione temporale dei documenti informatici nonché di formazione e conservazione dei documenti informatici delle pubbliche amministrazioni ai sensi degli articoli 20, 22, 23 -bis, 23 -ter, 40, comma 1, 41, e 71, comma 1, del Codice dell’amministrazione digitale di cui al decreto legislativo n. 82 del 2005*
 
 
 .. |LINK1| raw:: html
