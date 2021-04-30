@@ -95,9 +95,9 @@ Di conseguenza, per la formazione, la gestione e la sottoscrizione di documenti 
 4.5    Documento informatico
 ============================
 
-Il documento informatico è la rappresentazione informatica di atti, fatti o dati giuridicamente rilevanti; l’art. 20 del D. Lgs. del 7 marzo 2005, n. 82  “\ |STYLE0|\ ” e successive modifiche, prevede che “il documento informatico da chiunque formato, la registrazione su supporto informatico e la trasmissione con strumenti telematici sono validi e rilevanti a tutti gli effetti di legge, se conformi alle disposizioni del presente codice :guilabel:\`ed alle regole tecniche di cui all’art.71 adottate con  D.P.C.M. 3 dicembre 2013 '\ |STYLE1|\ , D.P.C.M. 3 dicembre 2013 '\ |STYLE2|\  e  D.P.C.M. 13 novembre 2014 '\ |STYLE3|\ \` 
+Il documento informatico è la rappresentazione informatica di atti, fatti o dati giuridicamente rilevanti; l’art. 20 del D. Lgs. del 7 marzo 2005, n. 82  “\ |STYLE0|\ ” e successive modifiche, prevede che “il documento informatico da chiunque formato, la registrazione su supporto informatico e la trasmissione con strumenti telematici sono validi e rilevanti a tutti gli effetti di legge, se conformi alle disposizioni del presente codice :guilabel:`ed alle regole tecniche di cui all’art.71 adottate con  D.P.C.M. 3 dicembre 2013 'Regole tecniche per il protocollo informatico'`,  ai sensi degli articoli 40-bis , 41, 47, 57-bis e 71, del Codice dell’Amministrazione Digitale, di cui al decreto legislativo n. 82 del 2005, :guilabel:`D.P.C.M. 3 dicembre 2013 'Regole tecniche in materia di sistema di conservazione'`, ai sensi degli articoli 20, commi 3 e 5-bis, 23-ter, comma 4, 43, commi 1 e 3, 44 , 44-bis e 71, comma 1, del Codice dell'amministrazione digitale di cui al decreto legislativo n. 82 del 2005 :guilabel:`e  D.P.C.M. 13 novembre 2014 'Regole tecniche in materia di formazione, trasmissione, copia, duplicazione, riproduzione e validazione temporale dei documenti informatici` nonché di formazione e conservazione dei documenti informatici delle pubbliche amministrazioni'\` ai sensi degli articoli 20, 22, 23-bis, 23-ter, 40, comma 1, 41, e 71, comma 1, del Codice dell'Amministrazione Digitale di cui al decreto legislativo n. 82 del 2005. 
 
-I documenti informatici prodotti, indipendentemente dal software utilizzato per la loro redazione, prima della loro eventuale sottoscrizione con firma digitale sono convertiti in uno dei formati aperti standard previsti dalla normativa vigente in materia di archiviazione \ |STYLE4|\ \ |LINK2|\  \ |STYLE5|\ , al fine di garantire la non alterabilità durante le fasi di accesso e conservazione e l’immutabilità nel tempo del contenuto e della struttura. Un documento nativo informatico non può essere convertito in formato analogico prima della sua eventuale acquisizione a sistema di protocollo o archiviazione informatica. 
+I documenti informatici prodotti, indipendentemente dal software utilizzato per la loro redazione, prima della loro eventuale sottoscrizione con firma digitale sono convertiti in uno dei formati aperti standard previsti dalla normativa vigente in materia di archiviazione \ |STYLE1|\ \ |LINK2|\  \ |STYLE2|\ , al fine di garantire la non alterabilità durante le fasi di accesso e conservazione e l’immutabilità nel tempo del contenuto e della struttura. Un documento nativo informatico non può essere convertito in formato analogico prima della sua eventuale acquisizione a sistema di protocollo o archiviazione informatica. 
 
 .. _h3d246c7d84f6c3f521f2225305a69:
 
@@ -224,7 +224,7 @@ I documenti possono essere sottoscritti digitalmente da uno o più soggetti.
 4.14   Elenco dei formati dei documenti informatici 
 ====================================================
 
-Salvo i casi in cui, in relazione a specifici flussi documentali, vi siano particolari previsioni normative, o istruzioni operative per la fruizione di servizi telematici che dispongano diversamente, l’\ |STYLE6|\  tramite posta elettronica, posta elettronica certificata e altri canali telematici oppure consegnati direttamente su supporti informatici quando sono prodotti in uno dei seguenti formati previsti \ |STYLE7|\ \ |LINK3|\  \ |STYLE8|\ : 
+Salvo i casi in cui, in relazione a specifici flussi documentali, vi siano particolari previsioni normative, o istruzioni operative per la fruizione di servizi telematici che dispongano diversamente, l’\ |STYLE3|\  tramite posta elettronica, posta elettronica certificata e altri canali telematici oppure consegnati direttamente su supporti informatici quando sono prodotti in uno dei seguenti formati previsti \ |STYLE4|\ \ |LINK3|\  \ |STYLE5|\ : 
 
 * :guilabel:`.pdf (compreso il formato PDF/A);`
 
@@ -340,21 +340,15 @@ La trasmissione del documento informatico per via telematica, con una modalità 
 
 .. |STYLE0| replace:: *Codice dell’Amministrazione Digitale*
 
-.. |STYLE1| replace:: *Regole tecniche per il protocollo informatico' ai sensi degli articoli 40 -bis , 41, 47, 57bis e 71, del Codice dell’amministrazione digitale di cui al decreto legislativo n. 82 del 2005*
+.. |STYLE1| replace:: **dall’**
 
-.. |STYLE2| replace:: *Regole tecniche in materia di sistema di conservazione' ai sensi degli articoli 20, commi 3 e 5-bis, 23-ter, comma 4, 43, commi 1 e 3, 44 , 44-bis e 71, comma 1, del Codice dell'amministrazione digitale di cui al decreto legislativo n. 82 del 2005*
+.. |STYLE2| replace:: **alle linee guida AGID sulla formazione-gestione-conservazione documento informatico del 2020**
 
-.. |STYLE3| replace:: *Regole tecniche in materia di formazione, trasmissione, copia, duplicazione, riproduzione e validazione temporale dei documenti informatici nonché di formazione e conservazione dei documenti informatici delle pubbliche amministrazioni' ai sensi degli articoli 20, 22, 23-bis, 23-ter, 40, comma 1, 41, e 71, comma 1, del Codice dell'Amministrazione Digitale di cui al decreto legislativo n. 82 del 2005.*
+.. |STYLE3| replace:: **Ente assicura l’accettazione dei documenti elettronici inviati ai suoi uffici**
 
 .. |STYLE4| replace:: **dall’**
 
 .. |STYLE5| replace:: **alle linee guida AGID sulla formazione-gestione-conservazione documento informatico del 2020**
-
-.. |STYLE6| replace:: **Ente assicura l’accettazione dei documenti elettronici inviati ai suoi uffici**
-
-.. |STYLE7| replace:: **dall’**
-
-.. |STYLE8| replace:: **alle linee guida AGID sulla formazione-gestione-conservazione documento informatico del 2020**
 
 
 .. |LINK1| raw:: html
