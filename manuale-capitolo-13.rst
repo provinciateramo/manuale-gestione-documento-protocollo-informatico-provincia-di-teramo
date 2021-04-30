@@ -23,7 +23,7 @@ Il presente manuale potrà essere aggiornato a seguito di:
 
 All’occorrenza, il presente manuale potrà essere aggiornato attraverso la collaborazione dei seguenti Uffici:
 
-* l’Ufficio Innovazione per gli aspetti concernenti l’informatizzazione del Protocollo e del documento informatico, dove l’attività tecnica di reingegnerizzazione e sviluppo evolutivo viene svolta dal personale della Società informatica comunale SISPI SpA;
+* l’Ufficio Innovazione per gli aspetti concernenti l’informatizzazione del Protocollo e del documento informatico e della conservazione, dove l’attività tecnica di reingegnerizzazione e sviluppo evolutivo viene svolta dal personale della Società informatica comunale in house SISPI SpA;
 
 * l’Ufficio del Responsabile del Protocollo (Vice Segreteria Generale) per gli aspetti concernenti l’ottimizzazione delle procedure correlate strettamente alla funzionalità del sistema di Protocollo;
 
@@ -45,7 +45,7 @@ II presente manuale è disponibile alla consultazione del pubblico che ne può p
 13.3    Operatività del presente manuale
 ========================================
 
-II presente manuale è operativo al momento dell'esecutività dell'atto di approvazione.
+II presente manuale è operativo al momento dell'esecutività dell'atto amministrativo di approvazione.
 
 --------
 
@@ -59,7 +59,7 @@ II presente manuale è operativo al momento dell'esecutività dell'atto di appro
 .. bottom of content
 
 
-.. |STYLE0| replace:: *Manuale di gestione*
+.. |STYLE0| replace:: *Manuale*
 
 
 .. |LINK1| raw:: html
