@@ -76,50 +76,50 @@ Ai fini del presente manuale si intende per:
 
 * "\ |STYLE12|\  ", il D.P.C.M. 3 dicembre 2013 concernente le "\ |STYLE13|\ ” soltanto per i seguenti articoli: art. 2 comma 1; art. 6; art. 9; art. 18 commi 1 e 5; art. 19; art. 20; art. 21.  :guilabel:\`Gli altri articoli sono stati \ |LINK4|\ \` 
 
-* :guilabel:\`\ |STYLE14|\ ,  il D.P.C.M. 13 novembre 2014, recante “\ |STYLE15|\ ”\` 
+* :guilabel:`Regole tecniche per la conservazione,  il D.P.C.M. 13 novembre 2014, recante Regole tecniche in materia di sistema di conservazione ai sensi degli articoli 20, commi 3 e 5-bis, 23-ter, comma 4, 43, commi 1 e 3, 44, 44-bis e 71, comma 1, del Codice dell’Amministrazione Digitale di cui al D. Lgs. n. 82 del 2005` 
 
-* "\ |STYLE16|\ ", il D.P.R. 20 dicembre 2000, n. 445 - Testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa.
+* "\ |STYLE14|\ ", il D.P.R. 20 dicembre 2000, n. 445 - Testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa.
 
-Per l’elenco completo delle definizioni vedasi \ |STYLE17|\ . 
+Per l’elenco completo delle definizioni vedasi \ |STYLE15|\ . 
 
 Di seguito si riportano gli acronimi utilizzati più frequentemente: 
 
-* \ |STYLE18|\  - Area Organizzativa Omogenea denominata Comune di Palermo;
+* \ |STYLE16|\  - Area Organizzativa Omogenea denominata Comune di Palermo;
 
-* \ |STYLE19|\  - Coordinatore della gestione documentale;
+* \ |STYLE17|\  - Coordinatore della gestione documentale;
 
-* \ |STYLE20|\  - la piattaforma informatica disponibile online che rende pubblici tutti gli atti amministrativi prodotti dall’Amministrazione, oggetto di pubblicazione nell’Albo Pretorio, e  che i cittadini e le aziende utilizzano per lo scambio documentale con il Comune di Palermo, previa autenticazione con credenziali;
+* \ |STYLE18|\  - la piattaforma informatica disponibile online che rende pubblici tutti gli atti amministrativi prodotti dall’Amministrazione, oggetto di pubblicazione nell’Albo Pretorio, e  che i cittadini e le aziende utilizzano per lo scambio documentale con il Comune di Palermo, previa autenticazione con credenziali;
 
-* \ |STYLE21|\  – Denominazione dell’applicativo che include i moduli relativi alle procedure di protocollo informatico e gestione dei documenti informatici;
+* \ |STYLE19|\  – Denominazione dell’applicativo che include i moduli relativi alle procedure di protocollo informatico e gestione dei documenti informatici;
 
-* \ |STYLE22|\  – Interoperabilità di protocollo tra pubbliche amministrazioni;
+* \ |STYLE20|\  – Interoperabilità di protocollo tra pubbliche amministrazioni;
 
-* \ |STYLE23|\  -  Indice delle Pubbliche Amministrazioni;
+* \ |STYLE21|\  -  Indice delle Pubbliche Amministrazioni;
 
-* \ |STYLE24|\  - Responsabile del Procedimento Amministrativo - il dipendente che ha la responsabilità dell'esecuzione degli adempimenti amministrativi relativi ad un affare; 
+* \ |STYLE22|\  - Responsabile del Procedimento Amministrativo - il dipendente che ha la responsabilità dell'esecuzione degli adempimenti amministrativi relativi ad un affare; 
 
-* \ |STYLE25|\  - Responsabile del Servizio per la tenuta del protocollo informatico, e dell'archivio; 
+* \ |STYLE23|\  - Responsabile del Servizio per la tenuta del protocollo informatico, e dell'archivio; 
 
-* \ |STYLE26|\  - Responsabile tecnico per la tenuta del sistema di gestione informatica del protocollo; coincide con la Società Informatica comunale SISPI SpA.;
+* \ |STYLE24|\  - Responsabile tecnico per la tenuta del sistema di gestione informatica del protocollo; coincide con la Società Informatica comunale SISPI SpA.;
 
-* \ |STYLE27|\  - Servizio di protocollo informatico;
+* \ |STYLE25|\  - Servizio di protocollo informatico;
 
-* \ |STYLE28|\  – servizio per la  trasmissione via internet di email;
+* \ |STYLE26|\  – servizio per la  trasmissione via internet di email;
 
-* \ |STYLE29|\  - Unità Organizzative di registrazione di Protocollo - rappresentano gli uffici che svolgono attività di registrazione di protocollo; 
+* \ |STYLE27|\  - Unità Organizzative di registrazione di Protocollo - rappresentano gli uffici che svolgono attività di registrazione di protocollo; 
 
-* \ |STYLE30|\  - Uffici Organizzativi di Riferimento - un insieme di uffici che, per tipologia di mandato istituzionale e competenza, di funzione amministrativa perseguita, di obiettivi e di attività svolta, presentano esigenze di gestione della documentazione in modo unitario e coordinato; 
+* \ |STYLE28|\  - Uffici Organizzativi di Riferimento - un insieme di uffici che, per tipologia di mandato istituzionale e competenza, di funzione amministrativa perseguita, di obiettivi e di attività svolta, presentano esigenze di gestione della documentazione in modo unitario e coordinato; 
 
-* \ |STYLE31|\  - Ufficio Utente - un ufficio dell'AOO che utilizza i servizi messi a disposizione dal servizio di protocollo informatico; ovvero il soggetto, destinatario del documento, così come risulta dai campi opzionali della segnatura di protocollo. 
+* \ |STYLE29|\  - Ufficio Utente - un ufficio dell'AOO che utilizza i servizi messi a disposizione dal servizio di protocollo informatico; ovvero il soggetto, destinatario del documento, così come risulta dai campi opzionali della segnatura di protocollo. 
 
-Per le norme ed i regolamenti di riferimento vedasi l'elenco riportato nell'\ |STYLE32|\ .
+Per le norme ed i regolamenti di riferimento vedasi l'elenco riportato nell'\ |STYLE30|\ .
 
 .. _h216946b6a4f2014785e4527a454b3:
 
 1.4    Area Organizzativa Omogenea e modello organizzativo adottato
 ===================================================================
 
-Per la gestione dei documenti, viene individuata un’unica Area Organizzativa Omogenea (AOO), denominata “\ |STYLE33|\ ”, che comprende tutte le diverse strutture organizzative in cui si articola l'Ente. Ai fini della gestione del sistema documentario all’interno del Comune di Palermo sono individuati una pluralità di Uffici Organizzativi di Riferimento (UOR).
+Per la gestione dei documenti, viene individuata un’unica Area Organizzativa Omogenea (AOO), denominata “\ |STYLE31|\ ”, che comprende tutte le diverse strutture organizzative in cui si articola l'Ente. Ai fini della gestione del sistema documentario all’interno del Comune di Palermo sono individuati una pluralità di Uffici Organizzativi di Riferimento (UOR).
 
 Il sistema di protocollazione adottato dal Comune di Palermo è unico, ed è accentrato per la corrispondenza in entrata nonché per la documentazione pervenuta a mezzo PEC istituzionale e tramite interoperabilità; è decentrato per la corrispondenza in uscita e interna attraverso tutti gli UOR (che svolgono anche i compiti di  UOP).
 
@@ -130,9 +130,9 @@ Il sistema di protocollazione adottato dal Comune di Palermo è unico, ed è acc
 
 Nella AOO è istituito il servizio per la tenuta del protocollo informatico, la gestione dei flussi documentali e degli archivi.
 
-Al suddetto servizio è preposto il Responsabile del Servizio di Protocollo informatico, della gestione dei flussi documentali e degli archivi (di seguito \ |STYLE34|\ ).
+Al suddetto servizio è preposto il Responsabile del Servizio di Protocollo informatico, della gestione dei flussi documentali e degli archivi (di seguito \ |STYLE32|\ ).
 
-Le attività afferenti al Servizio di Protocollo informatico, della gestione dei flussi documentali e degli archivi, sono coordinate da un dirigente, il Coordinatore della gestione documentale (di seguito \ |STYLE35|\ ) .
+Le attività afferenti al Servizio di Protocollo informatico, della gestione dei flussi documentali e degli archivi, sono coordinate da un dirigente, il Coordinatore della gestione documentale (di seguito \ |STYLE33|\ ) .
 
 In relazione alla modalità di fruizione del servizio di protocollo adottata dalla AOO, è compito del servizio:
 
@@ -193,7 +193,7 @@ L'Amministrazione munisce i propri dipendenti di una casella di posta elettronic
 1.10   Sistema di classificazione dei documenti
 ===============================================
 
-Per la classificazione dei documenti viene utilizzato il  \ |STYLE36|\  indicato dall’Agenzia per l’Italia Digitale per i comuni \ |LINK5|\  (sezione “Documenti di indirizzo”), denominato “\ |STYLE37|\ ”, e redatto dal “Gruppo di lavoro per la formulazione di proposte e modelli per la riorganizzazione dell’archivio dei Comuni”, edizione dicembre 2005. Il Titolario dettagliato è descritto nell’\ |STYLE38|\ .
+Per la classificazione dei documenti viene utilizzato il  \ |STYLE34|\  indicato dall’Agenzia per l’Italia Digitale per i comuni \ |LINK5|\  (sezione “Documenti di indirizzo”), denominato “\ |STYLE35|\ ”, e redatto dal “Gruppo di lavoro per la formulazione di proposte e modelli per la riorganizzazione dell’archivio dei Comuni”, edizione dicembre 2005. Il Titolario dettagliato è descritto nell’\ |STYLE36|\ .
 
 .. _h25161a3b6e57167716791b3c392f:
 
@@ -217,7 +217,7 @@ Nell'ambito dei piani formativi richiesti a tutte le amministrazioni sulla forma
 
 L'Amministrazione, nell'ambito degli adempimenti previsti, si è accreditata presso l'Indice delle Pubbliche Amministrazioni (IPA), tenuto e reso pubblico dalla medesima, fornendo le informazioni che individuano l'amministrazione stessa. 
 
-Il codice identificativo “\ |STYLE39|\ ” è stato generato e attribuito autonomamente dall'Amministrazione. L'indice delle pubbliche amministrazioni (IPA) è accessibile tramite il relativo sito internet da parte di tutti i soggetti pubblici o privati. L'Amministrazione comunica tempestivamente all'IPA ogni successiva modifica delle proprie credenziali di riferimento e la data in cui la modifica stessa sarà operativa.
+Il codice identificativo “\ |STYLE37|\ ” è stato generato e attribuito autonomamente dall'Amministrazione. L'indice delle pubbliche amministrazioni (IPA) è accessibile tramite il relativo sito internet da parte di tutti i soggetti pubblici o privati. L'Amministrazione comunica tempestivamente all'IPA ogni successiva modifica delle proprie credenziali di riferimento e la data in cui la modifica stessa sarà operativa.
 
 Il referente dell’Amministrazione, per l'IPA è stato individuato all'interno dei Servizi Informatici nella figura del RTP.
 
@@ -270,57 +270,53 @@ Gli eventuali documenti cartacei ricevuti, dopo registrazione e segnatura di pro
 
 .. |STYLE13| replace:: **Regole tecniche per il protocollo informatico**
 
-.. |STYLE14| replace:: **Regole tecniche per la conservazione**
+.. |STYLE14| replace:: **Testo Unico**
 
-.. |STYLE15| replace:: **Regole tecniche in materia di sistema di conservazione ai sensi degli articoli 20, commi 3 e 5-bis, 23-ter, comma 4, 43, commi 1 e 3, 44, 44-bis e 71, comma 1, del Codice dell’Amministrazione Digitale di cui al D. Lgs. n. 82 del 2005**
+.. |STYLE15| replace:: **l'allegato 1**
 
-.. |STYLE16| replace:: **Testo Unico**
+.. |STYLE16| replace:: **AOO**
 
-.. |STYLE17| replace:: **l'allegato 1**
+.. |STYLE17| replace:: **CGD**
 
-.. |STYLE18| replace:: **AOO**
+.. |STYLE18| replace:: **PORTALE DEI SERVIZI ONLINE**
 
-.. |STYLE19| replace:: **CGD**
+.. |STYLE19| replace:: **SCRIVANIA VIRTUALE**
 
-.. |STYLE20| replace:: **PORTALE DEI SERVIZI ONLINE**
+.. |STYLE20| replace:: **IOP**
 
-.. |STYLE21| replace:: **SCRIVANIA VIRTUALE**
+.. |STYLE21| replace:: **IPA**
 
-.. |STYLE22| replace:: **IOP**
+.. |STYLE22| replace:: **RPA**
 
-.. |STYLE23| replace:: **IPA**
+.. |STYLE23| replace:: **RSP**
 
-.. |STYLE24| replace:: **RPA**
+.. |STYLE24| replace:: **RTP**
 
-.. |STYLE25| replace:: **RSP**
+.. |STYLE25| replace:: **SdP**
 
-.. |STYLE26| replace:: **RTP**
+.. |STYLE26| replace:: **SMTP**
 
-.. |STYLE27| replace:: **SdP**
+.. |STYLE27| replace:: **UOP**
 
-.. |STYLE28| replace:: **SMTP**
+.. |STYLE28| replace:: **UOR**
 
-.. |STYLE29| replace:: **UOP**
+.. |STYLE29| replace:: **UU**
 
-.. |STYLE30| replace:: **UOR**
+.. |STYLE30| replace:: **allegato 2**
 
-.. |STYLE31| replace:: **UU**
+.. |STYLE31| replace:: **Comune di Palermo**
 
-.. |STYLE32| replace:: **allegato 2**
+.. |STYLE32| replace:: **RSP**
 
-.. |STYLE33| replace:: **Comune di Palermo**
+.. |STYLE33| replace:: **CGD**
 
-.. |STYLE34| replace:: **RSP**
+.. |STYLE34| replace:: **Titolario**
 
-.. |STYLE35| replace:: **CGD**
+.. |STYLE35| replace:: **Piano di classificazione (= Titolario) per gli archivi dei Comuni italiani (seconda edizione)**
 
-.. |STYLE36| replace:: **Titolario**
+.. |STYLE36| replace:: **allegato 4**
 
-.. |STYLE37| replace:: **Piano di classificazione (= Titolario) per gli archivi dei Comuni italiani (seconda edizione)**
-
-.. |STYLE38| replace:: **allegato 4**
-
-.. |STYLE39| replace:: **c_g273**
+.. |STYLE37| replace:: **c_g273**
 
 
 .. |LINK1| raw:: html
