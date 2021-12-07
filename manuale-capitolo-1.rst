@@ -30,6 +30,20 @@ Il manuale si applica all’intera Area Organizzativa Omogenea del Comune di Pal
 
 Il manuale descrive allo stato attuale le attività di \ |STYLE1|\ .
 
+Fanno parte del presente Manuale \ |LINK4|\  delle Linee guida sulla formazione, gestione e conservazione dei documenti informatici ed in particolare:
+
+* \ |LINK5|\ 
+
+* \ |LINK6|\ 
+
+* \ |LINK7|\ 
+
+* \ |LINK8|\ 
+
+* \ |LINK9|\ 
+
+* \ |LINK10|\ 
+
 Il protocollo fa fede, anche con effetto giuridico, dell'effettivo ricevimento e della spedizione di un documento.
 
 .. _h1424b7b6874285a223211146d3a5022:
@@ -193,7 +207,7 @@ L'Amministrazione munisce i propri dipendenti di una casella di posta elettronic
 1.10   Sistema di classificazione dei documenti
 ===============================================
 
-Per la classificazione dei documenti viene utilizzato il  \ |STYLE34|\  indicato dall’Agenzia per l’Italia Digitale per i comuni \ |LINK4|\  (sezione “Documenti di indirizzo”), denominato “\ |STYLE35|\ ”, e redatto dal “Gruppo di lavoro per la formulazione di proposte e modelli per la riorganizzazione dell’archivio dei Comuni”, edizione dicembre 2005. Il Titolario dettagliato è descritto nell’\ |STYLE36|\ .
+Per la classificazione dei documenti viene utilizzato il  \ |STYLE34|\  indicato dall’Agenzia per l’Italia Digitale per i comuni \ |LINK11|\  (sezione “Documenti di indirizzo”), denominato “\ |STYLE35|\ ”, e redatto dal “Gruppo di lavoro per la formulazione di proposte e modelli per la riorganizzazione dell’archivio dei Comuni”, edizione dicembre 2005. Il Titolario dettagliato è descritto nell’\ |STYLE36|\ .
 
 .. _h25161a3b6e57167716791b3c392f:
 
@@ -226,7 +240,7 @@ Il referente dell’Amministrazione, per l'IPA è stato individuato all'interno 
 1.13 Dematerializzazione dei procedimenti amministrativi della AOO
 ==================================================================
 
-L’amministrazione ha avviato procedure tali da consentire, in coerenza con le disposizioni normative e regolamentari in materia (con particolare riferimento alle \ |LINK5|\ ), che nella AOO siano prodotti, gestiti, inviati e conservati solo documenti informatici.
+L’amministrazione ha avviato procedure tali da consentire, in coerenza con le disposizioni normative e regolamentari in materia (con particolare riferimento alle \ |LINK12|\ ), che nella AOO siano prodotti, gestiti, inviati e conservati solo documenti informatici.
 
 È prevista la riproduzione su carta degli originali informatici firmati e protocollati solo nel caso in cui il destinatario non sia nelle condizioni di ricevere e visualizzare i documenti informatici.
 
@@ -236,7 +250,7 @@ Gli eventuali documenti cartacei ricevuti, dopo registrazione e segnatura di pro
 ..  Note:: 
 
     Il contenuto del testo di questa pagina è disponibile in formato aperto qui:
-    \ |LINK6|\  
+    \ |LINK13|\  
 
 
 .. bottom of content
@@ -333,13 +347,41 @@ Gli eventuali documenti cartacei ricevuti, dopo registrazione e segnatura di pro
 
 .. |LINK4| raw:: html
 
-    <a href="https://www.agid.gov.it/piattaforme/sistema-gestione-procedimenti-amministrativi/flussi-documentali-protocollo-informatico" target="_blank">https://www.agid.gov.it/piattaforme/sistema-gestione-procedimenti-amministrativi/flussi-documentali-protocollo-informatico</a>
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/allegati.html" target="_blank">gli allegati</a>
 
 .. |LINK5| raw:: html
 
-    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/index.html" target="_blank">Linee guida sulla formazione, gestione e conservazione dei documenti informatici</a>
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/_downloads/e7830f7546a764219cc512675ae44971/All%201%20-%20Glossario%20dei%20termini%20e%20degli%20acronimi.pdf" target="_blank">Glossario dei termini e degli acronimi</a>
 
 .. |LINK6| raw:: html
+
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/_downloads/5e42a9d5c8873a1dc532ef5522f5477c/All%202%20-%20Formati%20di%20File%20e%20Riversamento.pdf" target="_blank">Formati di file e riversamento</a>
+
+.. |LINK7| raw:: html
+
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/_downloads/cbeef19f33093b9d0ec48eee3e7efa9a/All%203%20-%20Certificazione%20di%20processo.pdf" target="_blank">Certificazione di processo</a>
+
+.. |LINK8| raw:: html
+
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/_downloads/0bad32532ac52f2b1bcb66b0f1bb79dc/All%204%20-%20Standard%20e%20specifiche%20tecniche.pdf" target="_blank">Standard e specifiche tecniche</a>
+
+.. |LINK9| raw:: html
+
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/_downloads/68ba1a216597dd078bef95b520f86f14/All%205%20-I%20Metadati.pdf" target="_blank">I Metadati</a>
+
+.. |LINK10| raw:: html
+
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/_downloads/79ebfd0000672f477eac7b869b7f1694/All%206%20-%20Comunicazione%20tra%20AOO%20di%20Documenti%20Amministrativi%20Protocollati.pdf" target="_blank">Comunicazione tra AOO di Documenti Amministrativi Protocollati</a>
+
+.. |LINK11| raw:: html
+
+    <a href="https://www.agid.gov.it/piattaforme/sistema-gestione-procedimenti-amministrativi/flussi-documentali-protocollo-informatico" target="_blank">https://www.agid.gov.it/piattaforme/sistema-gestione-procedimenti-amministrativi/flussi-documentali-protocollo-informatico</a>
+
+.. |LINK12| raw:: html
+
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/index.html" target="_blank">Linee guida sulla formazione, gestione e conservazione dei documenti informatici</a>
+
+.. |LINK13| raw:: html
 
     <a href="http://bit.ly/manuale-capitolo-1" target="_blank">http://bit.ly/manuale-capitolo-1</a>
 
