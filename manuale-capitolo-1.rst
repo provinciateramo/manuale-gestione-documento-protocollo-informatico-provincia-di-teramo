@@ -74,7 +74,7 @@ Ai fini del presente manuale si intende per:
 
 * “\ |STYLE11|\ ” il D. Lgs. 22.1.2004, n. 42 recante il “codice dei beni culturali e del paesaggio”;
 
-* "\ |STYLE12|\  ", il D.P.C.M. 3 dicembre 2013 concernente le "\ |STYLE13|\ ” soltanto per i seguenti articoli: art. 2 comma 1; art. 6; art. 9; art. 18 commi 1 e 5; art. 19; art. 20; art. 21.  :guilabel:\`Gli altri articoli sono stati \ |LINK4|\ \` 
+* "\ |STYLE12|\  ", il D.P.C.M. 3 dicembre 2013 concernente le "\ |STYLE13|\ ” soltanto per i seguenti articoli: art. 2 comma 1; art. 6; art. 9; art. 18 commi 1 e 5; art. 19; art. 20; art. 21.  :guilabel:`Gli altri articoli sono stati abrogati dalle Linee guida sulla formazione, gestione e conservazione dei documenti informatici, paragrafo 1.9` 
 
 * :guilabel:`Regole tecniche per la conservazione,  il D.P.C.M. 13 novembre 2014, recante Regole tecniche in materia di sistema di conservazione ai sensi degli articoli 20, commi 3 e 5-bis, 23-ter, comma 4, 43, commi 1 e 3, 44, 44-bis e 71, comma 1, del Codice dell’Amministrazione Digitale di cui al D. Lgs. n. 82 del 2005` 
 
@@ -193,7 +193,7 @@ L'Amministrazione munisce i propri dipendenti di una casella di posta elettronic
 1.10   Sistema di classificazione dei documenti
 ===============================================
 
-Per la classificazione dei documenti viene utilizzato il  \ |STYLE34|\  indicato dall’Agenzia per l’Italia Digitale per i comuni \ |LINK5|\  (sezione “Documenti di indirizzo”), denominato “\ |STYLE35|\ ”, e redatto dal “Gruppo di lavoro per la formulazione di proposte e modelli per la riorganizzazione dell’archivio dei Comuni”, edizione dicembre 2005. Il Titolario dettagliato è descritto nell’\ |STYLE36|\ .
+Per la classificazione dei documenti viene utilizzato il  \ |STYLE34|\  indicato dall’Agenzia per l’Italia Digitale per i comuni \ |LINK4|\  (sezione “Documenti di indirizzo”), denominato “\ |STYLE35|\ ”, e redatto dal “Gruppo di lavoro per la formulazione di proposte e modelli per la riorganizzazione dell’archivio dei Comuni”, edizione dicembre 2005. Il Titolario dettagliato è descritto nell’\ |STYLE36|\ .
 
 .. _h25161a3b6e57167716791b3c392f:
 
@@ -226,7 +226,7 @@ Il referente dell’Amministrazione, per l'IPA è stato individuato all'interno 
 1.13 Dematerializzazione dei procedimenti amministrativi della AOO
 ==================================================================
 
-L’amministrazione ha avviato procedure tali da consentire, in coerenza con le disposizioni normative e regolamentari in materia (con particolare riferimento alle \ |LINK6|\ ), che nella AOO siano prodotti, gestiti, inviati e conservati solo documenti informatici.
+L’amministrazione ha avviato procedure tali da consentire, in coerenza con le disposizioni normative e regolamentari in materia (con particolare riferimento alle \ |LINK5|\ ), che nella AOO siano prodotti, gestiti, inviati e conservati solo documenti informatici.
 
 È prevista la riproduzione su carta degli originali informatici firmati e protocollati solo nel caso in cui il destinatario non sia nelle condizioni di ricevere e visualizzare i documenti informatici.
 
@@ -236,7 +236,7 @@ Gli eventuali documenti cartacei ricevuti, dopo registrazione e segnatura di pro
 ..  Note:: 
 
     Il contenuto del testo di questa pagina è disponibile in formato aperto qui:
-    \ |LINK7|\  
+    \ |LINK6|\  
 
 
 .. bottom of content
@@ -333,17 +333,13 @@ Gli eventuali documenti cartacei ricevuti, dopo registrazione e segnatura di pro
 
 .. |LINK4| raw:: html
 
-    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/introduzione-strumenti-di-lettura-e-disposizioni-comuni.html#abrogazioni-e-norme-transitorie" target="_blank">abrogati dalle Linee guida sulla formazione, gestione e conservazione dei documenti informatici, paragrafo 1.9</a>
+    <a href="https://www.agid.gov.it/piattaforme/sistema-gestione-procedimenti-amministrativi/flussi-documentali-protocollo-informatico" target="_blank">https://www.agid.gov.it/piattaforme/sistema-gestione-procedimenti-amministrativi/flussi-documentali-protocollo-informatico</a>
 
 .. |LINK5| raw:: html
 
-    <a href="https://www.agid.gov.it/piattaforme/sistema-gestione-procedimenti-amministrativi/flussi-documentali-protocollo-informatico" target="_blank">https://www.agid.gov.it/piattaforme/sistema-gestione-procedimenti-amministrativi/flussi-documentali-protocollo-informatico</a>
-
-.. |LINK6| raw:: html
-
     <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/index.html" target="_blank">Linee guida sulla formazione, gestione e conservazione dei documenti informatici</a>
 
-.. |LINK7| raw:: html
+.. |LINK6| raw:: html
 
     <a href="http://bit.ly/manuale-capitolo-1" target="_blank">http://bit.ly/manuale-capitolo-1</a>
 
