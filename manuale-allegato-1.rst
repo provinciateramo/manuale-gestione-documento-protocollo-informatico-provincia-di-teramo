@@ -76,7 +76,7 @@ Glossario dei termini contenuti nelle Linee guida AGID sulla formazione, gestion
 
 \ |STYLE33|\ : la sequenza di simboli binari (bit) di lunghezza predefinita generata mediante l’applicazione alla prima di una opportuna funzione di hash;
 
-\ |STYLE34|\ : complesso dei metadati,:guilabel:\`la cui struttura è descritta nell’\ |LINK6|\  del \ |LINK7|\ \`, da associare al documento informatico per identificarne provenienza e natura e per garantirne la tenuta integrità insieme delle caratteristiche di un documento informatico che ne dichiarano la qualità di essere completo ed inalterato; i metadati di riferimento sono quelli dell'allegato "\ |LINK8|\ " delle Linee Guida AGID \ |LINK9|\ . 
+\ |STYLE34|\ : complesso dei metadati, :guilabel:\`la cui struttura è descritta nell’\ |LINK6|\  del \ |LINK7|\ \`, da associare al documento informatico per identificarne provenienza e natura e per garantirne la tenuta integrità insieme delle caratteristiche di un documento informatico che ne dichiarano la qualità di essere completo ed inalterato; i metadati di riferimento sono quelli dell'allegato "\ |LINK8|\ " delle Linee Guida AGID \ |LINK9|\ . 
 
 \ |STYLE35|\ : capacità di un sistema informatico di interagire con altri sistemi informatici analoghi sulla base di requisiti minimi condivisi;
 
