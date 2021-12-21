@@ -13,7 +13,7 @@ __version__ = '1.0'
 
 source_suffix = '.rst'
 master_doc = 'index'
-project = 'Manuale di gestione del documento, protocollo e archivio informatico del comune di Palermo'
+project = 'Manuale di gestione del documento informatico, protocollo e conservazione del comune di Palermo'
 copyright = 'CC BY SA'
 
 # The name of the Pygments (syntax highlighting) style to use.
