@@ -192,8 +192,8 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
 
 .. |REPLACE1| raw:: html
 
-    <span style="background-color: #1a5dc9; color: #ffffff; display: inline-block; padding: 0px 2px; border-radius: 10px;">Bozza novembre_2019</span> 
-    <span style="background-color: #1a5dc9; color: #ffffff; display: inline-block; padding: 0px 2px; border-radius: 10px;">Revisione dicembre_2020</span> 
+    <span style="background-color: #1a5dc9; color: #ffffff; display: inline-block; padding: 0px 4px; border-radius: 4px;">Bozza novembre_2019</span> 
+    <span style="background-color: #1a5dc9; color: #ffffff; display: inline-block; padding: 0px 4px; border-radius: 4px;">Revisione dicembre_2020</span> 
     
     <img src="https://img.shields.io/github/last-commit/cirospat/manuale-gestione-documento-protocollo-informatico-comune-palermo.svg?colorB=informational&label=ultimo%20aggiornamento&style=popout&logo=GitHub&logoColor=green" />  </p>
 
