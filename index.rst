@@ -4,7 +4,7 @@
 Manuale di gestione del protocollo informatico, del documento informatico e della conservazione del Comune di Palermo
 #####################################################################################################################
 
-\ |STYLE0|\ 
+\ |STYLE0|\   
 
 |REPLACE1|
 
@@ -106,7 +106,7 @@ Il manuale qui illustrato è stato adattato alle esigenze del Comune di Palermo.
 .. bottom of content
 
 
-.. |STYLE0| replace:: **Versione in bozza, non vigente**
+.. |STYLE0| replace:: **Versione in bozza, non vigente. Prima bozza: novembre 2019 | revisione: dicembre 2020**
 
 .. |STYLE1| replace:: **Area Organizzativa Omogenea del Comune di Palermo**
 
@@ -203,8 +203,10 @@ Il manuale qui illustrato è stato adattato alle esigenze del Comune di Palermo.
 
 .. |REPLACE1| raw:: html
 
+    <!--
     <span style="background-color: #1a5dc9; color: #ffffff; display: inline-block; padding: 0px 4px; border-radius: 4px;">Bozza novembre_2019</span> 
     <span style="background-color: #1a5dc9; color: #ffffff; display: inline-block; padding: 0px 4px; border-radius: 4px;">Revisione dicembre_2020</span> 
+    --> 
     
     <img src="https://img.shields.io/github/last-commit/cirospat/manuale-gestione-documento-protocollo-informatico-comune-palermo.svg?colorB=informational&label=ultimo%20aggiornamento&style=popout&logo=GitHub&logoColor=green" />  </p>
 
