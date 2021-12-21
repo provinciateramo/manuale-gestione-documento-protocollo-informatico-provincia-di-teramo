@@ -1,8 +1,8 @@
 
-.. _h443f2e6218176f272b7f287454535629:
+.. _h3c7172293d4412241d502a1c591f3d44:
 
-Manuale di gestione del protocollo informatico, del documento informatico e dell'archivio del Comune di Palermo
-###############################################################################################################
+Manuale di gestione del protocollo informatico, del documento informatico e della conservazione del Comune di Palermo
+#####################################################################################################################
 
 Area Organizzativa Omogenea: unica - \ |LINK1|\ 
 
@@ -11,7 +11,7 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
 
 .. admonition:: Fonte delle informazioni contenute nel "Manuale"
 
-    La fonte del documento è il “\ |STYLE0|\ ” della \ |LINK2|\ .
+    La fonte del documento è il \ |STYLE0|\  della \ |LINK2|\ .
     
     Questo “manuale” coincide nei contenuti con il \ |LINK3|\ , (sezione “documentazione allegata”).  
     
@@ -22,7 +22,7 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
 
 ..  Important:: 
 
-    La presente versione di Manuale va rivista/verificata alla luce della pubblicazione, \ |LINK4|\ , delle \ |LINK5|\  (linee guida pubblicate in \ |LINK6|\ ). 
+    La presente versione di Manuale va rivista e verificata alla luce della pubblicazione, \ |LINK4|\ , delle \ |LINK5|\  (linee guida pubblicate in \ |LINK6|\ ). 
 
 
 ..  Warning:: 
@@ -99,7 +99,7 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
 .. bottom of content
 
 
-.. |STYLE0| replace:: *Manuale di Gestione del protocollo informatico, dei documenti e dell’archivio*
+.. |STYLE0| replace:: **“Manuale di Gestione del protocollo informatico, dei documenti e dell’archivio”**
 
 .. |STYLE1| replace:: **LE LINEE GUIDA AGID**
 
@@ -173,7 +173,7 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
 
 .. |STYLE36| replace:: **1**
 
-.. |STYLE37| replace:: *. Oltre alle informazioni di cui all’art. 9, il fi le di cui all’art. 20, comma 1 contiene le seguenti informazioni minime: a) l’oggetto; b) il mittente; c) il destinatario o i destinatari.*
+.. |STYLE37| replace:: *. Oltre alle informazioni di cui all’art. 9, il file di cui all’art. 20, comma 1 contiene le seguenti informazioni minime: a) l’oggetto; b) il mittente; c) il destinatario o i destinatari.*
 
 .. |STYLE38| replace:: **2**
 
