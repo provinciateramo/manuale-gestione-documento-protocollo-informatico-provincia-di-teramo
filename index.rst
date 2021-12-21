@@ -4,10 +4,13 @@
 Manuale di gestione del protocollo informatico, del documento informatico e della conservazione del Comune di Palermo
 #####################################################################################################################
 
-\ |STYLE0|\ : unica - \ |LINK1|\ 
-
 
 |REPLACE1|
+
+
++---------------------------------+
+|\ |STYLE0|\ : unica - \ |LINK1|\ |
++---------------------------------+
 
 .. _h3252172a1e376a185e43751a5f6f325e:
 
@@ -16,7 +19,7 @@ Fonte delle informazioni contenute nel "Manuale"
 
 La fonte del documento è il “\ |STYLE1|\ ” della \ |LINK2|\ .
 
-Questo “manuale” coincide, nei contenuti, con il \ |LINK3|\ , (sezione “documentazione allegata”).  
+Il presente “manuale” coincide, nei contenuti, con il \ |LINK3|\ , (sezione “documentazione allegata”).  
 
 Nell’elaborare il manuale del Comune di Palermo è stata effettuata una ricognizione online per analizzare analoghi manuali redatti recentemente da altre pubbliche amministrazioni. E’ stato scelto tra tanti il manuale della Provincia di Pistoia e dell’AGID in quanto essi trattano un’ampia casistica di situazioni in cui si può ritrovare quotidianamente il personale di un grande comune  nella gestione del protocollo informatico, dei documenti e dell’archivio.
 
@@ -102,7 +105,7 @@ Il manuale qui illustrato è stato adattato alle esigenze del Comune di Palermo.
 .. bottom of content
 
 
-.. |STYLE0| replace:: **Area Organizzativa Omogenea**
+.. |STYLE0| replace:: **Area Organizzativa Omogenea del Comune di Palermo**
 
 .. |STYLE1| replace:: **Manuale di Gestione del protocollo informatico, dei documenti e dell’archivio**
 
