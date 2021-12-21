@@ -4,20 +4,23 @@
 Manuale di gestione del protocollo informatico, del documento informatico e della conservazione del Comune di Palermo
 #####################################################################################################################
 
-Area Organizzativa Omogenea: unica - \ |LINK1|\ 
+\ |STYLE0|\ : unica - \ |LINK1|\ 
+
 
 |REPLACE1|
 
+.. _h3252172a1e376a185e43751a5f6f325e:
 
-.. admonition:: Fonte delle informazioni contenute nel "Manuale"
+Fonte delle informazioni contenute nel "Manuale"
+************************************************
 
-    La fonte del documento è il \ |STYLE0|\  della \ |LINK2|\ .
-    
-    Questo “manuale” coincide nei contenuti con il \ |LINK3|\ , (sezione “documentazione allegata”).  
-    
-    Nell’elaborare il manuale del Comune di Palermo è stata effettuata una ricognizione online per analizzare analoghi manuali redatti recentemente da altre pubbliche amministrazioni. E’ stato scelto tra tanti il manuale della Provincia di Pistoia e dell’AGID in quanto essi trattano un’ampia casistica di situazioni in cui si può ritrovare quotidianamente il personale di un grande comune  nella gestione del protocollo informatico, dei documenti e dell’archivio.
-    
-    Il manuale  qui illustrato è stato adattato alle esigenze del Comune di Palermo.
+La fonte del documento è il “\ |STYLE1|\ ” della \ |LINK2|\ .
+
+Questo “manuale” coincide, nei contenuti, con il \ |LINK3|\ , (sezione “documentazione allegata”).  
+
+Nell’elaborare il manuale del Comune di Palermo è stata effettuata una ricognizione online per analizzare analoghi manuali redatti recentemente da altre pubbliche amministrazioni. E’ stato scelto tra tanti il manuale della Provincia di Pistoia e dell’AGID in quanto essi trattano un’ampia casistica di situazioni in cui si può ritrovare quotidianamente il personale di un grande comune  nella gestione del protocollo informatico, dei documenti e dell’archivio.
+
+Il manuale qui illustrato è stato adattato alle esigenze del Comune di Palermo.
 
 
 ..  Important:: 
@@ -27,35 +30,35 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
 
 ..  Warning:: 
 
-    \ |STYLE1|\  [\ |LINK7|\ ] :guilabel:`ABROGANO` \ |STYLE2|\ 
+    \ |STYLE2|\  [\ |LINK7|\ ] :guilabel:`ABROGANO` \ |STYLE3|\ 
     
     A partire dalla data di applicazione delle \ |LINK8|\ , sono :guilabel:`abrogati`:
     
-    * il \ |LINK9|\ \ |STYLE3|\ ”;
+    * il \ |LINK9|\ \ |STYLE4|\ ”;
     
-    * il \ |LINK10|\ \ |STYLE4|\ ”, ad eccezione dell’art. 13 che rimane in vigore fino all'emanazione delle Linee guida di cui all’art. 29 del CAD.
+    * il \ |LINK10|\ \ |STYLE5|\ ”, ad eccezione dell’art. 13 che rimane in vigore fino all'emanazione delle Linee guida di cui all’art. 29 del CAD.
     
     Per quanto concerne il \ |LINK11|\ , a partire dalla data di applicazione delle Linee guida AGID sono :guilabel:`abrogate tutte le disposizioni` ``fatte salve le seguenti``:
     
-    * ``art. 2 comma 1`` [\ |STYLE5|\ . \ |STYLE6|\ ]
+    * ``art. 2 comma 1`` [\ |STYLE6|\ . \ |STYLE7|\ ]
     
-    * ``art. 6`` [\ |STYLE7|\ \ |STYLE8|\  \ |STYLE9|\ \ |STYLE10|\  \ |STYLE11|\ \ |STYLE12|\  \ |STYLE13|\ \ |STYLE14|\ ]
+    * ``art. 6`` [\ |STYLE8|\ \ |STYLE9|\  \ |STYLE10|\ \ |STYLE11|\  \ |STYLE12|\ \ |STYLE13|\  \ |STYLE14|\ \ |STYLE15|\ ]
     
-    * ``art. 9`` [\ |STYLE15|\  \ |STYLE16|\ \ |STYLE17|\ ]
+    * ``art. 9`` [\ |STYLE16|\  \ |STYLE17|\ \ |STYLE18|\ ]
     
-    * ``art. 18 commi 1 e 5`` [\ |STYLE18|\ \ |STYLE19|\  \ |STYLE20|\ \ |STYLE21|\  \ |STYLE22|\ \ |STYLE23|\ ]
+    * ``art. 18 commi 1 e 5`` [\ |STYLE19|\ \ |STYLE20|\  \ |STYLE21|\ \ |STYLE22|\  \ |STYLE23|\ \ |STYLE24|\ ]
     
-    * ``art. 19`` [\ |STYLE24|\  \ |STYLE25|\ \ |STYLE26|\  \ |STYLE27|\ \ |STYLE28|\  
+    * ``art. 19`` [\ |STYLE25|\  \ |STYLE26|\ \ |STYLE27|\  \ |STYLE28|\ \ |STYLE29|\  
     
-    * ``art. 20`` [\ |STYLE29|\  \ |STYLE30|\ \ |STYLE31|\  \ |STYLE32|\ \ |STYLE33|\ ] 
+    * ``art. 20`` [\ |STYLE30|\  \ |STYLE31|\ \ |STYLE32|\  \ |STYLE33|\ \ |STYLE34|\ ] 
     
-    * ``art. 21`` [\ |STYLE34|\ \ |STYLE35|\  \ |STYLE36|\ \ |STYLE37|\  \ |STYLE38|\ \ |STYLE39|\  \ |STYLE40|\ \ |STYLE41|\ ] 
+    * ``art. 21`` [\ |STYLE35|\ \ |STYLE36|\  \ |STYLE37|\ \ |STYLE38|\  \ |STYLE39|\ \ |STYLE40|\  \ |STYLE41|\ \ |STYLE42|\ ] 
     
-    \ |STYLE42|\  :guilabel:`ABROGAZIONI` \ |STYLE43|\ 
+    \ |STYLE43|\  :guilabel:`ABROGAZIONI` \ |STYLE44|\ 
     
     Sempre a far data dalla data di applicazione delle Linee guida AGID, la \ |LINK12|\  in materia di “Formato e definizione dei tipi di informazioni minime ed accessorie associate ai messaggi scambiati tra le Pubbliche Amministrazioni” :guilabel:`è abrogata` e ``sostituita`` dall’\ |LINK13|\ .
     
-    Restano efficaci le disposizioni di cui alla \ |LINK14|\ , :guilabel:`fino all’entrata in vigore delle Linee Guida` previste AGID dall’art. 29 del CAD. (L’art. 29, comma 1, del CAD prevede che “\ |STYLE44|\ ”).
+    Restano efficaci le disposizioni di cui alla \ |LINK14|\ , :guilabel:`fino all’entrata in vigore delle Linee Guida` previste AGID dall’art. 29 del CAD. (L’art. 29, comma 1, del CAD prevede che “\ |STYLE45|\ ”).
 
 
 .. toctree:: 
@@ -99,95 +102,97 @@ Area Organizzativa Omogenea: unica - \ |LINK1|\
 .. bottom of content
 
 
-.. |STYLE0| replace:: **“Manuale di Gestione del protocollo informatico, dei documenti e dell’archivio”**
+.. |STYLE0| replace:: **Area Organizzativa Omogenea**
 
-.. |STYLE1| replace:: **LE LINEE GUIDA AGID**
+.. |STYLE1| replace:: **Manuale di Gestione del protocollo informatico, dei documenti e dell’archivio**
 
-.. |STYLE2| replace:: **LE SEGUENTI NORME PRECEDENTI**
+.. |STYLE2| replace:: **LE LINEE GUIDA AGID**
 
-.. |STYLE3| replace:: **, contenente “Regole tecniche in materia di formazione, trasmissione, copia, duplicazione, riproduzione e validazione temporale dei documenti informatici**
+.. |STYLE3| replace:: **LE SEGUENTI NORME PRECEDENTI**
 
-.. |STYLE4| replace:: **, contenente “Regole tecniche in materia di sistema di conservazione**
+.. |STYLE4| replace:: **, contenente “Regole tecniche in materia di formazione, trasmissione, copia, duplicazione, riproduzione e validazione temporale dei documenti informatici**
 
-.. |STYLE5| replace:: **Oggetto e ambito di applicazione**
+.. |STYLE5| replace:: **, contenente “Regole tecniche in materia di sistema di conservazione**
 
-.. |STYLE6| replace:: *Il presente decreto stabilisce le regole tecniche, i criteri e le specifiche delle informazioni previste nelle operazioni di registrazione e segnatura di protocollo, di cui agli articoli 53, 55 e 66 del testo unico.*
+.. |STYLE6| replace:: **Oggetto e ambito di applicazione**
 
-.. |STYLE7| replace:: **Funzionalità**
+.. |STYLE7| replace:: *Il presente decreto stabilisce le regole tecniche, i criteri e le specifiche delle informazioni previste nelle operazioni di registrazione e segnatura di protocollo, di cui agli articoli 53, 55 e 66 del testo unico.*
 
-.. |STYLE8| replace:: *.*
+.. |STYLE8| replace:: **Funzionalità**
 
-.. |STYLE9| replace:: **1**
+.. |STYLE9| replace:: *.*
 
-.. |STYLE10| replace:: *. Il sistema di protocollo informatico comprende la «funzionalità minima».*
+.. |STYLE10| replace:: **1**
 
-.. |STYLE11| replace:: **2**
+.. |STYLE11| replace:: *. Il sistema di protocollo informatico comprende la «funzionalità minima».*
 
-.. |STYLE12| replace:: *. Le pubbliche amministrazioni di cui all’art. 2, comma 2, del Codice, al fine di dare attuazione alle disposizioni introdotte dal Codice stesso, acquisiscono o realizzano le funzionalità aggiuntive sulla base del rapporto tra costi e benefici nell’ambito dei propri obiettivi di miglioramento dei servizi e di effi cienza operativa.*
+.. |STYLE12| replace:: **2**
 
-.. |STYLE13| replace:: **3**
+.. |STYLE13| replace:: *. Le pubbliche amministrazioni di cui all’art. 2, comma 2, del Codice, al fine di dare attuazione alle disposizioni introdotte dal Codice stesso, acquisiscono o realizzano le funzionalità aggiuntive sulla base del rapporto tra costi e benefici nell’ambito dei propri obiettivi di miglioramento dei servizi e di effi cienza operativa.*
 
-.. |STYLE14| replace:: *. Le funzionalità aggiuntive condividono con la funzionalità minima almeno i dati identificativi dei documenti di cui agli articoli 53, 55 e 56 del testo unico.*
+.. |STYLE14| replace:: **3**
 
-.. |STYLE15| replace:: **Formato della segnatura di protocollo.**
+.. |STYLE15| replace:: *. Le funzionalità aggiuntive condividono con la funzionalità minima almeno i dati identificativi dei documenti di cui agli articoli 53, 55 e 56 del testo unico.*
 
-.. |STYLE16| replace:: **1**
+.. |STYLE16| replace:: **Formato della segnatura di protocollo.**
 
-.. |STYLE17| replace:: *. Le informazioni apposte o associate ai documenti informatici, registrati nel registro di protocollo, negli altri registri di cui all’art. 53, comma 5, del testo unico, nei repertori e negli archivi, nonché negli albi, negli elenchi e in ogni raccolta di dati concernente stati, qualità personali e fatti con le modalità descritte nel manuale di gestione, mediante l’operazione di segnatura di cui all’art. 55 del testo unico che ne garantisce l'identificazione univoca e certa, sono espresse nel seguente formato: a) codice identificativo dell’amministrazione; b) codice identificativo dell’area organizzativa omogenea; c) codice identificativo del registro; d) data di protocollo secondo il formato individuato in base alle previsioni di cui all’art. 20, comma 2; e) progressivo di protocollo secondo il formato specificato all’art. 57 del testo unico.*
+.. |STYLE17| replace:: **1**
 
-.. |STYLE18| replace:: **Modalità di registrazione dei documenti informatici**
+.. |STYLE18| replace:: *. Le informazioni apposte o associate ai documenti informatici, registrati nel registro di protocollo, negli altri registri di cui all’art. 53, comma 5, del testo unico, nei repertori e negli archivi, nonché negli albi, negli elenchi e in ogni raccolta di dati concernente stati, qualità personali e fatti con le modalità descritte nel manuale di gestione, mediante l’operazione di segnatura di cui all’art. 55 del testo unico che ne garantisce l'identificazione univoca e certa, sono espresse nel seguente formato: a) codice identificativo dell’amministrazione; b) codice identificativo dell’area organizzativa omogenea; c) codice identificativo del registro; d) data di protocollo secondo il formato individuato in base alle previsioni di cui all’art. 20, comma 2; e) progressivo di protocollo secondo il formato specificato all’art. 57 del testo unico.*
 
-.. |STYLE19| replace:: *.*
+.. |STYLE19| replace:: **Modalità di registrazione dei documenti informatici**
 
-.. |STYLE20| replace:: **1**
+.. |STYLE20| replace:: *.*
 
-.. |STYLE21| replace:: *. Ad ogni messaggio ricevuto o spedito da una area organizzativa omogenea corrisponde un’unica operazione di registrazione di protocollo, secondo quanto previsto dall’art. 53 del testo unico e dall’art. 9 del presente decreto. Alla registrazione di protocollo vengono associate le ricevute generate dal sistema di protocollo informatico e, nel caso di registrazione di messaggi di posta elettronica certificata spediti, anche i dati relativi alla consegna rilasciati dal sistema di posta certificata correlati al messaggio oggetto di registrazione.*
+.. |STYLE21| replace:: **1**
 
-.. |STYLE22| replace:: **5**
+.. |STYLE22| replace:: *. Ad ogni messaggio ricevuto o spedito da una area organizzativa omogenea corrisponde un’unica operazione di registrazione di protocollo, secondo quanto previsto dall’art. 53 del testo unico e dall’art. 9 del presente decreto. Alla registrazione di protocollo vengono associate le ricevute generate dal sistema di protocollo informatico e, nel caso di registrazione di messaggi di posta elettronica certificata spediti, anche i dati relativi alla consegna rilasciati dal sistema di posta certificata correlati al messaggio oggetto di registrazione.*
 
-.. |STYLE23| replace:: *. L’eventuale indicazione dell'ufficio utente, ovvero del soggetto, destinatario del documento, va riportata nella segnatura di protocollo secondo le modalità ed i formati previsti agli articoli 20 e 21.*
+.. |STYLE23| replace:: **5**
 
-.. |STYLE24| replace:: **Impronta del documento informatico.**
+.. |STYLE24| replace:: *. L’eventuale indicazione dell'ufficio utente, ovvero del soggetto, destinatario del documento, va riportata nella segnatura di protocollo secondo le modalità ed i formati previsti agli articoli 20 e 21.*
 
-.. |STYLE25| replace:: **1**
+.. |STYLE25| replace:: **Impronta del documento informatico.**
 
-.. |STYLE26| replace:: *. Nell’effettuare l’operazione di registrazione di protocollo dei documenti informatici l’impronta di cui all’art. 53, comma 1, lettera f) , del testo unico, va calcolata per ciascun documento informatico associato alla registrazione di protocollo.*
+.. |STYLE26| replace:: **1**
 
-.. |STYLE27| replace:: **2**
+.. |STYLE27| replace:: *. Nell’effettuare l’operazione di registrazione di protocollo dei documenti informatici l’impronta di cui all’art. 53, comma 1, lettera f) , del testo unico, va calcolata per ciascun documento informatico associato alla registrazione di protocollo.*
 
-.. |STYLE28| replace:: *. La funzione crittografica di hash da impiegare per la generazione dell’impronta di cui al comma 1 è definita nella deliberazione CNIPA del 21 maggio 2009, n. 45, e successive modificazioni, recante le regole per il riconoscimento e la verifica del documento informatico.]*
+.. |STYLE28| replace:: **2**
 
-.. |STYLE29| replace:: **Segnatura di protocollo dei documenti trasmessi.**
+.. |STYLE29| replace:: *. La funzione crittografica di hash da impiegare per la generazione dell’impronta di cui al comma 1 è definita nella deliberazione CNIPA del 21 maggio 2009, n. 45, e successive modificazioni, recante le regole per il riconoscimento e la verifica del documento informatico.]*
 
-.. |STYLE30| replace:: **1**
+.. |STYLE30| replace:: **Segnatura di protocollo dei documenti trasmessi.**
 
-.. |STYLE31| replace:: *. I dati relativi alla segnatura di protocollo di un documento trasmesso da una area organizzativa omogenea sono associati al documento stesso e contenuti, nel messaggio, in un file, conforme alle specifiche dell’Extensible Markup Language (XML), compatibile con un file XML Schema e/o DTD (Document Type Definition), definito e aggiornato periodicamente dall’Agenzia per l’Italia digitale con provvedimento reso disponibile sul proprio sito.*
+.. |STYLE31| replace:: **1**
 
-.. |STYLE32| replace:: **2**
+.. |STYLE32| replace:: *. I dati relativi alla segnatura di protocollo di un documento trasmesso da una area organizzativa omogenea sono associati al documento stesso e contenuti, nel messaggio, in un file, conforme alle specifiche dell’Extensible Markup Language (XML), compatibile con un file XML Schema e/o DTD (Document Type Definition), definito e aggiornato periodicamente dall’Agenzia per l’Italia digitale con provvedimento reso disponibile sul proprio sito.*
 
-.. |STYLE33| replace:: *. Con il provvedimento di cui al comma 1 sono definiti e aggiornati periodicamente gli standard, le modalità di trasmissione, il formato e le definizioni dei tipi di informazioni scambiate tra le amministrazioni pubbliche e associate ai documenti protocollati.*
+.. |STYLE33| replace:: **2**
 
-.. |STYLE34| replace:: **Informazioni da includere nella segnatura**
+.. |STYLE34| replace:: *. Con il provvedimento di cui al comma 1 sono definiti e aggiornati periodicamente gli standard, le modalità di trasmissione, il formato e le definizioni dei tipi di informazioni scambiate tra le amministrazioni pubbliche e associate ai documenti protocollati.*
 
-.. |STYLE35| replace:: *.*
+.. |STYLE35| replace:: **Informazioni da includere nella segnatura**
 
-.. |STYLE36| replace:: **1**
+.. |STYLE36| replace:: *.*
 
-.. |STYLE37| replace:: *. Oltre alle informazioni di cui all’art. 9, il file di cui all’art. 20, comma 1 contiene le seguenti informazioni minime: a) l’oggetto; b) il mittente; c) il destinatario o i destinatari.*
+.. |STYLE37| replace:: **1**
 
-.. |STYLE38| replace:: **2**
+.. |STYLE38| replace:: *. Oltre alle informazioni di cui all’art. 9, il file di cui all’art. 20, comma 1 contiene le seguenti informazioni minime: a) l’oggetto; b) il mittente; c) il destinatario o i destinatari.*
 
-.. |STYLE39| replace:: *. Nella segnatura di un documento protocollato in uscita da una Amministrazione possono essere specificate una o più delle seguenti informazioni incluse anch’esse nello stesso file: a) indicazione della persona o dell'ufficio all’interno della struttura destinataria a cui si presume verrà affidato il trattamento del documento; b) indice di classificazione; c) identificazione degli allegati; d) informazioni sul procedimento a cui si riferisce e sul trattamento da applicare al documento.*
+.. |STYLE39| replace:: **2**
 
-.. |STYLE40| replace:: **3**
+.. |STYLE40| replace:: *. Nella segnatura di un documento protocollato in uscita da una Amministrazione possono essere specificate una o più delle seguenti informazioni incluse anch’esse nello stesso file: a) indicazione della persona o dell'ufficio all’interno della struttura destinataria a cui si presume verrà affidato il trattamento del documento; b) indice di classificazione; c) identificazione degli allegati; d) informazioni sul procedimento a cui si riferisce e sul trattamento da applicare al documento.*
 
-.. |STYLE41| replace:: *. Qualora due o più amministrazioni stabiliscano di scambiarsi informazioni non previste tra quelle definite al comma 2, le stesse possono estendere il fi le di cui all’art. 20, comma 1, includendo le informazioni specifiche stabilite di comune accordo, nel rispetto delle indicazioni tecniche stabilite dall’Agenzia per l’Italia digitale.*
+.. |STYLE41| replace:: **3**
 
-.. |STYLE42| replace:: **ATTENZIONE ALLE SEGUENTI ULTERIORI**
+.. |STYLE42| replace:: *. Qualora due o più amministrazioni stabiliscano di scambiarsi informazioni non previste tra quelle definite al comma 2, le stesse possono estendere il fi le di cui all’art. 20, comma 1, includendo le informazioni specifiche stabilite di comune accordo, nel rispetto delle indicazioni tecniche stabilite dall’Agenzia per l’Italia digitale.*
 
-.. |STYLE43| replace:: **↓**
+.. |STYLE43| replace:: **ATTENZIONE ALLE SEGUENTI ULTERIORI**
 
-.. |STYLE44| replace:: *I soggetti che intendono fornire servizi fiduciari qualificati o svolgere l’attività di gestore di posta elettronica certificata o di gestore dell’identità digitale di cui all’articolo 64 presentano all’AgID domanda di qualificazione, secondo le modalità fissate dalle Linee guida. I soggetti che intendono svolgere l’attività di conservatore di documenti informatici presentano all’AgID domanda di accreditamento, secondo le modalità fissate dalle Linee guida*
+.. |STYLE44| replace:: **↓**
+
+.. |STYLE45| replace:: *I soggetti che intendono fornire servizi fiduciari qualificati o svolgere l’attività di gestore di posta elettronica certificata o di gestore dell’identità digitale di cui all’articolo 64 presentano all’AgID domanda di qualificazione, secondo le modalità fissate dalle Linee guida. I soggetti che intendono svolgere l’attività di conservatore di documenti informatici presentano all’AgID domanda di accreditamento, secondo le modalità fissate dalle Linee guida*
 
 
 .. |REPLACE1| raw:: html
