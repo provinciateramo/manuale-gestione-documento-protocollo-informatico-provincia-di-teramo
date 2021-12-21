@@ -6,6 +6,8 @@ Allegato 1 - Definizioni
 
 :guilabel:`il testo visualizzato in questa modalità` è abrogato dalle Linee Guida AGID \ |LINK1|\ .
 
+--------
+
 Glossario dei termini contenuti nelle Linee guida AGID sulla formazione, gestione e conservazione del documento informatico (del 2020), come da allegato 1 alle stesse linee guida. Le linee guida AGID sono attuative dell’articolo 71 del decreto legislativo 7 marzo 2005, n. 82 e successive modificazioni e integrazioni in materia di documento informatico e sistema di conservazione dei documenti informatici che si aggiungono alle definizione del citato decreto ed a quelle del decreto del Presidente della Repubblica del 28 dicembre 2000, n. 445 e successive modificazioni e integrazioni.
 
 \ |STYLE0|\ : operazione che consente a chi ne ha diritto di prendere visione ed estrarre copia dei documenti informatici;
@@ -32,7 +34,7 @@ Glossario dei termini contenuti nelle Linee guida AGID sulla formazione, gestion
 
 \ |STYLE11|\ : arco temporale di esistenza del documento informatico, del fascicolo informatico, dell’aggregazione documentale informatica o dell’archivio informatico dalla sua formazione alla sua eliminazione o conservazione nel tempo;
 
-\ |STYLE12|\ : attività di organizzazione logica di tutti i documenti secondo uno schema articolato in voci individuate attraverso specifici metadati; i metadati sono quelli elencati :guilabel:\`nell’\ |LINK2|\  del \ |LINK3|\ \` nell'allegato "\ |LINK4|\ " delle Linee Guida AGID \ |LINK5|\ . 
+\ |STYLE12|\ : attività di organizzazione logica di tutti i documenti secondo uno schema articolato in voci individuate attraverso specifici metadati; i metadati sono quelli elencati nell'allegato "\ |LINK2|\ " delle Linee Guida AGID \ |LINK3|\ . 
 
 \ |STYLE13|\ : decreto legislativo 7 marzo 2005, n. 82 e successive modificazioni e integrazioni; 
 
@@ -76,7 +78,7 @@ Glossario dei termini contenuti nelle Linee guida AGID sulla formazione, gestion
 
 \ |STYLE33|\ : la sequenza di simboli binari (bit) di lunghezza predefinita generata mediante l’applicazione alla prima di una opportuna funzione di hash;
 
-\ |STYLE34|\ : complesso dei metadati, :guilabel:\`la cui struttura è descritta nell’\ |LINK6|\  del \ |LINK7|\ \`, da associare al documento informatico per identificarne provenienza e natura e per garantirne la tenuta integrità insieme delle caratteristiche di un documento informatico che ne dichiarano la qualità di essere completo ed inalterato; i metadati di riferimento sono quelli dell'allegato "\ |LINK8|\ " delle Linee Guida AGID \ |LINK9|\ . 
+\ |STYLE34|\ : complesso dei metadati  da associare al documento informatico per identificarne provenienza e natura e per garantirne la tenuta integrità insieme delle caratteristiche di un documento informatico che ne dichiarano la qualità di essere completo ed inalterato; i metadati di riferimento sono quelli dell'allegato "\ |LINK4|\ " delle Linee Guida AGID \ |LINK5|\ . 
 
 \ |STYLE35|\ : capacità di un sistema informatico di interagire con altri sistemi informatici analoghi sulla base di requisiti minimi condivisi;
 
@@ -90,7 +92,7 @@ Glossario dei termini contenuti nelle Linee guida AGID sulla formazione, gestion
 
 \ |STYLE40|\ : processo di trasposizione su un qualsiasi idoneo supporto, attraverso un processo di elaborazione, di documenti analogici o informatici;
 
-\ |STYLE41|\ : insieme di dati associati a un documento informatico, o a un fascicolo informatico, o ad un'aggregazione documentale informatica per identificarlo e descriverne il contesto, il contenuto e la struttura, nonché per permetterne la gestione nel tempo nel sistema di conservazione; :guilabel:\`tale insieme è descritto nell’\ |LINK10|\  del \ |LINK11|\ ;\` i metadati di riferimento sono quelli dell'allegato "\ |LINK12|\ " delle Linee Guida AGID \ |LINK13|\ .
+\ |STYLE41|\ : i metadati di riferimento sono quelli dell'allegato "\ |LINK6|\ " delle Linee Guida AGID \ |LINK7|\ .
 
 \ |STYLE42|\ : pacchetto informativo composto dalla trasformazione di uno o più pacchetti di versamento secondo le specifiche contenute nell’allegato 4 del presente decreto e secondo le modalità riportate nel manuale di conservazione;
 
@@ -403,7 +405,7 @@ Glossario dei termini contenuti nelle Linee guida AGID sulla formazione, gestion
 ..  Note:: 
 
     Il contenuto del testo di questa pagina è disponibile in formato aperto qui:
-    \ |LINK14|\  
+    \ |LINK8|\  
 
 
 .. bottom of content
@@ -572,11 +574,11 @@ Glossario dei termini contenuti nelle Linee guida AGID sulla formazione, gestion
 
 .. |LINK2| raw:: html
 
-    <a href="https://www.agid.gov.it/sites/default/files/repository_files/leggi_decreti_direttive/dpcm_13_11_2014_allegato_5_metadati.pdf" target="_blank">allegato 5</a>
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/_downloads/68ba1a216597dd078bef95b520f86f14/All%205%20-I%20Metadati.pdf" target="_blank">Metadati</a>
 
 .. |LINK3| raw:: html
 
-    <a href="https://www.agid.gov.it/sites/default/files/repository_files/leggi_decreti_direttive/dpcm_13_11_2014_regole_tecniche_documento_informatico.pdf" target="_blank">Decreto del Presidente del Consiglio dei Ministri del 13 novembre 2014</a>
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/index.html#" target="_blank">sulla formazione, gestione e conservazione dei documenti informatici</a>
 
 .. |LINK4| raw:: html
 
@@ -588,37 +590,13 @@ Glossario dei termini contenuti nelle Linee guida AGID sulla formazione, gestion
 
 .. |LINK6| raw:: html
 
-    <a href="https://www.agid.gov.it/sites/default/files/repository_files/leggi_decreti_direttive/dpcm_13_11_2014_allegato_5_metadati.pdf" target="_blank">allegato 5</a>
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/_downloads/68ba1a216597dd078bef95b520f86f14/All%205%20-I%20Metadati.pdf" target="_blank">Metadati</a>
 
 .. |LINK7| raw:: html
 
-    <a href="https://www.agid.gov.it/sites/default/files/repository_files/leggi_decreti_direttive/dpcm_13_11_2014_regole_tecniche_documento_informatico.pdf" target="_blank">Decreto del Presidente del Consiglio dei Ministri del 13 novembre 2014</a>
+    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/index.html#" target="_blank">sulla formazione, gestione e conservazione dei documenti informatici</a>
 
 .. |LINK8| raw:: html
-
-    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/_downloads/68ba1a216597dd078bef95b520f86f14/All%205%20-I%20Metadati.pdf" target="_blank">Metadati</a>
-
-.. |LINK9| raw:: html
-
-    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/index.html#" target="_blank">sulla formazione, gestione e conservazione dei documenti informatici</a>
-
-.. |LINK10| raw:: html
-
-    <a href="https://www.agid.gov.it/sites/default/files/repository_files/leggi_decreti_direttive/dpcm_13_11_2014_allegato_5_metadati.pdf" target="_blank">allegato 5</a>
-
-.. |LINK11| raw:: html
-
-    <a href="https://www.agid.gov.it/sites/default/files/repository_files/leggi_decreti_direttive/dpcm_13_11_2014_regole_tecniche_documento_informatico.pdf" target="_blank">Decreto del Presidente del Consiglio dei Ministri del 13 novembre 2014</a>
-
-.. |LINK12| raw:: html
-
-    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/_downloads/68ba1a216597dd078bef95b520f86f14/All%205%20-I%20Metadati.pdf" target="_blank">Metadati</a>
-
-.. |LINK13| raw:: html
-
-    <a href="https://docs.italia.it/AgID/documenti-in-consultazione/lg-documenti-informatici-docs/it/bozza/index.html#" target="_blank">sulla formazione, gestione e conservazione dei documenti informatici</a>
-
-.. |LINK14| raw:: html
 
     <a href="http://bit.ly/manuale-allegato-1" target="_blank">http://bit.ly/manuale-allegato-1</a>
 
