@@ -1,8 +1,8 @@
 
 .. _h3c7172293d4412241d502a1c591f3d44:
 
-Manuale di gestione del protocollo informatico, del documento informatico e della conservazione del Comune di Palermo
-#####################################################################################################################
+Manuale di gestione del protocollo informatico, del documento informatico e della conservazione della Provincia di Teramo
+#########################################################################################################################
 
 \ |STYLE0|\   
 
