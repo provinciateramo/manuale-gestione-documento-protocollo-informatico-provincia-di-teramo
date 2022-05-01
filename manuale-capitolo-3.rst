@@ -1,8 +1,85 @@
 
 .. _h212a367a277835516b6e1e4c65a4e43:
 
-3- Formazione dei documenti informatici 
-****************************************
+3. Il Documento
+***************
+
+3.1. Documento informatico e analogico: definizione e disciplina giuridica
+==========================================================================
+
+Il presente capitolo descrive le procedure adottate per la formazione, la gestione, la trasmissione, l'interscambio, l'accesso e la conservazione dei documenti informatici, anche in relazione alle norme sulla protezione dei dati personali e alle misure di sicurezza.
+
+Prima di entrare nel merito, occorre caratterizzare l'oggetto di tale scambio: **il documento amministrativo**.
+
+Ai sensi dell'articolo 22 comma 1, lett. d della Legge n.241/1990, per documento amministrativo si intende ogni rappresentazione grafica, fotocinematografica, elettromagnetica o di qualunque altra specie del contenuto di atti, anche interni o non relativi ad uno specifico procedimento, detenuti da una Pubblica Amministrazione e concernenti attività di pubblico interesse, indipendentemente dalla natura pubblicistica o privatistica della loro disciplina sostanziale. Questa sezione evidenzia le caratteristiche dei documenti amministrativi, il criterio di formazione, le modalità di sottoscrizione e la loro protocollabilità.
+
+Nell'ambito del processo di gestione documentale, il documento amministrativo, in
+termini operativi, è così classificabile:
+* ricevuto;
+
+* inviato;
+
+* interno formale;
+
+* interno informale.
+
+Il documento amministrativo oggetto di scambio, in termini tecnologici, è così classifi-
+cabile:
+
+* informatico;
+
+* analogico.
+
+Il documento informatico è la rappresentazione informatica di atti, fatti o dati giuridicamente rilevanti. Il documento informatico è, quindi, un file, cioè una sequenza determinata di valori binari indipendente dal supporto fisico su cui è memorizzata (cfr. |LINK_ALL1|).
+
+Il documento analogico è la rappresentazione non informatica, di atti, fatti o dati giuridicamente rilevanti. Qualsiasi documento non informatico (ad es., un documento cartaceo) è, dunque, un documento analogico.
+
+A differenza del documento analogico, che si caratterizza per la pluralità di forme (scrittura privata, atto pubblico, scrittura privata autenticata) che ne sostanziano il diverso valore giuridico-probatorio, il documento informatico si caratterizza per la pluralità di firme elettroniche (con il valore di sottoscrizione, firma, sigla o visto), che caratterizzano e diversificano l’efficacia giuridico-probatoria del documento.
+
+La firma elettronica non è, infatti, la rappresentazione informatica grafica della firma, ma un meccanismo di associazione di dati per l’imputazione di effetti giuridici in capo a un determinato soggetto che ne risulta l’autore.
+
+L’idoneità del documento informatico a soddisfare il requisito della forma scritta e il suo valore probatorio sono valutabili in giudizio tenuto conto delle caratteristiche oggettive di qualità, sicurezza, integrità e immodificabilità. Il documento informatico assume la caratteristica di immodificabilità se prodotto in modo che forma e contenuto non siano alterabili durante le fasi di tenuta e accesso e ne sia garantita la staticità nella fase di conservazione.
+
+Il documento informatico può essere sottoscritto con firma elettronica, avanzata, qualificata: il tipo di firma utilizzata differenzia il valore giuridico del documento, secondo le norme previste dalla legge, in conformità con quanto stabilito dal Regolamento eI-DAS (electronic IDentification Authentication and Signature) - Regolamento UE n° 910/2014 sull’identità digitale – che ha l’obiettivo di fornire una base normativa a livello comunitario per i servizi fiduciari e i mezzi di identificazione elettronica degli stati membri.
+
+Il Regolamento in materia di identificazione elettronica e servizi fiduciari per le transazioni
+elettroniche nel mercato interno che abroga la direttiva 1999/93/CE, è in vigore in tutta la
+UE dal 1 luglio 2016. Il regolamento permette di adottare a livello europeo un quadro tec-
+nico-giuridico omogeneo e interoperabile nei campi più importanti e distintivi della digita-
+lizzazione a norma: firme elettroniche, sigilli elettronici, validazioni temporali elettroniche,
+documenti elettronici-informatici, i servizi di raccomandata elettronica e i servizi di certifi-
+cazione per autenticazione web.
+
+Alla definizione di documento informatico quale rappresentazione informatica di atti,
+fatti o dati giuridicamente rilevanti, si accosta la definizione, ripresa dal Regolamento eI-
+DAS, di documento informatico come: “qualsiasi contenuto conservato in forma elettronica, in par-
+ticolare testo o registrazione sonora, visiva o audiovisiva”. Esso stabilisce, di conseguenza, la non
+discriminazione dei documenti elettronici rispetto ai documenti cartacei, principio piena-
+mente condiviso dall’Amministrazione.
+
+Il documento informatico privo di sottoscrizione è una copia informatica, come tale
+forma piena prova dei fatti e delle cose rappresentate, se colui contro il quale sono prodotte
+non ne disconosce la conformità ai fatti o alle cose medesime (2712 cc, 23 quater CAD,
+2713 cc).
+
+Il documento informatico sottoscritto con firma elettronica semplice è liberamente va-
+lutabile dal giudice sia per quanto riguarda l’efficacia giuridica che per quanto riguarda
+l’efficacia probatoria tenuto conto delle sue caratteristiche oggettive di qualità, sicurezza,
+integrità e immodificabilità.
+
+Il documento informatico sottoscritto con firma avanzata, se formato nel rispetto delle
+regole tecniche che garantiscano l’identificabilità dell’autore, l’integrità e l’immodificabilità,
+al pari di una scrittura privata, fa piena prova fino a querela di falso della provenienza della
+dichiarazione da chi l’ha sottoscritta, se colui contro il quale è prodotta ne riconosce la sot-
+toscrizione ovvero se questa è legalmente considerata come riconosciuta.
+
+Il documento informatico sottoscritto con firma qualificata, se formato nel rispetto del-
+le regole tecniche che garantiscano l’identificabilità dell’autore, fa piena prova fino a querela
+di falso della provenienza della dichiarazione da chi l’ha sottoscritta. L’utilizzo del dispositi-
+vo si presume riconducibile al titolare, salvo che questi ne dia prova contraria3.
+
+
+
 
 Il presente capitolo descrive le procedure adottate per la formazione, la gestione, la trasmissione, l'interscambio, l'accesso e la conservazione dei documenti informatici, anche in relazione alle norme sulla protezione dei dati personali e alle misure di sicurezza.
 
@@ -533,6 +610,10 @@ La conservazione dovrà garantire  l'integrità e l'affidabilità dei documenti,
 .. |LINK_LG| raw:: html
 
     <a href="https://www.agid.gov.it/piattaforme/sistema-gestione-procedimenti-amministrativi/flussi-documentali-protocollo-informatico" target="_blank">Linee guida sulla formazione, gestione e conservazione dei documenti informatici</a>
+
+.. |LINK_ALL1| raw:: html
+
+    <a href="https://www.agid.gov.it/sites/default/files/repository_files/allegato_1_glossario_dei_termini_e_degli_acronimi.pdf" target="_blank">Glossario dei termini e degli acronimi</a>
 
 .. |LINK_ALL2| raw:: html
 
