@@ -15,21 +15,22 @@ Manuale di gestione del protocollo informatico, del documento informatico e dell
 
 .. _h3252172a1e376a185e43751a5f6f325e:
 
+
 Fonte delle informazioni contenute nel "Manuale"
 ************************************************
 
-La fonte del documento è il “\ |STYLE2|\ ” della \ |LINK2|\ .
+Le fonti del documento sono principalmente costituite dai “\ |STYLE2|\ ” del \ |LINK2.1|\  e della \ |LINK2.2|\ .
 
-Il presente “manuale” coincide, nei contenuti, con il \ |LINK3|\ , (sezione “documentazione allegata”).  
+Il presente “manuale” è anche ispirato, nei contenuti, con il \ |LINK3|\ , (sezione “documentazione allegata”).
 
-Nell’elaborare il manuale del Comune di Palermo è stata effettuata una ricognizione online per analizzare analoghi manuali redatti recentemente da altre pubbliche amministrazioni. E’ stato scelto tra tanti il manuale della Provincia di Pistoia e dell’AGID in quanto essi trattano un’ampia casistica di situazioni in cui si può ritrovare quotidianamente il personale di un grande comune  nella gestione del protocollo informatico, dei documenti e dell’archivio.
+Nell’elaborare il manuale della Provincia di Teramo è stata effettuata una ricognizione online per analizzare analoghi manuali redatti recentemente da altre pubbliche amministrazioni. Sono stati scelti tra tanti il manuale della Provincia di Pistoia, del Comune di Paleromo e dell’AGID in quanto essi trattano un’ampia casistica di situazioni in cui si può ritrovare quotidianamente il personale di una provincia nella gestione del protocollo informatico, dei documenti e dell’archivio.
 
-Il manuale qui illustrato è stato adattato alle esigenze del Comune di Palermo.
+Il manuale qui illustrato è stato adattato alle esigenze della Provincia di Teramo.
 
 
 ..  Important:: 
 
-    La presente versione di Manuale va rivista e verificata alla luce della pubblicazione, \ |LINK4|\ , delle \ |LINK5|\  (linee guida pubblicate in \ |LINK6|\ ). 
+    La presente versione di Manuale va integra e rispetta le \ |LINK5|\  redatte \ |LINK4|\ ,(linee guida pubblicate in \ |LINK6|\ ).
 
 
 ..  Warning:: 
@@ -106,11 +107,11 @@ Il manuale qui illustrato è stato adattato alle esigenze del Comune di Palermo.
 .. bottom of content
 
 
-.. |STYLE0| replace:: **Versione in bozza, non vigente. Prima bozza: novembre 2019 | revisione: dicembre 2020**
+.. |STYLE0| replace:: **Versione in bozza, non vigente. Prima bozza: novembre 2021 | revisione: aprile 2022**
 
-.. |STYLE1| replace:: **Area Organizzativa Omogenea del Comune di Palermo**
+.. |STYLE1| replace:: **Area Organizzativa Omogenea della Provincia di Teramo**
 
-.. |STYLE2| replace:: **Manuale di Gestione del protocollo informatico, dei documenti e dell’archivio**
+.. |STYLE2| replace:: **Manuali di Gestione del protocollo informatico, dei documenti e dell’archivio**
 
 .. |STYLE3| replace:: **LE LINEE GUIDA AGID**
 
@@ -204,19 +205,23 @@ Il manuale qui illustrato è stato adattato alle esigenze del Comune di Palermo.
 .. |REPLACE1| raw:: html
 
     <!--
-    <span style="background-color: #1a5dc9; color: #ffffff; display: inline-block; padding: 0px 4px; border-radius: 4px;">Bozza novembre_2019</span> 
-    <span style="background-color: #1a5dc9; color: #ffffff; display: inline-block; padding: 0px 4px; border-radius: 4px;">Revisione dicembre_2020</span> 
+    <span style="background-color: #1a5dc9; color: #ffffff; display: inline-block; padding: 0px 4px; border-radius: 4px;">Bozza dicembre 2021</span>
+    <span style="background-color: #1a5dc9; color: #ffffff; display: inline-block; padding: 0px 4px; border-radius: 4px;">Revisione Aprile_2022</span>
     --> 
     
-    <img src="https://img.shields.io/github/last-commit/cirospat/manuale-gestione-documento-protocollo-informatico-comune-palermo.svg?colorB=informational&label=ultimo%20aggiornamento&style=popout&logo=GitHub&logoColor=green" />  </p>
+    <img src="https://img.shields.io/github/last-commit/provinciateramo/manuale-gestione-documento-protocollo-informatico-provincia-di-teramo.svg?colorB=informational&label=ultimo%20aggiornamento&style=popout&logo=GitHub&logoColor=green" />  </p>
 
 .. |LINK1| raw:: html
 
-    <a href="https://www.indicepa.gov.it/ipa-portale/consultazione/domicilio-digitale/ricerca-area-organizzativa-omogenea/scheda-area-organizzativa-omogenea/AB7F7A3/scheda-ente/8301" target="_blank">Codice IPA: c_g273</a>
+    <a href="https://www.indicepa.gov.it/ipa-portale/consultazione/domicilio-digitale/ricerca-area-organizzativa-omogenea/scheda-area-organizzativa-omogenea/ACB8763/scheda-ente/21932" target="_blank">Codice IPA: p_TE</a>
 
-.. |LINK2| raw:: html
+.. |LINK2.1| raw:: html
 
-    <a href="https://www.provincia.pistoia.it/articolo/2017/09/manuale-di-gestione-del-protocollo-informatico-dei-documenti-e-dellarchivio" target="_blank">Provincia di Pistoia, approvato con Decreto Presidenziale. n. 101 del 12/04/2017</a>
+    <a href="https://manuale-gestione-protocollo-documento-informatico-palermo.readthedocs.io/it/latest/index.html" target="_blank">Comune di Palermo</a>
+
+.. |LINK2.2| raw:: html
+
+    <a href="https://www.provincia.pistoia.it/articolo/2022/01/manuale-di-gestione-dei-flussi-documentali-del-protocollo-informatico-e-degli" target="_blank">Provincia di Pistoia</a>
 
 .. |LINK3| raw:: html
 

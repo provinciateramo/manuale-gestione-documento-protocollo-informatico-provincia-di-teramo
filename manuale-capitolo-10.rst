@@ -158,7 +158,7 @@ Nel repertorio generale sono riportati gli elementi obbligatori del documento (d
 .. _h1e62776a52a576cf65441f3e2c:
 
 10.5 	 La tenuta dell'Archivio
-==============================
+================================
 
 L’Archivio del Comune di Palermo è costituito dal complesso dei documenti prodotti e acquisiti dall’Ente nello svolgimento della propria attività e nell’esercizio delle proprie funzioni. 
 

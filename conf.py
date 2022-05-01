@@ -5,6 +5,7 @@ import sys, os
 
 on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
 
+sys.path.append(os.path.abspath('ext'))
 sys.path.append(os.path.abspath(os.pardir))
 
 __version__ = '1.0'
@@ -13,14 +14,14 @@ __version__ = '1.0'
 
 source_suffix = '.rst'
 master_doc = 'index'
-project = 'Manuale di gestione del documento informatico, protocollo e conservazione della Provincia di Teramo
+project = 'Manuale di gestione del documento informatico, protocollo e conservazione della Provincia di Teramo'
 copyright = 'CC BY SA'
 
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
 
 extlinks = {}
-
+extensions = ['sphinx.ext.autosectionlabel',]
 # -- Options for HTML output ---------------------------------------------------
 
 html_theme = 'default'
@@ -29,7 +30,7 @@ html_static_path = ['static']
 
 def setup(app):
     # overrides for wide tables in RTD theme
-    app.add_stylesheet('theme_overrides.css') # path relative to static
+    app.add_css_file('theme_overrides.css') # path relative to static
   
 
 
