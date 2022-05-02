@@ -243,11 +243,23 @@ Per tale motivo, sono considerati utilizzabili i seguenti formati standard:
 
   - Tagged Image File Format (estensione **.tif** e **.tiff**): questo formato è particolarmente indicato quando la rappresentazione fedele del documento sia un vincolo tecnico o giuridico e dove la capacità di complementare l’immagine con trasparenze, livelli aggiuntivi e un certo livello di “metadati tecnici” (e.g. spazio-colore, impostazioni di stampa o scansione, raccordo con dimensioni fisiche di rappresentazione, etc.) costituisca un valore aggiunto.
 
-* Suoni = Wav;
+* **Immagini vettoriali e Modellazione digitale** (rif. paragrafo 2.7 allegato 2 "|LINK_ALL2|" delle |LINK_LG|):
 
-* Video = Avi;
+  - Scalable Vector Graphics (estensione **.svg**): il formato SVG, basato su XML, descrive un’immagine vettoriale componente per componente, utilizzando l’estendibilità del linguaggio per “etichettare” opzionalmente alcune parti di queste componenti affinché possano essere referenziate da altri documenti o applicativi.
 
-* Dati Struttura (rif. paragrafo 2.3 allegato 2 "|LINK_ALL2|" delle |LINK_LG|):
+  - AutoCAD® Design Web Format (estensione **..dwfx**, **.dwf**): il formato DWF è stato specificatamente pensato per l’interoperabilità; è infatti basato, dalla versione 6.0, sullo standard ISO/IEC 29500-2 dell’open packaging (lo stesso usato da OOXML). È spesso utilizzato come formato di interscambio e, tra tutti i formati imparentati, è quello con le specifiche più aperte, perciò è utilizzabile anche per archiviazione e conservazione.
+
+* **Audio e musica** (rif. paragrafo 2.9 allegato 2 "|LINK_ALL2|" delle |LINK_LG|):
+
+  - [Broadcast] Waveform File (estensione **.wav**, **.bwf**, **.rf64**);
+
+  - Audio “Raw” (estensione **.pcm**, **.raw**, **.sam**);
+
+  - MPEG-1, Layer 3 (estensione **.mp3**).
+
+* **Video** (rif. paragrafo 2.10 allegato 2 "|LINK_ALL2|" delle |LINK_LG|): considerata la complessità e la peculiarità dei flussi video e multimediali non è possibile indicare a priori dei formati video per la produzione di documenti informatici di tale tipologia.  Per questo motivo le scelte dei formati avranno un’elevata variabilità in base alla finalità d’uso e ai vincoli tecnologici ad esse collegati. Ciò detto, i codec da preferire per creare nuove evidenze video di uso generico – cioè avulse da casi d’uso peculiari di specifici settori quali la produzione, postproduzione e conservazione dei contenuti audiovisivi– sono quelli aperti e standard de iure,
+
+* **Dati Struttura** (rif. paragrafo 2.3 allegato 2 "|LINK_ALL2|" delle |LINK_LG|):
 
   - XML (eXtensible Markup Language);
 
@@ -255,17 +267,31 @@ Per tale motivo, sono considerati utilizzabili i seguenti formati standard:
 
   - CSV (Comma-Separated Value)
 
-* Archiviazione e compressione = Zip;
+* **Archivi compressi** (rif. paragrafo 2.13 allegato 2 "|LINK_ALL2|" delle |LINK_LG|):
 
-* Posta Elettronica: Electronic Mail Format (EML / RFC 2822/MIME).
+  - UNIX Standard Tape Archive (estensione **.tar**);
 
-I file .zip devono contenere file in formato ammesso.
+  - Zip (estensione **.zip**);
+
+  - Gnu Zip (estensione **.gzip**);
+
+  - Immagine di volume ISO9660 (estensione **.iso**): specifico; raccomandato in ambito ICT per immagini normali e forensi di dispositivi di storage a blocchi;
+
+  - Virtual Machine Disk Format (estensione **.vmdk**): specifico; raccomandato in ambito ICT per immagini di macchine virtuali.
+
+* **Posta Elettronica**: Electronic Mail Format (EML / RFC 2822/MIME).
+
+* **Documenti amministrativi** (rif. paragrafo 2.14 allegato 2 "|LINK_ALL2|" delle |LINK_LG|): sono elencati di seguito alcuni formati di file utilizzati per documenti amministrativi di utilizzo generale, da parte della Pubblica Amministrazione e di altri enti, su tutto il territorio nazionale. Questa sezione andrebbe aggiornata in caso di rilevazione di nuovi formati di interoperabilità da parte dell'Ente.
+
+  - fattura elettronica FatturaPA (estensione **.xml**);
+
+  - Clinical Document Architecture (estensione **.xml**): è uno standard di markup basato su XML pensato per lo scambio informatico di documenti clinici ed è, inoltre, uno degli standard di riferimento per il Fascicolo Sanitario Elettronico
+
+  - Segnatura di protocollo (estensione **.xml**).
 
 
-
-
-3.1.2     Documento Amministrativo Informatico
-----------------------------------------------
+3.3. Documento Amministrativo Informatico
+=========================================
 
 Con documento amministrativo informatico si intende, ai sensi dell'`art. 23 ter del CAD <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2021-07-30/_rst/capo_II-sezione_I-articolo_23-ter.html>`_, l'atto formato dalle pubbliche amministrazioni con strumenti informatici, nonché i dati e i documenti informatici detenuti dalle stesse.
 
