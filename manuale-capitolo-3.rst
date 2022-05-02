@@ -34,6 +34,9 @@ Il documento informatico è la rappresentazione informatica di atti, fatti o dat
 
 Il documento analogico è la rappresentazione non informatica, di atti, fatti o dati giuridicamente rilevanti. Qualsiasi documento non informatico (ad es., un documento cartaceo) è, dunque, un documento analogico.
 
+3.1.1. Firme Elettroniche
+-------------------------
+
 A differenza del documento analogico, che si caratterizza per la pluralità di forme (scrittura privata, atto pubblico, scrittura privata autenticata) che ne sostanziano il diverso valore giuridico-probatorio, il documento informatico si caratterizza per la pluralità di firme elettroniche (con il valore di sottoscrizione, firma, sigla o visto), che caratterizzano e diversificano l’efficacia giuridico-probatoria del documento.
 
 La firma elettronica non è, infatti, la rappresentazione informatica grafica della firma, ma un meccanismo di associazione di dati per l’imputazione di effetti giuridici in capo a un determinato soggetto che ne risulta l’autore.
@@ -44,62 +47,76 @@ Il documento informatico può essere sottoscritto con firma elettronica, avanzat
 
 Il Regolamento in materia di identificazione elettronica e servizi fiduciari per le transazioni
 elettroniche nel mercato interno che abroga la direttiva 1999/93/CE, è in vigore in tutta la
-UE dal 1 luglio 2016. Il regolamento permette di adottare a livello europeo un quadro tec-
-nico-giuridico omogeneo e interoperabile nei campi più importanti e distintivi della digita-
-lizzazione a norma: firme elettroniche, sigilli elettronici, validazioni temporali elettroniche,
+UE dal 1 luglio 2016. Il regolamento permette di adottare a livello europeo un quadro tecnico-giuridico omogeneo e interoperabile nei campi più importanti e distintivi della digitalizzazione a norma: firme elettroniche, sigilli elettronici, validazioni temporali elettroniche,
 documenti elettronici-informatici, i servizi di raccomandata elettronica e i servizi di certifi-
 cazione per autenticazione web.
 
 Alla definizione di documento informatico quale rappresentazione informatica di atti,
-fatti o dati giuridicamente rilevanti, si accosta la definizione, ripresa dal Regolamento eI-
-DAS, di documento informatico come: “qualsiasi contenuto conservato in forma elettronica, in par-
-ticolare testo o registrazione sonora, visiva o audiovisiva”. Esso stabilisce, di conseguenza, la non
-discriminazione dei documenti elettronici rispetto ai documenti cartacei, principio piena-
-mente condiviso dall’Amministrazione.
+fatti o dati giuridicamente rilevanti, si accosta la definizione, ripresa dal Regolamento eI-DAS, di documento informatico come: “qualsiasi contenuto conservato in forma elettronica, in particolare testo o registrazione sonora, visiva o audiovisiva”. Esso stabilisce, di conseguenza, la non
+discriminazione dei documenti elettronici rispetto ai documenti cartacei, principio pienamente condiviso dall’Amministrazione.
 
 Il documento informatico privo di sottoscrizione è una copia informatica, come tale
 forma piena prova dei fatti e delle cose rappresentate, se colui contro il quale sono prodotte
 non ne disconosce la conformità ai fatti o alle cose medesime (2712 cc, 23 quater CAD,
 2713 cc).
 
-Il documento informatico sottoscritto con firma elettronica semplice è liberamente va-
-lutabile dal giudice sia per quanto riguarda l’efficacia giuridica che per quanto riguarda
+Il documento informatico sottoscritto con firma elettronica semplice è liberamente valutabile dal giudice sia per quanto riguarda l’efficacia giuridica che per quanto riguarda
 l’efficacia probatoria tenuto conto delle sue caratteristiche oggettive di qualità, sicurezza,
 integrità e immodificabilità.
 
 Il documento informatico sottoscritto con firma avanzata, se formato nel rispetto delle
 regole tecniche che garantiscano l’identificabilità dell’autore, l’integrità e l’immodificabilità,
 al pari di una scrittura privata, fa piena prova fino a querela di falso della provenienza della
-dichiarazione da chi l’ha sottoscritta, se colui contro il quale è prodotta ne riconosce la sot-
-toscrizione ovvero se questa è legalmente considerata come riconosciuta.
+dichiarazione da chi l’ha sottoscritta, se colui contro il quale è prodotta ne riconosce la sottoscrizione ovvero se questa è legalmente considerata come riconosciuta.
 
-Il documento informatico sottoscritto con firma qualificata, se formato nel rispetto del-
-le regole tecniche che garantiscano l’identificabilità dell’autore, fa piena prova fino a querela
-di falso della provenienza della dichiarazione da chi l’ha sottoscritta. L’utilizzo del dispositi-
-vo si presume riconducibile al titolare, salvo che questi ne dia prova contraria3.
+Il documento informatico sottoscritto con firma qualificata, se formato nel rispetto delle regole tecniche che garantiscano l’identificabilità dell’autore, fa piena prova fino a querela
+di falso della provenienza della dichiarazione da chi l’ha sottoscritta. L’utilizzo del dispositivo si presume riconducibile al titolare, salvo che questi ne dia prova contraria.
+
+L’associazione a un documento informatico di una firma elettronica qualificata basata
+su un certificato elettronico revocato, scaduto o sospeso equivale a mancata sottoscrizione;
+tuttavia le firme elettroniche qualificate, ancorché sia scaduto, revocato o sospeso il relativo
+certificato qualificato del sottoscrittore, sono valide se alle stesse è associabile un riferimento temporale opponibile ai terzi che collochi la generazione di dette firme rispettivamente
+in un momento precedente alla scadenza, revoca o sospensione del suddetto certificato.
+
+Le norme di riferimento applicabili sono le seguenti:
+* art. 24, comma 3 del CAD che specifica che per la generazione della firma digitale deve adoperarsi un certificato che, al momento della sottoscrizione, non risulti scaduto, revocato o sospeso, introducendo di fatto la necessità, per un documento firmato digitalmente, di essere associato ad una data che attesti la sua esistenza in quel momento, quello che viene indicato come riferimento temporale;
+
+* art. 24, comma 4-bis del CAD, che stabilisce che la firma di un documento con certificato scaduto, revocato o sospeso, equivale a mancata sottoscrizione;
+
+* art. 20, comma 3 del CAD, che stabilisce che in materia di formazione, conservazione e validazione dei documenti informatici, faccia fede quanto disposto dalle regole tecniche emanate ai sensi dell’art. 71;
+
+* art. 1, comma 1, lettera m) del DPCM 22 febbraio 2013 (Regole tecniche sulle firme elettroniche, ancora vigenti), che definisce il “riferimento temporale” come evidenza informatica contenente data e ora associabile ad uno o più documenti informatici;
+
+* art. 62 del DPCM 22 febbraio 2013 che stabilisce che la firma sia valida anche dopo la scadenza, revoca o sospensione del certificato, a patto che al documento sia associabile un “riferimento temporale opponibile a terzi” che collochi la generazione della firma in un momento antecedente alla scadenza, revoca o sospensione del certificato; da notare come questo articolo, essenziale, sia collocato, un po’ incomprensibilmente, fra le disposizioni finali del DPCM, rendendolo difficilmente individuabile;
+
+* art. 41, sempre del succitato DPCM, che definisce quali sono i riferimenti opponibili a terzi:
+
+  - la marca temporale;
+
+  - il riferimento temporale contenuto nella segnatura di protocollo;
+
+  - il riferimento temporale ottenuto tramite la procedura di conservazione a norma
+
+  - il riferimento temporale ottenuto tramite l’utilizzo della PEC
+
+Ricapitolando, la sequenza di norme sopra riportate, si può così sintetizzare: al documento informatico è necessario associare, pena mancata sottoscrizione, un riferimento temporale opponibile a terzi in grado di collocare temporalmente il documento in un momento in cui il certificato utilizzato per la sua firma non sia scaduto, revocato o sospeso.
+
+Tutte le scritture private se stipulate sotto forma di documento informatico, devono essere sottoscritte a pena di nullità, salvo i casi di firma autenticata, con firma elettronica qualificata.
+Gli altri atti per cui la legge prevede obbligatoriamente la forma scritta soddisfano tale
+requisito se sottoscritti con firma elettronica avanzata qualificata. Si precisa che tutti i contratti stipulati dalla Pubblica Amministrazione, anche quando quest’ultima agisce iure privato-rum, richiedono la forma scritta ad substantiam 5.
 
 
+.. _redazione_formazione_documento_informatico:
 
-
-Il presente capitolo descrive le procedure adottate per la formazione, la gestione, la trasmissione, l'interscambio, l'accesso e la conservazione dei documenti informatici, anche in relazione alle norme sulla protezione dei dati personali e alle misure di sicurezza.
-
-I documenti e le informazioni trattate dall'AOO sono disponibili, integre e riservate.
-
-I dati personali comuni, sensibili e/o giudiziari vengono custoditi in modo da ridurre al minimo, mediante l'adozione di idonee e preventive misure di sicurezza, i rischi di distruzione o perdita, anche accidentale, di accesso non autorizzato o di trattamento non consentito o non conforme alle finalità della raccolta, in relazione alle conoscenze acquisite in base al progresso tecnico, alla loro natura e alle specifiche caratteristiche del trattamento. 
-
-I dati personali registrati nel log del sistema operativo, del sistema di controllo degli accessi e delle operazioni svolte con il SdP, saranno conservati secondo le vigenti norme e saranno consultati solo in caso di necessità.
-
-.. _h296b2d5d40656f102e3d2c1415164f6:
-
-3.1 Documenti informatici
-=========================================
+3.2 Redazione/formazione del documento informatico
+==================================================
 
 Il contenuto del presente paragrafo si applica, salvo ove diversamente specificato, ai soggetti di cui all'art. 2 commi 2 e 3 del CAD.
 
-
-3.1.1 Formazione dei documenti informatici
-------------------------------------------
 .. _formazione_documento_informatico:
+
+3.2.1 Formazione dei documenti informatici
+------------------------------------------
 
 Il documento informatico è formato mediante una delle seguenti modalità:
 
@@ -143,6 +160,108 @@ Nel caso di documento informatico formato secondo i sopra citati punti 3) e 4) l
 * produzione di una estrazione statica dei dati e il trasferimento della stessa nel sistema di conservazione.
 
 La certezza dell'autore è la capacità di poter associare in maniera certa e permanente il soggetto che ha sottoscritto il documento stesso.
+
+.. _validazione_temporale:
+
+3.2.2     Validazione temporale
+-------------------------------
+
+Il Regolamento UE eIDAS introduce due definizioni afferenti la validazione temporale:
+
+* **validazione temporale elettronica**, dati in forma elettronica che collegano altri dati in forma elettronica a una particolare ora e data, così da provare che questi ultimi esistevano in quel momento;
+
+* **validazione temporale elettronica qualificata**, una validazione temporale elettronica che soddisfa i requisiti di cui all’articolo 42 del Regolamento eIDAS.
+
+La validazione temporale elettronica dà luogo a una presunzione legale relativa alla certezza della data e dell’ora. Essa è normata dagli articoli 41 e 42 del Regolamento eIDAS:
+
+* Alla validazione temporanea elettronica non possono essere negati gli effetti giuridici e l’ammissibilità come prova in procedimenti giudiziali per il solo motivo della sua forma elettronica o perché non soddisfa i requisiti della validazione temporanea elettronica qualificata.
+
+* Una validazione temporale elettronica qualificata gode della presunzione di accuratezza della data e dell’ora che indica e di integrità dei dati ai quali tale data e ora sono associate.
+
+* Una validazione temporale elettronica rilasciata in uno Stato membro è riconosciuta quale validazione temporale elettronica qualificata in tutti gli Stati membri.
+
+Una validazione temporale elettronica qualificata soddisfa i requisiti seguenti:
+
+* collega la data e l’ora ai dati in modo da escludere ragionevolmente la possibilità di modifiche non rilevabili dei dati;
+
+* si basa su una fonte accurata di misurazione del tempo collegata al tempo universale coordinato;
+
+* è apposta mediante una firma elettronica avanzata o sigillata con un sigillo elettronico avanzato del prestatore di servizi fiduciari qualificato o mediante un metodo equivalente.
+
+Costituiscono validazione temporale:
+
+* i riferimenti temporali realizzati dai certificatori accreditati mediante marche temporali;
+
+* i riferimenti temporali apposti sul “giornale di controllo” da un certificatore accreditato secondo la scala di tempo nazionale italiana UTC (IT), in base alle indicazioni dell’Istituto nazionale di ricerca metrologica – INRiM, con una differenza non superiore un minuto primo;
+
+* il riferimento temporale contenuto nella segnatura di protocollo;
+
+* il riferimento temporale ottenuto attraverso la procedura di conservazione dei documenti in conformità alle norme vigenti, ad opera di un pubblico ufficiale o di una Pubblica Amministrazione;
+
+* il riferimento temporale ottenuto attraverso l’utilizzo di PEC;
+
+* il riferimento temporale ottenuto attraverso l’utilizzo della marcatura postale elettronica.
+
+.. _formati_file:
+
+3.2.3     Formati
+-----------------
+
+L’Amministrazione usa per la formazione e per la gestione dei documenti informatici le
+tipologie di formato di seguito indicate e coerenti con quelle previste dall'allegato 2 "|LINK_ALL2|" delle |LINK_LG|.
+
+La scelta del formato è stata effettuata considerando che essa, come da previsione
+normativa, deve garantire la leggibilità e la reperibilità del documento informatico
+nell’intero ciclo di vita dello stesso; pertanto nella scelta si è valutata l’apertura, la sicurezza,
+la portabilità, la funzionalità, il supporto allo sviluppo e la diffusione dello stesso.
+Per tale motivo, sono considerati utilizzabili i seguenti formati standard:
+
+* **Formato Testo** (per i dettagli sulle caratteristiche dei formati e delle restrizioni si veda il paragrafo 2.1 del già citato allegato 2 "|LINK_ALL2|" delle |LINK_LG|):
+
+  - Portable Document Format (PDF), tra cui si suggerisce l’uso del formato PDF/A creato per l’archiviazione nel lungo periodo;
+
+  - OpenDocument Text (ODT):  è il formato di default usato dall’applicazione di videoscrittura Writer della suite open source LibreOffice, ma è ampiamente supportato da molti altri applicativi di videoscrittura. L’estensione del documento compresso per gli impaginati normali è **.odt**.
+
+  - Open Office XML (OOXML): la suite di applicativi Microsoft Office, dalla versione 2007 in poi, utilizza un formato di file unico per i suoi applicativi principali, chiamato Open Office XML. L’estensione del documento compresso per gli impaginati normali è **.docx**. Si consiglia la produzione di documenti con il profilo Strict, che è più restrittivo ma consente di eliminare alcune estensioni “proprietarie” che possono ridurre l’interoperabilità del formato stesso
+
+
+* **Fogli di calcolo e presentazioni multimediali**: si raccomanda la produzione di fogli di calcolo e presentazioni multimediali in formati aperti e consistenti con gli applicativi “da ufficio” più diffusi sul territorio nazionale e comunitario: in particolare, si individua nei formati derivati da OOXML (profilo Strict) e da OpenDocument le alternative più valide. (rif. paragrafo 2.5 allegato 2 "|LINK_ALL2|" delle |LINK_LG|)
+
+  - SpreadsheetML OOXML Extension (estensione **.xlsx**): è stato introdotto con la versione 2007 di Microsoft Office, ma è compatibile con moltissimi altri applicativi. L’unico profilo raccomandato di OOXML per SpreadsheetML è Strict.
+
+  - PresentationML OOXML Extension (estensione **.pptx**): è stato introdotto con la versione 2007 di Microsoft Office, ma è compatibile con moltissimi altri applicativi. L’unico profilo raccomandato di OOXML per PresentationML è Strict.
+
+  - Open Document Format for Office Spreadsheets (estensione **.ods**): è attualmente utilizzato dalla suite open source di applicativi da ufficio LibreOffice, anche se è pienamente utilizzabile in Microsoft® Office®, in OpenOffice.org e in altri applicativi che elaborano documenti di questo tipo.
+
+  - Open Document Format for Presentations (estensione **.odp**): è attualmente utilizzato dalla suite open source di applicativi da ufficio LibreOffice, anche se è pienamente utilizzabile in Microsoft Office, in OpenOffice.org e in altri applicativi che elaborano documenti di questo tipo.
+
+* **Immagini raster** (rif. paragrafo 2.6 allegato 2 "|LINK_ALL2|" delle |LINK_LG|):
+
+  - Portable Network Graphics (estensione **.png**): il formato PNG è particolarmente raccomandato per la rappresentazione di immagini raster che non hanno bisogno di essere accompagnate da metadati particolarmente complessi;
+
+  - JPEG File Interchange Format (estensione **.jpg** e **.jpeg**): utilizza un algoritmo di compressione con "perdita di informazioni". Qualora si disponga delle medesime immagini in un formato di maggiore qualità (in termini di risoluzione, di assenza di compressione lossy, o altro), si consiglia di non riversare mai in JPEG il medesimo contenuto.
+
+  - Tagged Image File Format (estensione **.tif** e **.tiff**): questo formato è particolarmente indicato quando la rappresentazione fedele del documento sia un vincolo tecnico o giuridico e dove la capacità di complementare l’immagine con trasparenze, livelli aggiuntivi e un certo livello di “metadati tecnici” (e.g. spazio-colore, impostazioni di stampa o scansione, raccordo con dimensioni fisiche di rappresentazione, etc.) costituisca un valore aggiunto.
+
+* Suoni = Wav;
+
+* Video = Avi;
+
+* Dati Struttura (rif. paragrafo 2.3 allegato 2 "|LINK_ALL2|" delle |LINK_LG|):
+
+  - XML (eXtensible Markup Language);
+
+  - JSON (JavaScript Object Notation)
+
+  - CSV (Comma-Separated Value)
+
+* Archiviazione e compressione = Zip;
+
+* Posta Elettronica: Electronic Mail Format (EML / RFC 2822/MIME).
+
+I file .zip devono contenere file in formato ammesso.
+
+
 
 
 3.1.2     Documento Amministrativo Informatico
@@ -239,44 +358,6 @@ gestione documentale, che comunque devono contenere al proprio interno o avere a
 minimo dei metadati previsti per il documento amministrativo informatico.
 
 
-3.1.5     Validazione temporale
--------------------------------
-
-Il Regolamento UE eIDAS introduce due definizioni afferenti la validazione temporale:
-
-* **validazione temporale elettronica**, dati in forma elettronica che collegano altri dati in forma elettronica a una particolare ora e data, così da provare che questi ultimi esistevano in quel momento;
-
-* **validazione temporale elettronica qualificata**, una validazione temporale elettronica che soddisfa i requisiti di cui all’articolo 42 del Regolamento eIDAS.
-
-La validazione temporale elettronica dà luogo a una presunzione legale relativa alla certezza della data e dell’ora. Essa è normata dagli articoli 41 e 42 del Regolamento eIDAS:
-
-* Alla validazione temporanea elettronica non possono essere negati gli effetti giuridici e l’ammissibilità come prova in procedimenti giudiziali per il solo motivo della sua forma elettronica o perché non soddisfa i requisiti della validazione temporanea elettronica qualificata.
-
-* Una validazione temporale elettronica qualificata gode della presunzione di accuratezza della data e dell’ora che indica e di integrità dei dati ai quali tale data e ora sono associate.
-
-* Una validazione temporale elettronica rilasciata in uno Stato membro è riconosciuta quale validazione temporale elettronica qualificata in tutti gli Stati membri.
-
-Una validazione temporale elettronica qualificata soddisfa i requisiti seguenti:
-
-* collega la data e l’ora ai dati in modo da escludere ragionevolmente la possibilità di modifiche non rilevabili dei dati;
-
-* si basa su una fonte accurata di misurazione del tempo collegata al tempo universale coordinato;
-
-* è apposta mediante una firma elettronica avanzata o sigillata con un sigillo elettronico avanzato del prestatore di servizi fiduciari qualificato o mediante un metodo equivalente.
-
-Costituiscono validazione temporale:
-
-* i riferimenti temporali realizzati dai certificatori accreditati mediante marche temporali;
-
-* i riferimenti temporali apposti sul “giornale di controllo” da un certificatore accreditato secondo la scala di tempo nazionale italiana UTC (IT), in base alle indicazioni dell’Istituto nazionale di ricerca metrologica – INRiM, con una differenza non superiore un minuto primo;
-
-* il riferimento temporale contenuto nella segnatura di protocollo;
-
-* il riferimento temporale ottenuto attraverso la procedura di conservazione dei documenti in conformità alle norme vigenti, ad opera di un pubblico ufficiale o di una Pubblica Amministrazione;
-
-* il riferimento temporale ottenuto attraverso l’utilizzo di PEC;
-
-* il riferimento temporale ottenuto attraverso l’utilizzo della marcatura postale elettronica.
 
 .. _h779303838426b4475523e3dd4d38:
 

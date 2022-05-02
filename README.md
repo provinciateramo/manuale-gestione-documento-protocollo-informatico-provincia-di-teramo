@@ -1,13 +1,10 @@
-# manuale-gestione-documento-protocollo-informatico-comune-palermo
+# manuale-gestione-documento-protocollo-informatico-provincia-di-teramo
 
 
-[**manuale-gestione-documento-protocollo-informatico-comune-palermo**](https://manuale-gestione-protocollo-documento-informatico-palermo.readthedocs.io)  
-<p><img class="imageLeft" style="width: 33px; height: 30px;" src="https://raw.githubusercontent.com/cirospat/manuale-gestione-documento-protocollo-informatico-comune-palermo/master/static/comune-palermo-innovazione.png"></p>
+[**manuale-gestione-documento-protocollo-informatico-provincia-di-teramo**](https://manuale-gestione-protocollo-documento-informatico-provincia-teramo.readthedocs.io)  
+<p><img class="imageLeft" style="width: 33px; height: 30px;" src="https://raw.githubusercontent.com/provinciateramo/manuale-gestione-documento-protocollo-informatico-provincia-di-teramo/ae5af69a653eff9a01e3df52813441b204b06478/static/logo_provincia_teramo.jpg"></p>
 
-Questo repository contiene i file di impostazione per il progetto tipo che viene esposto su [**manuale-gestione-documento-protocollo-informatico-comune-palermo**](https://manuale-gestione-protocollo-documento-informatico-palermo.readthedocs.io). 
-
-
-Se sei interessato a usare Google doc per compilare documenti su Github puoi usare il plugin "componente aggiuntivo" [GGeditor](http://googledocs.readthedocs.io). Github pubblica i contenuti di Google doc direttamente nelle pagine HTML di [Read the Docs](https://readthedocs.org/).
+Questo repository contiene i file di impostazione per il progetto tipo che viene esposto su [**manuale-gestione-documento-protocollo-informatico-provincia-di-teramo**](https://manuale-gestione-protocollo-documento-informatico-provincia-teramo.readthedocs.io). 
 
 Licenza dei contenuti di questo repository: CC BY SA
 
