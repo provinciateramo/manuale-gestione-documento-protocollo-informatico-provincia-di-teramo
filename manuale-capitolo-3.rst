@@ -108,14 +108,14 @@ requisito se sottoscritti con firma elettronica avanzata qualificata. Si precisa
 
 .. _redazione_formazione_documento_informatico:
 
-3.2 Redazione/formazione del documento informatico
+3.2. Redazione/formazione del documento informatico
 ==================================================
 
 Il contenuto del presente paragrafo si applica, salvo ove diversamente specificato, ai soggetti di cui all'art. 2 commi 2 e 3 del CAD.
 
 .. _formazione_documento_informatico:
 
-3.2.1 Formazione dei documenti informatici
+3.2.1. Formazione dei documenti informatici
 ------------------------------------------
 
 Il documento informatico è formato mediante una delle seguenti modalità:
@@ -163,7 +163,7 @@ La certezza dell'autore è la capacità di poter associare in maniera certa e pe
 
 .. _validazione_temporale:
 
-3.2.2     Validazione temporale
+3.2.2. Validazione temporale
 -------------------------------
 
 Il Regolamento UE eIDAS introduce due definizioni afferenti la validazione temporale:
@@ -204,7 +204,7 @@ Costituiscono validazione temporale:
 
 .. _formati_file:
 
-3.2.3     Formati
+3.2.3. Formati
 -----------------
 
 L’Amministrazione usa per la formazione e per la gestione dei documenti informatici le
@@ -293,6 +293,10 @@ Per tale motivo, sono considerati utilizzabili i seguenti formati standard:
 3.3. Documento Amministrativo Informatico
 =========================================
 
+Il documento amministrativo è qualsiasi rappresentazione, comunque formata, del contenuto di atti, anche interni o non relativi ad uno specifico procedimento, detenuti da una Pubblica Amministrazione e concernenti attività di pubblico interesse, indipendentemente dalla natura pubblicistica o privatistica.
+
+Il documento amministrativo può assumere la forma di documento informatico o analogico.
+
 Con documento amministrativo informatico si intende, ai sensi dell'`art. 23 ter del CAD <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2021-07-30/_rst/capo_II-sezione_I-articolo_23-ter.html>`_, l'atto formato dalle pubbliche amministrazioni con strumenti informatici, nonché i dati e i documenti informatici detenuti dalle stesse.
 
 Al documento amministrativo informatico si applicano le stesse regole valide per il documento informatico, salvo quanto specificato nel presente paragrafo.
@@ -317,10 +321,10 @@ classificazione, ai sensi dell’articolo 56 del TUDA, e ai tempi di conservazio
 piano di conservazione, e quelli relativi alla relazione con l’aggregazione documentale informatica
 d'appartenenza.
 
-.. _metadati_documento_informatico:
+.. _metadati:
 
-3.1.2 Medatati del documento informatico
-----------------------------------------
+3.4 Medatati
+============
 
 La codifica dell’informazione digitale, a differenza di altre, non è mai né auto-sufficiente né auto-esplicativa, ma deve sempre e necessariamente documentare se stessa al livello minimo del singolo atomo di informazione, aggiungendo al dato/contenuto vero e proprio molte informazioni necessarie per la decodifica, l’identificazione, il recupero, l’accesso e l’uso6.
 
@@ -331,6 +335,22 @@ Nel contesto degli oggetti digitali il termine metadati può essere associato a 
 * **Gestionale**: ha lo scopo di supportare la gestione dell’oggetto digitale all’interno di una collezione;
 
 * **Strutturale**: ha lo scopo di collegare fra loro i componenti di oggetti informativi complessi.
+
+3.4.1. Obiettivi dei metadati archivistici
+------------------------------------------
+
+Gli obiettivi dei metadati archivistici sono:
+
+* garantire l’identificazione permanente dei singoli oggetti informativi, ad es.: identificativo univoco (numero di protocollo, data, autore, ecc.);
+
+* garantire l’identificazione permanente delle relazioni tra gli oggetti informativi, ad es.: indici di classificazione e fascicolatura;
+
+* conservare le informazioni che supportano l’intellegibilità degli oggetti informativi, ad es.: procedimento amministrativo cui il documento è connesso.
+
+.. _metadati_documento_informatico:
+
+3.4.2.  Metadati associati al documento informatico
+---------------------------------------------------
 
 Al momento della formazione del documento informatico immodificabile, devono essere generati e associati permanentemente ad esso i relativi metadati. L'insieme minimo dei metadati, come definiti nell'allegato 5 “\ |LINK_ALL5|\ ”  delle \ |LINK_LG|\ , è costituito da:
 
@@ -354,21 +374,36 @@ Al momento della formazione del documento informatico immodificabile, devono ess
 
 #. l'oggetto;
 
-#. il soggetto che ha formato il documento;
+#. soggetti: metadato con struttura ricorsiva che consente di individuare le informazioni relative a tutti i soggetti coinvolti e competenti sul documento a vario titolo.
 
-#. il destinatario, se presente;
+   Ogni soggetto può assumere i seguente ruoli:
 
-#. allegati: il numero di allegati al documento;
+   - Assegnatario
+   - Autore
+   - Destinatario
+   - Mittente
+   - Operatore
+   - Produttore
+   - RGD (Responsabile della Gestione Documentale)
+   - RSP (Responsabile del Servizio di Protocollo)
+   - Soggetto che effettua la registrazione
+   - Altro
+
+#. allegati: il numero di allegati al documento, per ogni allegato l'identificativo dello stesso e una descrizione;
 
 #. formato: indica il formato del documento e la versione del software utilizzato per la creazione del documento stesso.
+
+#. tracciature modifiche documento: metadato volto a tracciare la presenza di operazioni di modifica effettuate sul documento e la data in cui esse sono state effettuate. L’autore delle modifiche è tracciato nel metadato “Soggetti” con il ruolo “Operatore”.
 
 Eventuali ulteriori metadati sono definiti in funzione del contesto e delle necessità gestionali e conservative, in conformità a quanto previsto nell'nell'allegato 5 “\ |LINK_ALL5|\ ”  delle \ |LINK_LG|\  .
 
 
-3.1.4     Metadati Documento Amministrativo Informatico
--------------------------------------------------------
+3.4.3. Metadati Documento Amministrativo Informatico
+----------------------------------------------------
 
-In aggiunta ai metadati del documento informatico, defini al :ref:`paragrafo 3.1.2<metadati_documento_informatico>`, sono quindi definiti i seguenti metadati per il documento amministrativo informatico:
+In aggiunta ai metadati del documento informatico, defini al :ref:`paragrafo 3.4.2<metadati_documento_informatico>`, sono quindi definiti i seguenti metadati per il documento amministrativo informatico:
+
+#. Tipologia documentale: campo testuale libero per indicare le tipologie documentali trattate (ad esempio, fatture, delibere, determine, etc);
 
 #. Classificazione del documento secondo il Piano di classificazione utilizzato, da indicare sia nel caso di documento protocollato che nel caso di documento non protocollato;
 
@@ -376,13 +411,11 @@ In aggiunta ai metadati del documento informatico, defini al :ref:`paragrafo 3.1
 
 Al documento amministrativo informatico sono associati ulteriori metadati rilevanti ai fini
 amministrativi o per finalità gestionali o conservative, definiti, per ogni tipologia di documento,
-nell’ambito del contesto a cui esso si riferisce, secondo quanto previsto dall’Allegato 5 alle presenti
-Linee guida.
+nell’ambito del contesto a cui esso si riferisce, secondo quanto previsto dall'allegato 5 “\ |LINK_ALL5|\ ”  delle \ |LINK_LG|\
 
 Sono inclusi i documenti soggetti a registrazione particolare, come identificati nel manuale di
 gestione documentale, che comunque devono contenere al proprio interno o avere associati l’insieme
 minimo dei metadati previsti per il documento amministrativo informatico.
-
 
 
 .. _h779303838426b4475523e3dd4d38:
