@@ -1,10 +1,8 @@
 
 .. _h5575215231305138626db802ee16a:
 
-4- Modalità di utilizzo di strumenti informatici per lo scambio di documenti
+4- Modalità di utilizzo di strumenti informatici per la generazione e lo scambio di documenti
 ****************************************************************************
-
-:guilabel:`il testo visualizzato in questa modalità` è abrogato dalle Linee Guida AGID \ |LINK1|\ .
 
 II presente capitolo fornisce indicazioni sulle modalità di utilizzo di strumenti informatici per lo scambio di documenti all'interno ed all'esterno dell'AOO.
 
@@ -20,16 +18,13 @@ Il documento amministrativo, in termini operativi, è così classificabile:
 
 * interno informale. 
 
-Il documento amministrativo come oggetto di scambio, in termini tecnologici è così classificabile: 
-
-* informatico 
-
-* analogico. 
 
 .. _h3b5469522944357f63d60213a5a327:
 
 4.1    Documento ricevuto dall'Amministrazione
 ==============================================
+
+Per documenti in arrivo si intendono tutti i documenti di rilevanza giuridico-probatoria acquisiti dall’Amministrazione nell’esercizio delle proprie funzioni e provenienti da un diverso soggetto pubblico o privato.
 
 La corrispondenza in ingresso può essere acquisita dall'AOO con diversi mezzi e modalità in base alla tecnologia di trasporto utilizzata dal mittente. 
 
@@ -39,7 +34,7 @@ Un documento informatico può essere recapitato:
 
 * tramite Interoperabilità di protocollo tra pubbliche amministrazioni;
 
-* tramite la piattaforma informatica del Comune di Palermo messa a disposizione dei cittadini;
+* tramite le piattaforme informatiche predisposte dalla Provincia di Teramo per la presentazione di istanze online da parte di cittadini e imprese;
 
 * su supporto rimovibile quale, ad esempio, cd rom, dvd, pen drive, consegnato direttamente alla UOP o inviato per posta convenzionale, raccomandata o corriere.
 
@@ -60,11 +55,13 @@ A fronte delle tipologie descritte ne esiste una terza denominata "ibrida" compo
 4.2    Documento inviato dall'Amministrazione
 =============================================
 
+Per documenti in uscita si intendono i documenti di rilevanza giuridico-probatoria prodotti dall’Amministrazione nell’esercizio delle proprie funzioni e indirizzati ad un diverso soggetto pubblico o privato e anche ai propri dipendenti come persone fisiche e non nell’esercizio delle loro funzioni
+
 I documenti informatici, compresi gli eventuali allegati anch’essi informatici, sono inviati, di norma, per mezzo di interoperabilità di protocollo o posta elettronica certificata.
 
 In alternativa, il documento informatico può essere riversato su supporto rimovibile non modificabile e trasmesso con altri mezzi di trasporto al destinatario.
 
-Il documento può anche essere messo a disposizione del destinatario  sul sito web istituzionale in apposita sezione.
+Il documento può anche essere messo a disposizione del destinatario sul sito web istituzionale in apposita sezione.
 
 I documenti su supporto cartaceo sono inviati:
 
@@ -90,28 +87,20 @@ Per questa tipologia di corrispondenza, la cui fascicolazione e conservazione è
 
 Di conseguenza, per la formazione, la gestione e la sottoscrizione di documenti informatici aventi rilevanza esclusivamente interna ciascun UOR o UU della AOO adotta, nei limiti della propria autonomia organizzativa, le regole sopra illustrate ad eccezione della obbligatorietà dell'operazione di sottoscrizione e di protocollazione. 
 
-.. _h7e5c606050a1804d933829497a61:
-
-4.5    Documento informatico
-============================
-
-Il documento informatico è la rappresentazione informatica di atti, fatti o dati giuridicamente rilevanti; l’art. 20 del D. Lgs. del 7 marzo 2005, n. 82  “\ |STYLE0|\ ” e successive modifiche, prevede che “il documento informatico da chiunque formato, la registrazione su supporto informatico e la trasmissione con strumenti telematici sono validi e rilevanti a tutti gli effetti di legge, se conformi alle disposizioni del presente codice :guilabel:`ed alle regole tecniche di cui all’art.71 adottate con  D.P.C.M. 3 dicembre 2013 'Regole tecniche per il protocollo informatico'`,  ai sensi degli articoli 40-bis , 41, 47, 57-bis e 71, del Codice dell’Amministrazione Digitale, di cui al decreto legislativo n. 82 del 2005, :guilabel:`D.P.C.M. 3 dicembre 2013 'Regole tecniche in materia di sistema di conservazione'`, ai sensi degli articoli 20, commi 3 e 5-bis, 23-ter, comma 4, 43, commi 1 e 3, 44 , 44-bis e 71, comma 1, del Codice dell'amministrazione digitale di cui al decreto legislativo n. 82 del 2005 :guilabel:`e  D.P.C.M. 13 novembre 2014 'Regole tecniche in materia di formazione, trasmissione, copia, duplicazione, riproduzione e validazione temporale dei documenti informatici` nonché di formazione e conservazione dei documenti informatici delle pubbliche amministrazioni'\` ai sensi degli articoli 20, 22, 23-bis, 23-ter, 40, comma 1, 41, e 71, comma 1, del Codice dell'Amministrazione Digitale di cui al decreto legislativo n. 82 del 2005. 
-
-I documenti informatici prodotti, indipendentemente dal software utilizzato per la loro redazione, prima della loro eventuale sottoscrizione con firma digitale sono convertiti in uno dei formati aperti standard previsti dalla normativa vigente in materia di archiviazione \ |STYLE1|\ \ |LINK2|\  \ |STYLE2|\ , al fine di garantire la non alterabilità durante le fasi di accesso e conservazione e l’immutabilità nel tempo del contenuto e della struttura. Un documento nativo informatico non può essere convertito in formato analogico prima della sua eventuale acquisizione a sistema di protocollo o archiviazione informatica. 
-
-.. _h3d246c7d84f6c3f521f2225305a69:
-
-4.6    Documento analogico
-==========================
-
-Per documento analogico si intende un documento amministrativo “formato utilizzando una grandezza fisica che assume valori continui, come le tracce su carta (esempio: documenti cartacei), come le immagini su film (esempio: pellicole, microfiches, microfilm), come le magnetizzazioni su nastro (esempio: cassette e nastri magnetici audio e video) su supporto non digitale”. Di seguito faremo riferimento ad un documento amministrativo cartaceo che può essere prodotto sia in maniera tradizionale (come, ad esempio, una lettera scritta a mano o a macchina) sia con strumenti informatici (ad esempio, una lettera prodotta tramite un sistema di videoscrittura o text editor). 
-
 .. _h344325c566a8a4214634651352751:
 
 4.7     Duplicato del documento informatico e analogico
 =======================================================
 
-Il duplicato del documento informatico è un documento prodotto mediante idoneo processo o strumento che assicuri che il documento informatico, ottenuto sullo stesso sistema di memorizzazione o su un sistema diverso, contenga la stessa sequenza binaria del documento informatico di origine da cui è tratto. I duplicati informatici hanno il medesimo valore giuridico del documento informatico da cui sono tratti se prodotti in conformità delle regole tecniche. Il “duplicato informatico” è dunque un documento informatico ottenuto mediante la memorizzazione, sullo stesso dispositivo o su dispositivi diversi, della medesima sequenza di valori binari del documento originario. Pertanto, a differenza delle copie di documenti informatici, che si limitano a mantenere il contenuto dei documenti originari (ma non il loro formato), i duplicati informatici non necessitano di attestazione di conformità all’originale da parte di un notaio o di un pubblico ufficiale, stante la loro perfetta corrispondenza nel numero e nella sequenza dei valori binari e hanno il medesimo valore giuridico del documento informatico da cui sono tratti qualora prodotti mediante processi e strumenti che assicurino la predetta sequenza. Il duplicato di un documento analogico è la riproduzione di un documento analogico originale distrutto o smarrito che lo sostituisce a tutti gli effetti legali. 
+Il duplicato del documento informatico è un documento prodotto mediante idoneo processo o strumento che assicuri che il documento informatico, ottenuto sullo stesso sistema di memorizzazione o su un sistema diverso, contenga la stessa sequenza binaria del documento informatico di origine da cui è tratto.
+
+I duplicati informatici hanno il medesimo valore giuridico del documento informatico da cui sono tratti se prodotti in conformità delle regole tecniche.
+
+Il “duplicato informatico” è dunque un documento informatico ottenuto mediante la memorizzazione, sullo stesso dispositivo o su dispositivi diversi, della medesima sequenza di valori binari del documento originario.
+
+Pertanto, a differenza delle copie di documenti informatici, che si limitano a mantenere il contenuto dei documenti originari (ma non il loro formato), i duplicati informatici non necessitano di attestazione di conformità all’originale da parte di un notaio o di un pubblico ufficiale, stante la loro perfetta corrispondenza nel numero e nella sequenza dei valori binari e hanno il medesimo valore giuridico del documento informatico da cui sono tratti qualora prodotti mediante processi e strumenti che assicurino la predetta sequenza.
+
+Il duplicato di un documento analogico è la riproduzione di un documento analogico originale distrutto o smarrito che lo sostituisce a tutti gli effetti legali.
 
 .. _ha543670467c4811b401b24e2e1f80:
 
