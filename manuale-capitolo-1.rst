@@ -1,28 +1,27 @@
 
 .. _hd1f3d7c55f15653646402427195369:
 
-1 - Principi generali
-*********************
+1. Principi generali
+********************
 
 .. _h73102a5455113924262662197564470:
 
-1.1    Premessa
-===============
+1.1. Premessa
+=============
 
 Il presente manuale di gestione è la concreta attuazione delle |LINK_LG| del 2020 a cura dell’Agenzia per l’Italia Digitale (AGID), che costituiscono la nuova versione aggiornata delle regole tecniche in materia di formazione, protocollazione, gestione e conservazione del documento, già precedentemente regolate nei DPCM del 2013 e 2014.
 
 In questo ambito è previsto che ogni amministrazione pubblica individui una o più |STYLE0|, all'interno delle quali sia nominato un responsabile del servizio per la tenuta del protocollo informatico, della gestione dei flussi documentali e degli archivi, ai sensi dell’articolo 50 del Testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa (decreto del Presidente della Repubblica n. 445 del 28 dicembre 2000). 
 
-Obiettivo del Manuale di gestione è descrivere sia il sistema di gestione documentale a partire dalla fase di protocollazione della corrispondenza in ingresso e in uscita e di quella interna, sia le funzionalità disponibili per gli addetti al servizio e per i soggetti esterni che a diverso titolo interagiscono con l'amministrazione. Il protocollo informatico, anche con le sue funzionalità minime, costituisce l'infrastruttura di base tecnico-funzionale su cui avviare il processo di ammodernamento e di trasparenza dell'attività dell'amministrazione comunale. Il manuale è destinato alla più ampia diffusione interna ed esterna, in quanto fornisce le istruzioni complete per eseguire correttamente le operazioni di formazione, registrazione, classificazione, fascicolazione e archiviazione dei documenti. Il presente documento, pertanto, si rivolge non solo agli operatori di protocollo, ma, in generale, a tutti i dipendenti e ai soggetti esterni che si relazionano con l'amministrazione. 
+Obiettivo del Manuale di gestione è descrivere sia il sistema di gestione documentale a partire dalla fase di protocollazione della corrispondenza in ingresso e in uscita e di quella interna, sia le funzionalità disponibili per gli addetti al servizio e per i soggetti esterni che a diverso titolo interagiscono con l'amministrazione. Il protocollo informatico, anche con le sue funzionalità minime, costituisce l'infrastruttura di base tecnico-funzionale su cui avviare il processo di ammodernamento e di trasparenza dell'attività dell'amministrazione provinciale. Il manuale è destinato alla più ampia diffusione interna ed esterna, in quanto fornisce le istruzioni complete per eseguire correttamente le operazioni di formazione, registrazione, classificazione, fascicolazione e archiviazione dei documenti. Il presente documento, pertanto, si rivolge non solo agli operatori di protocollo, ma, in generale, a tutti i dipendenti e ai soggetti esterni che si relazionano con l'amministrazione.
 
 In un contesto in continua trasformazione, il manuale di gestione documentale deve essere
 sottoposto a continuo aggiornamento, in ragione dell’evoluzione tecnologica e dell’obsolescenza
 degli oggetti e degli strumenti digitali utilizzati. Allo stesso modo, anche i processi e le attività che
 governano la fase di formazione dei documenti informatici devono essere sottoposti ad un costante
 lavoro di valutazione, monitoraggio, riprogettazione e reingegnerizzazione. L’adozione del manuale
-di gestione documentale e del manuale di conservazione non risponde solo ad esigenze pratico -
-operative, ma rappresenta un preciso obbligo come specificato ai paragrafi 3.5 e 4.7, al quale per la
-PA fa seguito l’ulteriore obbligo della loro pubblicazione sul sito istituzionale dell’ente.
+di gestione documentale e del manuale di conservazione non risponde solo ad esigenze pratico-operative, ma rappresenta
+un preciso obbligo al quale fa seguito l’ulteriore obbligo della sua pubblicazione sul sito istituzionale dell’ente.
 
 Dal 2015 la Provincia di Teramo ha avviato un virtuoso percorso di digitalizzazione della gestione documentale
 con la digitalizzazione completa del protocollo e della formazione e gestione degli atti amministrativi. Nel 2022
@@ -41,8 +40,8 @@ transizione al digitale.
 
 .. _h3d1e67187810627b2b2e70483d3751f:
 
-1.2     Ambito di applicazione del manuale
-==========================================
+1.2. Ambito di applicazione del manuale
+=======================================
 
 Il presente manuale è adottato ai sensi delle \ |LINK_LG|\  del 2020 a cura dell’Agenzia per l’Italia Digitale (AGID) .
 
@@ -69,8 +68,8 @@ Il protocollo fa fede, anche con effetto giuridico, dell'effettivo ricevimento e
 
 .. _h1424b7b6874285a223211146d3a5021:
 
-1.2.2.  Quadro normativo di riferimento
----------------------------------------
+1.2.1. Quadro normativo di riferimento
+--------------------------------------
 
 Di seguito sono riportate le disposizioni normative che disciplinano l’ambito tematico della
 gestione dei flussi documentali:
@@ -118,8 +117,8 @@ In ambito digitale gli obblighi di pubblicazione di atti e provvedimenti amminis
 
 .. _h517916676f295d5236d37251515c1a:
 
-1.3       Definizioni e acronimi
-================================
+1.3. Definizioni e acronimi
+===========================
 
 Ai fini del presente manuale si intende per:
 
@@ -169,8 +168,8 @@ Per le norme ed i regolamenti di riferimento vedasi l'elenco riportato nell'\ |S
 
 .. _h216946b6a4f2014785e4527a454b3:
 
-1.4    Area Organizzativa Omogenea e modello organizzativo adottato
-===================================================================
+1.4. Area Organizzativa Omogenea e modello organizzativo adottato
+=================================================================
 
 Per la gestione dei documenti l’Amministrazione ha individuato ed istituito un’unica Area
 Organizzativa Omogenea (AOO) denominata “\ |STYLE31|\ ” che è l’insieme degli uffici, considerati ai
@@ -185,15 +184,15 @@ uffici, cui sono attribuite funzioni con specifiche competenze amministrative, c
 
 .. _h17307d72325ab1910243e6544184b7c:
 
-1.5 La struttura
-================
+1.5. La struttura
+=================
 
 Nella AOO è istituito il servizio per la tenuta del protocollo informatico, la gestione dei flussi documentali e degli archivi (SdP).
 
 .. _par_1_5_1:
 
-1.5.1 Ufficio per la tenuta del Protocollo informatico, dei flussi documentali e degli archivi
-----------------------------------------------------------------------------------------------
+1.5.1. Ufficio per la tenuta del Protocollo informatico, dei flussi documentali e degli archivi
+-----------------------------------------------------------------------------------------------
 Il suddetto servizio provvede alla gestione di tutta la posta in arrivo, eccezionalmente della posta in partenza,
 e degli archivi (art. 61, comma 1, testo unico).
 
@@ -223,8 +222,8 @@ impedimento al Vicario che lo sostituisce, sono assegnati i seguenti compiti:
 
 * vigilare sull’osservanza delle disposizioni del presente testo unico da parte del personale autorizzato e degli incaricati.
 
-1.5.2 Operatore dell’Ufficio Archivio e Protocollo informatico
---------------------------------------------------------------
+1.5.2. Operatore dell’Ufficio Archivio e Protocollo informatico
+---------------------------------------------------------------
 
 E’ l’operatore, assegnato all’Ufficio Archivio e Protocollo informatico, che esegue le
 registrazioni di tutti i documenti in arrivo nonché la gestione archivistica di propria competenza, ed
@@ -235,8 +234,8 @@ due attività sono gestite al momento della registrazione del documento.
 Gli operatori dell’Ufficio Archivio e Protocollo informatico pubblicano all’Albo online dell’Ente
 quanto di loro competenza.
 
-1.5.3 Operatore di protocollo
------------------------------
+1.5.3. Operatore di protocollo
+------------------------------
 
 Gli utenti dei singoli uffici accedono alla procedura di Gestione documentale, secondo i permessi e le autorizzazioni
 configurate sul sistema secondo le indicazioni di cui al paragrafo  :ref:`1.5.1<par_1_5_1>` .
@@ -244,8 +243,8 @@ configurate sul sistema secondo le indicazioni di cui al paragrafo  :ref:`1.5.1<
 Il Responsabile del servizio indicherà al Responsabile della Gestione Documentale sia il livello
 di accesso che le abilitazioni da assegnare all’utente.
 
-1.5.4 Protocollo informatico unico
-----------------------------------
+1.5.4. Protocollo informatico unico
+-----------------------------------
 
 La numerazione delle registrazione di protocollo è unica e progressiva nell’anno.
 
@@ -259,8 +258,8 @@ dall’uso del protocollo informatico a meno che gli stessi, privi di protocolla
 documentali particolari.
 
 
-1.6 Titolario di classificazione
-================================
+1.6. Titolario di classificazione
+=================================
 
 Con la gestione del Protocollo informatico è adottato un Titolario di classificazione (Allegato 2) a
 tre livelli (Titoli, Classi, Sottoclassi) atto ad organizzare in maniera funzionale, gerarchica ed
@@ -274,22 +273,22 @@ responsabile al quale sono state attribuite le nuove funzioni e competenze.
 
 .. _h631927131567243634331e9466171:
 
-1.7    Firma digitale
-=====================
+1.7. Firma digitale
+===================
 
 Per l'espletamento delle attività istituzionali e per quelle connesse all’attuazione delle norme di gestione del protocollo informatico e di gestione documentale, l'Amministrazione fornisce la firma digitale o elettronica qualificata ai soggetti da essa delegati a rappresentarla.
 
 .. _h339327e347c421a53523a295c2c6335:
 
-1.8     Tutela dei dati personali
-=================================
+1.8. Tutela dei dati personali
+==============================
 
 L'Amministrazione titolare dei dati di protocollo e dei dati personali, comuni, sensibili e/o giudiziari, contenuti nella documentazione amministrativa di propria competenza ottempera al dettato del regolamento UE GDPR n. 2016/679.
 
 .. _h7f16362e7c3c515515c127550256451:
 
-1.9    Caselle di Posta Elettronica
-===================================
+1.9. Caselle di Posta Elettronica
+=================================
 
 L'AOO si è dotata di una casella di posta elettronica certificata istituzionale per la corrispondenza, sia in ingresso che in uscita pubblicata sulla home page del sito internet istituzionale. Tale casella costituisce l'indirizzo virtuale della AOO e di tutti gli uffici (UOR) che ad essa fanno riferimento ed è collegata al SdP.
 
@@ -297,8 +296,8 @@ L'Amministrazione munisce i propri dipendenti di una casella di posta elettronic
 
 .. _h25161a3b6e57167716791b3c392f:
 
-1.10   Formazione
-=================
+1.10. Formazione
+================
 
 Nell'ambito dei piani formativi richiesti a tutte le amministrazioni sulla formazione e la valorizzazione del personale delle pubbliche amministrazioni, l'Amministrazione deve garantire percorsi formativi specifici e generali che coinvolgono tutte le figure professionali con specifico riferimento:
 
@@ -312,8 +311,8 @@ Nell'ambito dei piani formativi richiesti a tutte le amministrazioni sulla forma
 
 .. _h4d1c212b72d261e3d4b5f3d377643:
 
-1.12 Dematerializzazione dei procedimenti amministrativi della AOO
-==================================================================
+1.11. Dematerializzazione dei procedimenti amministrativi della AOO
+===================================================================
 
 L’amministrazione ha avviato procedure tali da consentire, in coerenza con le disposizioni normative e regolamentari in materia (con particolare riferimento alle \ |LINK12|\ ), che nella AOO siano prodotti, gestiti, inviati e conservati solo documenti informatici.
 

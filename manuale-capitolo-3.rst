@@ -15,6 +15,7 @@ Ai sensi dell'articolo 22 comma 1, lett. d della Legge n.241/1990, per documento
 
 Nell'ambito del processo di gestione documentale, il documento amministrativo, in
 termini operativi, è così classificabile:
+
 * ricevuto;
 
 * inviato;
@@ -79,6 +80,7 @@ certificato qualificato del sottoscrittore, sono valide se alle stesse è associ
 in un momento precedente alla scadenza, revoca o sospensione del suddetto certificato.
 
 Le norme di riferimento applicabili sono le seguenti:
+
 * art. 24, comma 3 del CAD che specifica che per la generazione della firma digitale deve adoperarsi un certificato che, al momento della sottoscrizione, non risulti scaduto, revocato o sospeso, introducendo di fatto la necessità, per un documento firmato digitalmente, di essere associato ad una data che attesti la sua esistenza in quel momento, quello che viene indicato come riferimento temporale;
 
 * art. 24, comma 4-bis del CAD, che stabilisce che la firma di un documento con certificato scaduto, revocato o sospeso, equivale a mancata sottoscrizione;
@@ -95,7 +97,7 @@ Le norme di riferimento applicabili sono le seguenti:
 
   - il riferimento temporale contenuto nella segnatura di protocollo;
 
-  - il riferimento temporale ottenuto tramite la procedura di conservazione a norma
+  - il riferimento tempora  le ottenuto tramite la procedura di conservazione a norma
 
   - il riferimento temporale ottenuto tramite l’utilizzo della PEC
 
@@ -109,14 +111,14 @@ requisito se sottoscritti con firma elettronica avanzata qualificata. Si precisa
 .. _redazione_formazione_documento_informatico:
 
 3.2. Redazione/formazione del documento informatico
-==================================================
+===================================================
 
 Il contenuto del presente paragrafo si applica, salvo ove diversamente specificato, ai soggetti di cui all'art. 2 commi 2 e 3 del CAD.
 
 .. _formazione_documento_informatico:
 
 3.2.1. Formazione dei documenti informatici
-------------------------------------------
+-------------------------------------------
 
 Il documento informatico è formato mediante una delle seguenti modalità:
 
@@ -224,7 +226,6 @@ Per tale motivo, sono considerati utilizzabili i seguenti formati standard:
 
   - Open Office XML (OOXML): la suite di applicativi Microsoft Office, dalla versione 2007 in poi, utilizza un formato di file unico per i suoi applicativi principali, chiamato Open Office XML. L’estensione del documento compresso per gli impaginati normali è **.docx**. Si consiglia la produzione di documenti con il profilo Strict, che è più restrittivo ma consente di eliminare alcune estensioni “proprietarie” che possono ridurre l’interoperabilità del formato stesso
 
-
 * **Fogli di calcolo e presentazioni multimediali**: si raccomanda la produzione di fogli di calcolo e presentazioni multimediali in formati aperti e consistenti con gli applicativi “da ufficio” più diffusi sul territorio nazionale e comunitario: in particolare, si individua nei formati derivati da OOXML (profilo Strict) e da OpenDocument le alternative più valide. (rif. paragrafo 2.5 allegato 2 "|LINK_ALL2|" delle |LINK_LG|)
 
   - SpreadsheetML OOXML Extension (estensione **.xlsx**): è stato introdotto con la versione 2007 di Microsoft Office, ma è compatibile con moltissimi altri applicativi. L’unico profilo raccomandato di OOXML per SpreadsheetML è Strict.
@@ -281,6 +282,10 @@ Per tale motivo, sono considerati utilizzabili i seguenti formati standard:
 
 * **Posta Elettronica**: Electronic Mail Format (EML / RFC 2822/MIME).
 
+* **Applicazioni crittografiche**:
+
+  - .p7m (documenti firmati digitalmente con sottoscrizione di tipo CADES e a condizione che i file originali oggetto di sottoscrizione digitale siano prodotti in uno dei formati previsti nel presente elenco).
+
 * **Documenti amministrativi** (rif. paragrafo 2.14 allegato 2 "|LINK_ALL2|" delle |LINK_LG|): sono elencati di seguito alcuni formati di file utilizzati per documenti amministrativi di utilizzo generale, da parte della Pubblica Amministrazione e di altri enti, su tutto il territorio nazionale. Questa sezione andrebbe aggiornata in caso di rilevazione di nuovi formati di interoperabilità da parte dell'Ente.
 
   - fattura elettronica FatturaPA (estensione **.xml**);
@@ -323,8 +328,8 @@ d'appartenenza.
 
 .. _metadati:
 
-3.4 Medatati
-============
+3.4. Medatati
+=============
 
 La codifica dell’informazione digitale, a differenza di altre, non è mai né auto-sufficiente né auto-esplicativa, ma deve sempre e necessariamente documentare se stessa al livello minimo del singolo atomo di informazione, aggiungendo al dato/contenuto vero e proprio molte informazioni necessarie per la decodifica, l’identificazione, il recupero, l’accesso e l’uso6.
 
@@ -437,17 +442,17 @@ Pertanto, tutti i documenti su cui vengono apposti manualmente dati di registraz
 
 Le risorse strumentali e le procedure utilizzate per la formazione dei documenti informatici garantiscono:
 
-  * l’identificabilità del soggetto che ha formato il documento e l’AOO di riferimento;
+* l’identificabilità del soggetto che ha formato il documento e l’AOO di riferimento;
 
-  * la sottoscrizione dei documenti informatici, quando prescritta, con firma elettronica qualificata ai sensi delle vigenti norme tecniche;
+* la sottoscrizione dei documenti informatici, quando prescritta, con firma elettronica qualificata ai sensi delle vigenti norme tecniche;
 
-  * l’idoneità dei documenti ad essere gestiti mediante strumenti informatici e ad essere registrati mediante il protocollo informatico;
+* l’idoneità dei documenti ad essere gestiti mediante strumenti informatici e ad essere registrati mediante il protocollo informatico;
 
-  * l’accesso ai documenti informatici tramite sistemi informativi automatizzati;
+* l’accesso ai documenti informatici tramite sistemi informativi automatizzati;
 
-  * la leggibilità dei documenti nel tempo;
+* la leggibilità dei documenti nel tempo;
 
-  * l’interscambiabilità dei documenti all’interno della stessa AOO e con AOO diverse.
+* l’interscambiabilità dei documenti all’interno della stessa AOO e con AOO diverse.
 
 I documenti informatici redatti dall’AOO con i prodotti d’automazione ufficio sono convertiti (prodotti), prima della loro sottoscrizione con firma digitale, nei formati standard indicati dall’allegato 2 "|LINK_ALL2|" delle |LINK_LG|, al fine di garantire la leggibilità per altri sistemi, la non alterabilità durante le fasi di accesso e conservazione e l’immutabilità nel tempo del contenuto e della struttura del documento.
 

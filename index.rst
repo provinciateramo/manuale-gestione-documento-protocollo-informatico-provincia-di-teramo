@@ -30,7 +30,7 @@ Il manuale qui illustrato è stato adattato alle esigenze della Provincia di Ter
 
 ..  Important:: 
 
-    La presente versione di Manuale va integra e rispetta le \ |LINK5|\  redatte \ |LINK4|\ ,(linee guida pubblicate in \ |LINK6|\ ).
+    La presente versione di Manuale integra e rispetta le \ |LINK5|\  redatte \ |LINK4|\ ,(linee guida pubblicate in \ |LINK6|\ ).
 
 
 ..  Warning:: 
