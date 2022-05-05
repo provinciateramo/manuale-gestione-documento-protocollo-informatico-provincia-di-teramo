@@ -1,8 +1,8 @@
 
 .. _h64743704307b737842633c631d643:
 
-10-  Sistema di classificazione, fascicolazione e archiviazione dei documenti 
-******************************************************************************
+5. Sistema di classificazione, fascicolazione e archiviazione dei documenti
+***************************************************************************
 
 .. _h37742a667949111b4550306b6643227:
 
@@ -18,7 +18,7 @@ II presente capitolo descrive il sistema di classificazione dei documenti, di fo
 
 La classificazione dei documenti, destinata a realizzare una corretta organizzazione dei documenti nell'archivio, è obbligatoria per legge e si avvale del piano di classificazione (titolario, disponibile come elenco \ |STYLE0|\ \ |LINK1|\  del presente manuale). 
 
-Con il sistema di protocollo informatico, il Comune si avvale del \ |LINK2|\ , e redatto dal “Gruppo di lavoro per la formulazione di proposte e modelli per la riorganizzazione dell’archivio dei Comuni”, edizione dicembre 2005.
+Con il sistema di protocollo informatico, la Provincia si avvale del \ |LINK2|\ , e redatto dal “Gruppo di lavoro per la formulazione di proposte e modelli per la riorganizzazione dell’archivio dei Comuni”, edizione dicembre 2005.
 
 .. _h6d786f26596e57456a284f1d14677d74:
 
