@@ -6,24 +6,25 @@
 
 .. _h37742a667949111b4550306b6643227:
 
-10.1   Protezione e conservazione degli archivi pubblici 
-=========================================================
+5.1. Protezione e conservazione degli archivi pubblici
+======================================================
 
 .. _h597f5c63585ed3e794c502d316d4447:
 
-10.1.1    Caratteristiche generali
-----------------------------------
+5.1.1. Caratteristiche generali
+-------------------------------
 
-II presente capitolo descrive il sistema di classificazione dei documenti, di formazione del fascicolo e di archiviazione dei documenti, con l'indicazione dei tempi e delle modalità di aggiornamento, dei criteri e delle regole di selezione della documentazione,  anche con riferimento all'uso di supporti sostitutivi e di consultazione e movimentazione dei fascicoli.
+II presente capitolo descrive il sistema di classificazione dei documenti, di formazione del fascicolo e di archiviazione dei documenti,
+con l'indicazione dei tempi e delle modalità di aggiornamento, dei criteri e delle regole di selezione della documentazione,
+anche con riferimento all'uso di supporti sostitutivi e di consultazione e movimentazione dei fascicoli.
 
-La classificazione dei documenti, destinata a realizzare una corretta organizzazione dei documenti nell'archivio, è obbligatoria per legge e si avvale del piano di classificazione (titolario, disponibile come elenco \ |STYLE0|\ \ |LINK1|\  del presente manuale). 
-
-Con il sistema di protocollo informatico, la Provincia si avvale del \ |LINK2|\ , e redatto dal “Gruppo di lavoro per la formulazione di proposte e modelli per la riorganizzazione dell’archivio dei Comuni”, edizione dicembre 2005.
+La classificazione dei documenti, destinata a realizzare una corretta organizzazione dei documenti nell'archivio,
+è obbligatoria per legge (par. 3.2 delle |LINK_LG| e si avvale del piano di classificazione (titolario, disponibile come elenco \ |STYLE0|\ \ |LINK1|\  del presente manuale).
 
 .. _h6d786f26596e57456a284f1d14677d74:
 
-10.1.2   Misure di protezione e conservazione degli archivi pubblici 
----------------------------------------------------------------------
+5.1.2. Misure di protezione e conservazione degli archivi pubblici
+------------------------------------------------------------------
 
 Gli archivi e i singoli documenti dello Stato, delle regioni e degli enti pubblici locali sono beni culturali inalienabili. 
 
@@ -31,21 +32,24 @@ I singoli documenti sopra richiamati (analogici ed informatici, ricevuti, spedit
 
 L'archivio non può essere smembrato, e deve essere conservato nella sua organicità. 
 
-Lo spostamento degli archivi correnti non è soggetto ad autorizzazione, ma deve essere comunicato alla Soprintendenza Archivistica e Bibliografica della Regione Siciliana, per consentirle la funzione di vigilanza sul bene.
+Lo spostamento degli archivi correnti non è soggetto ad autorizzazione, ma deve essere comunicato alla Soprintendenza Archivistica e Bibliografica della Regione Abruzzo, per consentirle la funzione di vigilanza sul bene.
 
 Per l'archiviazione e la custodia nella sezione di deposito, o storica, dei documenti contenenti dati personali, si applicano le disposizioni di legge sulla tutela della riservatezza dei dati personali, sia che si tratti di supporti informatici che di supporti convenzionali. 
 
 .. _h636080533d2a107122395f68b61303a:
 
-10.2   Titolario o piano di classificazione 
-============================================
+5.2. Titolario o piano di classificazione
+=========================================
+
+La classificazione è effettuata sulla base del Titolario allegato che l’ente ha adottato per
+strutturare, in uno schema gerarchico (titoli, classi e sottoclassi), le proprie competenze funzionali e
+conseguentemente le attività amministrative che gli sono attribuite e che esso svolge in ragione dei
+propri compiti istituzionali.
 
 .. _h94273172c2062377b5562752353582c:
 
-10.2.1   Titolario 
--------------------
-
-II piano di classificazione è lo schema logico utilizzato per organizzare i documenti d'archivio in base alle funzioni e alle materie di competenza dell'ente. 
+5.2.1. Titolario
+---------------
 
 Il piano di classificazione si suddivide, di norma, in titoli, classi, sottoclassi, o, più in generale, in voci di I, II e III livello. 
 
@@ -65,8 +69,8 @@ Ogni variazione entra in vigore il 1° Gennaio di ogni anno salvo esigenze parti
 
 .. _h73364e63402019376f635c759582967:
 
-10.2.2   Classificazione dei documenti 
----------------------------------------
+5.2.2. Classificazione dei documenti
+------------------------------------
 
 La classificazione è l'operazione finalizzata all'organizzazione dei documenti, secondo un ordinamento logico, in relazione alle funzioni e alle competenze della AOO.
 
@@ -78,34 +82,85 @@ All'interno del software di protocollo informatico è stata attivata l'inibizion
 
 .. _h713a217a184472124635447e31b4e29:
 
-10.3. Fascicoli
-===============
+5.3. Fascicoli
+==============
 
 .. _h6c4f9162b126b7e646e701870652d9:
 
-10.3.1 Fascicolazione dei documenti 
-------------------------------------
+5.3.1 Fascicolazione dei documenti
+----------------------------------
 
-Il sistema fascicolazione elettronica è in corso di attuazione.
+Il fascicolo è il componente fondamentale dell’unità archivistica. Ogni fascicolo contie-
+ne documenti, indipendentemente dal supporto sul quale sono formati, che rineriscono a uno stesso affare, attività o procedimento e sono classificati
+in maniera omogenea, in base al contenuto e secondo il grado divisionale attribuito dal tito-
+lario (o piano di classificazione). Pertanto il fascicolo può anche essere definito come
+un’aggregazione documentale informatica.
 
-I documenti prodotti o ricevuti dall’Amministrazione, indipendentemente dal supporto sul quale sono formati, sono di norma riuniti in fascicoli. L’operazione viene effettuata dal soggetto che gestisce la pratica. I documenti sono archiviati all’interno di ciascun fascicolo secondo l’ordine cronologico di registrazione. Se il documento ha degli allegati, questi debbono rimanere uniti al documento cui si riferiscono. 
+All’interno di ciascun fascicolo i documenti sono inseriti secondo l’ordine cronologico
+di protocollazione, di numerazione o di creazione (il fascicolo, per sua completezza, può contenere documenti non protocollati)
+e la loro sedimentazione avviene in modo tale che si individui subito il
+documento più recente. L’ordine cronologico di sedimentazione è rispettato anche
+all’interno dei sottofascicoli, se istruiti.
+La corretta tenuta del fascicolo garantisce sia la sedimentazione che l’esercizio del dirit-
+to di accesso.
 
-Il fascicolo, per sua completezza, può contenere documenti non protocollati. 
+Ogni fascicolo è identificato con un codice numerico composto di tre elementi, l’anno di apertura, l’indice di
+classificazione e il numero progressivo del fascicolo.
 
-Qualora insorgano esigenze pratiche il fascicolo può essere distinto in sottofascicoli. Ciascun ufficio ha la visibilità solo dei propri fascicoli e dei documenti relativi. Il sistema comunque consente la condivisione di uno stesso fascicolo, qualora ve ne sia la necessità o l’opportunità e previa richiesta all’ufficio titolare dei documenti. E’ quindi possibile che in relazione allo stesso “affare” vi siano più fascicoli (es. il fascicolo del progetto, il fascicolo della gara, il fascicolo relativo all’esecuzione), o anche più sotto-fascicoli. 
+Qualora insorgano esigenze pratiche il fascicolo può essere distinto in sottofascicoli. Ciascun ufficio ha la visibilità
+solo dei propri fascicoli e dei documenti relativi. Il sistema comunque consente la condivisione di uno stesso fascicolo,
+qualora ve ne sia la necessità o l’opportunità e previa richiesta all’ufficio titolare dei documenti.
 
-I fascicoli di distinguono in : 
+E’ quindi possibile che in relazione allo stesso “affare” vi siano più fascicoli
+(es. il fascicolo del progetto, il fascicolo della gara, il fascicolo relativo all’esecuzione), o anche più sotto-fascicoli.
 
-* fascicoli relativi ad affari o procedimenti amministrativi; 
+Il sottofascicolo può essere chiuso prima del fascicolo, ma non viceversa, in quanto di
+norma trattasi di un subprocedimento o di un endoprocedimento.
 
-* fascicoli relativi a persone fisiche o giuridiche (ad esempio: personale dipendente, associazioni, attività economiche ecc.).
+E’ importante considerare che il fascicolo può essere a carattere temporale (es. annuale)
+oppure a carattere permanente. Nel primo caso l’intervallo di validità è il periodo di riferi-
+mento (es. l’anno), nel secondo, invece, il periodo di validità deve essere determinato.
 
 .. _h245d192b33456d47392747c67103541:
 
-10.3.2     Apertura e chiusura dei fascicoli dei fascicoli
-----------------------------------------------------------
+5.3.2. Fascicoli cartacei, elettronici ed ibridi
+------------------------------------------------
+Considerata la natura eterogenea e temporale della attività amministrativa nell'Amministrazione potrebbero essere presenti le seguenti tipologie di fascicoli:
 
-Il Comune procederà all’apertura dei nuovi fascicoli con mezzi informatici (fascicolo elettronico) secondo le disposizioni di seguito descritte. Tali fascicoli conterranno principalmente documenti informatici ed eventualmente documenti creati su supporto cartaceo previa scannerizzazione. Tuttavia, ad oggi resteranno cartacei quei fascicoli (o sotto-fascicoli) destinati a contenere notevoli quantità di originali cartacei dalla cui scannerizzazione non derivi un effettivo beneficio per la gestione della pratica. Ogni ufficio valuterà l’effettiva utilità e necessità della scannerizzazione ai fini della completezza del fascicolo elettronico, fermo restando che solo la presenza di documentazione cartacea delle tipologie suddette esime dalla scannerizzazione della documentazione pervenuta. I fascicoli verranno aperti al momento in cui se ne ravvisi la necessità ossia in genere all’arrivo del documento. Il fascicolo verrà aperto direttamente su una voce di classificazione (al livello adeguato secondo il suo contenuto). I fascicoli potranno avere durata annuale nel caso in cui si riferiscano ad attività amministrativa semplice non discrezionale e ripetitiva, che si esaurisca in risposte obbligate o meri adempimenti; se  destinati a contenere atti relativi ad una certa pratica, indipendentemente dalla sua durata, resteranno aperti fino a quando la pratica non sarà conclusa. 
+* Cartacei: sono definiti tali i fascicoli composti da documenti cartacei;
+
+* Informatici: sono definiti tali i fascicoli composti solo da documenti informatici e sono accessibili tramite la procedura del protocollo informatico.
+
+* Ibridi: sono i fascicoli composti sia da documenti cartacei che informatici, per avere una visione completa degli stessi occorre quindi fare riferimento sia alla parte cartacea che a quella digitale.
+
+
+5.3.3. Apertura e chiusura dei fascicoli
+----------------------------------------
+
+L'Amministrazione procederà all’apertura dei nuovi fascicoli con mezzi informatici (fascicolo informatico) secondo le disposizioni di seguito descritte. Tali fascicoli conterranno principalmente documenti informatici ed eventualmente documenti creati su supporto cartaceo previa scannerizzazione. Tuttavia, ad oggi resteranno cartacei quei fascicoli già in essere (o sotto-fascicoli) destinati a contenere notevoli quantità di originali cartacei dalla cui scannerizzazione non derivi un effettivo beneficio per la gestione della pratica. Ogni ufficio valuterà l’effettiva utilità e necessità della scannerizzazione ai fini della completezza del fascicolo informatico, fermo restando che solo la presenza di documentazione cartacea delle tipologie suddette esime dalla scannerizzazione della documentazione pervenuta.
+
+Il fascicolo informatico è creato dal responsabile del procedimento o da una persona
+incaricata all’interno del sistema di gestione documentale ed è visualizzabile con possibilità
+di intervento da parte degli utenti abilitati.
+Istruendo i fascicoli, è necessario evitare la frammentazione delle pratiche,
+l’accorpamento eccessivo di documenti all’interno della stessa unità, la tendenza a costituire
+fascicoli intestati ai destinatari invece che basati sull’analisi di processi e funzioni.
+Se necessario, i fascicoli possono essere rinominati attraverso una specifica procedura o
+servizio.
+Se il contenuto è costituito da documenti esclusivamente informatici questa attività è
+sufficiente; se è costituito da documenti informatici e documenti cartacei bisogna rinomina-
+re anche il fascicolo cartaceo e i relativi sottofascicoli.
+Il fascicolo informatico in un sistema totalmente digitale garantisce la possibilità di es-
+sere direttamente consultato e alimentato dalle Amministrazioni coinvolte nel procedimen-
+to. Le regole per l’istruzione, l’identificazione e l’utilizzo del fascicolo sono conformi ai
+principi di una corretta gestione documentale e alla disciplina della formazione, gestione,
+trasmissione e conservazione del documento informatico.
+I fascicoli informatici saranno trasferiti in conservazione, mediante pacchetto di versa-
+mento, a cura del Coordinatore/Responsabile della gestione documentale o dal suo vicario
+dopo la loro chiusura, nelle modalità previste dal Manuale di conservazione.
+
+
+I fascicoli potranno avere durata annuale nel caso in cui si riferiscano ad attività amministrativa semplice non discrezionale e ripetitiva, che si esaurisca in risposte obbligate o meri adempimenti; se  destinati a contenere atti relativi ad una certa pratica, indipendentemente dalla sua durata, resteranno aperti fino a quando la pratica non sarà conclusa.
 
 La data di chiusura corrisponderà alla data dell’ultimo documento inserito. Esso sarà archiviato rispettando l’ordine di classificazione e la data della sua chiusura. Gli elementi che individuano un fascicolo saranno  gestiti dall’RPA, il quale sarà  tenuto anche all’aggiornamento del repertorio dei propri fascicoli. 
 
@@ -303,19 +358,26 @@ La consultazione da utenti esterni all'Amministrazione, è disciplinata regolame
 .. |STYLE5| replace:: **archivio storico**
 
 
-.. |LINK1| raw:: html
+.. |LINK_LG| raw:: html
 
-    <a href="https://manuale-gestione-protocollo-documento-informatico-palermo.readthedocs.io/it/latest/manuale-allegato-4.html" target="_blank">allegato 4</a>
+    <a href="https://www.agid.gov.it/piattaforme/sistema-gestione-procedimenti-amministrativi/flussi-documentali-protocollo-informatico" target="_blank">Linee guida sulla formazione, gestione e conservazione dei documenti informatici</a>
 
-.. |LINK2| raw:: html
+.. |LINK_ALL1| raw:: html
 
-    <a href="https://www.agid.gov.it/piattaforme/sistema-gestione-procedimenti-amministrativi/flussi-documentali-protocollo-informatico" target="_blank">Titolario dell’Agenzia per l’Italia Digitale per i comuni, denominato “Piano di classificazione (= Titolario) per gli archivi dei Comuni italiani (seconda edizione)”</a>
+    <a href="https://www.agid.gov.it/sites/default/files/repository_files/allegato_1_glossario_dei_termini_e_degli_acronimi.pdf" target="_blank">Glossario dei termini e degli acronimi</a>
 
-.. |LINK3| raw:: html
+.. |LINK_ALL2| raw:: html
 
-    <a href="https://manuale-gestione-protocollo-documento-informatico-palermo.readthedocs.io/it/latest/manuale-allegato-4.html" target="_blank">allegato 4</a>
+    <a href="https://www.agid.gov.it/sites/default/files/repository_files/allegato_2_formati_di_file_e_riversamento.pdf" target="_blank">Formati di file e riversamento</a>
 
-.. |LINK4| raw:: html
+.. |LINK_ALL5| raw:: html
 
-    <a href="http://bit.ly/manuale-capitolo-10" target="_blank">http://bit.ly/manuale-capitolo-10</a>
+    <a href="https://www.agid.gov.it/sites/default/files/repository_files/all.5_metadati.pdf" target="_blank">Metadati</a>
 
+.. |LINK_ALL6| raw:: html
+
+    <a href="https://www.agid.gov.it/sites/default/files/repository_files/all.6_comunicazione_tra_aoo_di_documenti_amministrativi_protocollati.pdf" target="_blank">Comunicazione tra AOO di documenti amministrativi protocollati</a>
+
+.. |LINK13| raw:: html
+
+    <a href="https://www.agid.gov.it/sites/default/files/repository_files/documenti_indirizzo/istruzioni_per_la_produzione_e_conservazione_registro_giornaliero_di_protocollo.pdf" target="_blank">Istruzioni per la produzione e conservazione del registro giornaliero di protocollo</a>
